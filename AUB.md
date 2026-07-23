@@ -1,333 +1,248 @@
-AGM.
-ATIS.
-AkaGraTra.
-AKM,
-AL,
-ALS.
-AMS.
+<!-- provenance: engine=tesseract-5.5.0.20241111 eng+san; pipeline=run_ocr.py v2; source=AUB.pdf; date=2026-07-23 -->
+# AUB.pdf
+
+## Page 1
+
+`AGM.` Acyutagranthamala, Benares.
+`ATIS.` American Institute of Indian Studie
+`AkaGraTra.` Akalankagranthatraya.
+`AKM.,` Abbandlungen fiir die Kunde des
+`AL.` Adyar Library, Madras,
+`ALS.` Adyar. Library Series, Madras.
+`AMS.` Advaitamafijari Series, Kumbhakon:
 AnekaRa-
-„भी.
-AOR.
-AOS.
-ASS.
-*AstadU.*
-AUPS,
-AUS.
-AUSS.
-AVGM.
-AVSS.
-BB.
-BOSJS.
-BhaNaCa,
-BHUDS,
-BI.
-BUI.
-BJP.
-BISS.
-BMS.
-BMSS.
-BORI.
-BORS.
-BP.
-BS.
-BSC.
-BSGW.
-BS(P)S.
-BSS.
-BSSP.
-BST,
-BSY.
-BVB.
-(पाण.
-188.
-OOS,
-CP.
-(18058.
-OSS,
-DBGM..
-
-ABBREVIATIONS USED
-Acyutagranthamala, Benares.
-American Institute *of* Indian Studies, Poona.
-Akalankagranthatraya
-Abhandlungen fiir die Kunde des Morgenlandes,
+`AOR.` Annals of Oriental Research, Univer:
+`AOS.` American Oriental Series, New Hav
+`ASS.` Anandagrama Sanskrit Series, Poon:
+`AstadU.` Astadaga Upanisadah,
+`AUPS,` Annamalai University Philosophy
+`AUS.` Andhra University Series, Waltier.
+`AUSS.` Annamalai University Sanskrit
+`AVGM.` Ayurvediyagranthamala, Bombay.
+`AVSS.` Atmavallabha Sarskriagrantha Seri
+`BB.` Bibliotheca Buddhica, Leningrad.
+`BCSJS.` Building Centenary and Silver
+`BhaNaCa,` Bhasanatakacakra,
+`BHUDS.` Banaras Hindu University Dargana
+`BI.` Bibliotheca Indica, Calcutta.
+`BUI.` Sheth Bholabhai Jeshingbhai Institut
+`BJP.` Bharatiya Jfianapitha, Banaras,
+`BSS.` Bhupendrasuri Jaina Sahitya Samiti
+`BMSS.` Bharateemandiram Sanskrit Series,
+`BORI.` Bhandarkar Oriental Research Insti
+`BORS.` Bihar and ‘Orissa Research Society,
+`BSC.` Benares Sanskrit College, Benares,
+`BSGW.` Berichte iiber die Verhandlungen
+`BS(P)S.` Bombay Sanskrit and Prakrit Ser
+`BSS.` Benares Sanskrit Series, Benares.
+`BSSP.` Benarasidas Sundarlal Sanskrita
+`BST.` Buddhist Sanskrit Texts, Darbhanga
+`BSV,` Bharatiya Samskriti Vidyamandir, A
+`BVB.` Bharatiya Vidya Bhavan, Bombay.
+`CHLT.` Collection of Hindu Law Texts, Poo:
+`Chss.` Chowkhamba Sanskrit Series, Benar
+`09.` Calcutta Oriental Series, Calcutta.
+`OP,` Chitrashala Press, Poona.
+`‘CSCRS.` Calcutta Sanskrit College Research 86
+`‘OSS,` Calcutta Sanskrit Series, Calcutta,
+`DBGM.,.` Dakshina Bharati Granthamala’ Seri
+ABBREVIA1
 Leipzig.
-Adyar Library, Madras,
-Adyar. Library Series, Madras.
-Advaitamafijari Series, Kumbhakonam,
 Anekartharatnamaiijisa,
-Annals *of* Oriental Research, University *of* Madras,
-Madras
-American Oriental Series, New Haven.
-Anandagrama Sanskrit Series, Poona.
-Astadaga Upanisadah
-Annamalai University Philosophy Series, Anna-
-malainagar
-Andhra University Series, Waltier.
-Annamalai University Sanskrit Series, Anna-
-malainagar
-Ayurvediyagranthamala, Bombay.
-Atmavallabha Samskriagrantha Series, Ambala.
-Bibliotheca Buddhica, Leningrad.
-Building Centenary *and* Silver Jubilee Series,
+Madras.
+malainagar.
+malainagar.
 Deccan College, Poona.
-Bhasanatakacakra,
-Banaras Hindu University Dargana Series, Banaras,
-Bibliotheca Indica, Calcutta.
-Sheth Bholabhai Jeshingbhai Institute *of* Learning
-*and* Research, Ahmedabad.
-Bharatiya Jfianapitha, Banaras,
-Bhupendrasuri Jaina Sahitya Samiti, Ahor.
+and Research, Ahmedabad.
 Balamanorama Series, Madras.
-Bharateemandiram Sanskrit Series, Bombay.
-Bhandarkar Oriental Research Institute, Poona.
-Bihar *and* Orissa Research Society, Patna
-Balamanorama Press, Madras
-Bibliotheca Sanskrita, Government Oriental Libra-
-Publications, Mysore
-ary
-Benares Sanskrit College, Benares,
-Berichte iiber die Verhandlungen der Koéniglis-
-chen Siachsischen Gesellschaft der Wissenschaften,
-Leipzig
-Bombay Sanskrit (and Prakrit Series, Bombay
-Benares Sanskrit Series, Benares
-Benarasidas Sundarlal Sanskrita. Pustakalaya,
-Lahore
-Buddhist Sanskrit Texts, Darbhanga
-Bharatiya Samskriti Vidyamandir, Ahmedabad.
-Bharatiya Vidya Bhavan, Bombay.
-Collection *of* Hindu Law Texts, Poona.
-Chowkhamba Sanskrit Series, Benares.
-Calcutta Oriental Series, Calcutta.
-Chitrashala Press,
-Poona.
-Calcutta Sanskrit College Research Series, Calcutta.
-Calcutta Sanskrit Series, Calcutta
-Dakshina Bharati Granthamala Series, Madras
+Balamanorama Press, Madras.
+Bibliotheca Sanskrita, Government
+ary Publications, Mysore.
+chen Sichsischen Gesellschaft der
+Leipzig.
+Lahore..
 
-1.
-IN THE BIBLIOGRAPHY
-DOP(R)I. Deccan College Postgraduate *and* Research’ Insti--
-tute, Poona.
-DLIP. Devchand Lalbhai Jain Pustakoddhara’ Fund
-Series, Surat,
-DMGM.
-Dayananda Mahavidyalaya Sanskrit Granthamala,
-Lahore
-DUOP,
-Dacca University Oriental Publications’ Series,
-Dacca University, Dacca.
-ESP. Education Society's Press, Bombay.
-FSC, Free Sanskrit College, Calcutta,
-GGM. Gauda Granthamala, Rajshahi, Bengal.
-GKM. Ganapat Krishnaji Mudranalaya, Bombay,
-GOLS. Government Oriental Library Series, Mysore.
-GOS. Gaekwad’s Oriental Series, Baroda,
-Govt. Or,
-Government Oriental Series.
-Ser.
-GP. Gita Press, Gorakhpur.
-GPP, Gujarati Printing Press, Bombay.
-GPS, Grantha Pradarshani Series, Vizagapatnam.
-GRM. Grantharatnamala, Bombay.
-HADP. Hyderabad Archaeological Department Publi-
-cations, Hyderabad.
-HQ. Hindu Law Quarterly, Bombay.
-HM. Haritosamala, Bombay.
-HNB, Harikrishnanibandhabhavana, Benares,
-HOS. The Harvard Oriental Series, Cambridge,
-Massachusetts.
-HSs. Haridasa Sanskrit Series, Benares,
-HUP. Harvard University Press, Cambridge, Massa-
-chusetts, USA
-IFT. Publications: de Institut Frangais *d’* Indologie,
-Pondichery
-ITAS. Indian Institute *of* Astronomical *-and* Sanskrit
-Research, New Delhi.
--ITR. Indo-Iranian Reprints, Mouton Co., The Hague.
-TIS, Indo-Iranian Series, Columbia University, New
+`[TIONS USED IN THE BI` BLIOGRAPHY
+`DOP(R)I.` Deccan College Postgraduate and Research’ Insti--
+`es, Poona.` tute, Poona.
+`एन.` Devchand Lalbhai Jain Pustakoddhara’ Fund
+`010€012.00689` Series, Surat,
+`DMGM.` Dayananda Mahavidyalaya Sanskrit Granthamala,
+`DUOP,` Dacca University Oriental Publications’ Series,
+`am,` University,
+`ESP,` Education Society's Press, Bombay.
+`FSC.` Free Sanskrit College, Calcutta,
+`sity of Madras, GGM.` Gauda Granthamala, Rajshahi, Bengal.
+`जाप.` Ganapat Krishnaji Mudranalaya, Bombay,
+`ren. GOLS,` Government Oriental Library Series, Mysore.
+`2. GOS.` Gaekwad’s Oriental Series, Baroda,
+Govt. 01,
+Series, Anna- Ser.
+`GP.` Press, Gorakhpur.
+`GPP,` Gujarati Printing Press, Bombay.
+`Series, Anna- GPS.` Series, Vizagapatnam.
+`GRM.` Grantharatnamala, Bombay.
+`HADP.` Hyderabad Archaeological Department Publi-
+`es, Ambala,` cations, Hyderabad.
+`‘ubilee Series, HM.` Haritosamala, Bombay. धि
+`पक्र,` Harikrishnanibandhabhavana, Benares,
+`HOS.` The Harvard Oriental Series, Cambridge,
+`eries, Banaras,` Massachusetts,
+`HSS.` Haridasa Sanskrit Series, Benares,
+`te of Learning HUP.` Harvard University Press, Cambridge, Massar
+`Ahor.` Pondichery.
+`ITAS.` Indian Institute of Astronomical -and Sanskrit
+`Bombay.` Research, New Delhi.
+`tute, Poona. LTR.` Indo-Iranian Reprints, Mouton Co., The Hague.
+`Patna, TIS.` Indo-Iranian Series, Columbia University, New
+`Yriental Libra- isa VirnsU.` Iadivirngottaragatopanisad.
+`JAGM,` Jaina Atmanandagatabdigranthamala, Bhavnagar.
+`JAOS.` Journal of American Oriental Society, New Haven,
+`‘der Kénigliss JBRS,` Journal of the Bihar (and Orissa) Research
+`Vissenschaften, JBORS..` Society. oe
+`‘ies, Bombay.` Ahmedabad.
+`JOR.` Journal of Oriental Research, Madras.
+`Pustakalaya,. JPMJGM,` Jiianapitha Martidevi Jain Granthamala,
+`वि JPP.` Jainananda Printing Press, Surat.
+`Ahmedabad, JRI.` र. P. Jayaswal Research Institute, Patna,
+`JVB.` Jain Vidya Bhavan, Lahore.
+`na, JVS.` Journal of Vedic Studies, Lahore,
+eS, KalikaKa-
+`Sam,` a,
+`KM.` Kavyamala, Nirnayasagara Press, Bombay.
+`eries, Calcutta. KSS.` Kashi Sanskrit Series, Benares,
+`KSTS.` Kashmir Series of Texts and Studies, Srinagar.
+`es, Madras, KSVS,` Kendriya Samskrit Vidyapeetha Series,. Tirupati,
+gel
+Lahore.
+Dacca Dacca,
+Government Oriental Series,
+Gita
+Grantha Pradarshani
+Hindu Law Quarterly, Bombay.
+chusetts, USA. a
+Publications: de Institut Frangais d’ Indologie,
 York.
-Ka Vimsv, Wadivirsottaragatopanisad.
-JAGM, Jaina Atmanandagatabdigranthamala, Bhavnagar.
-JAOS. Journal *of* American Oriental Society, New Haven,
-JBRS, Journal *of* the Bihar (and Orissa) Research
-JBORS. Society.
-JKSK., Jain Kalasahitya Saméodhaka Karyalaya Series,
-Ahmedabad
-JOR, Journal *of* Oriental Research, Madras
-JPMJGM. Jfianapitha Martidevi Jain Granthamala,
-Banaras
-*JPP.* Jainananda Printing Press, Surat
-JRI. K. P. Jayaswal Research Institute, Patna,
-JVB. Jain Vidya Bhavan, Lahore.
-JVS., Journal *of* Vedic Studies, Lahore,
-KalikaKa-
+Jain Kalasahitya Saméodhaka Karyalaya Series,
+Banaras,
 Kalikaciryakathasarhgraha,
-Sarh,
-KM. Kavyamala, Nirnayasagara Press, Bombay,
-KSS, Kashi Sanskrit Series, Benares
-KSTS. Kashmir Series *of* Texts *and* Studies, Srinagar.
-KSVS, Kendriya Samskrit Vidyapeetha Series,. Tirupati,
 
+## Page 2
 
----
-
-LJL, The Library *of* Jaina Literature, Calcutta,
-LOS. London Oriental Series, London.
-LVP. Lakshmi Venkateshvara Press, Kalyan, Bombay.
-Madhavi-
-KamKan- Madhavanalakamakandaliprabandha. *..”'*
-Pra,
+LIL. The Library of Jaina Literature
+LOS. London Oriental Series, Londor
+LVP. Lakshmi Venkateshvara Press,
+Madhava-
+Kaman} Madhavanalakamakandalipraba
+Pra.
 MB, ‘Motilal Banarsidass, Delhi.
-MDJG, Manikachandra Digambara Jaina Granthamala,
-Bombay.
-MGGM.. Madhava Gaudeévara Granthamala, Mathura
-MGOMS. “Madras Government Oriental Manuscripts Series,
-Madras
-MGOS. Madras Government Oriental Series, Madras
-Misc, Works Miscellaneous Works
-MiscPra. Miscellaneous Prakaranas.
-MLSPS, Meharchand Lachhman Das Sanskrit *and* Prakrit:
+MDJG., Manikachandra Digambara J:
+Bombay,
+MGGM,... Madhava Gaudegvara Granthan
+MGOMS. Madras Government Oriental
+Madras.
+17608. िकतवा2ऽ Government Oriental
+Misc, Works. Miscellaneous Works,
+MiscPra. “Miscellaneous Prakaranas.
+MLSPS, Meharchand Lachhman Das
+हि
 Series, Lahore.
-MOS, Madras Oriental Series, Madras.
-Madras Sanskrit *and* Vernacular Text
-MSVTPS,. Publication,
-Society, Madras
-MU. Minor Upanisads
-MUSS, Madras University Sanskrit Series, Madras.
-NSP, Nirnaya Sagara Press, Bombay.
+MOS, Madras Oriental Series, Madra
+MSVTPS.. Madras Sanskrit and Vernacule
+a ‘Society, Madras,
+MU. ऋणः Upanisads.
+MUSS., Madras University Sanskrit Se
+‘NSP. Nirnaya Sagara Press, Bombay
 OBA, Oriental Book. Agency, Poona.
-OL Oriental Institute, Baroda.
-OLP. Oriental Library Publication, Sanskrit Series,
-_-University *of* Mysore, Mysore
-ORIP. Oriental Research Institute Publication, Mysore.
-OUP. Oxford University Press, London.
-OUSA, Osmania University Sanskrit Academy, Hyderabad,
+OI, Oriental Institute, Baroda.
+OLP. Oriental Library Publication
+‘University of Mysore, My
+ORIP. Oriental Research Institute Pu
+OUP. Oxford University Press, Lond
+OUSA, Osmania University Sanskrit Ac
 P, Pandit, Benares.
-PariSam., Paribhasasargraha.
+PariSar. Paribhasasargraha.
 PKSam, Panditarajakavyasarhgraha,
 POS. Poona Oriental Series, Poona.
-PSP. Punjab Sanskrit Pustakalaya, Lahore.
-PSS. Punjab Sanskrit Series, Lahore.
-PunO8, Punjab Oriental Series, Lahore
-PUOP, Panjab University Oriental Publication, Lahore
-PY. Prabhakari Yantralaya, Benares
-RJSM, Rayachandra Jaina Sastramala, Bombay.
-RKPS. Ratna Kumari Publications Series, Research Insti-
-tute *of* Ancient Scientific Studies, Delhi.
-RPGM. ‘Rajasthana Puratana Granthamala, Rajasthan
-Oriental Research Institute, Jaipur.
-RSGM, Rajasthan Sanskrit College Granth Mala,
-Sarhbandha.,: ‘Sambandhavarttika,
-SBH. Sacred Books *of* the Hindus, Allahabad.
-‘Sarasvati Bhavana Texts, Allahabad.
-Sarhskrta Ditakavya Sargraha, Calcutta,
-SGK., Srirangam Sankaragurukula Series
-SIAL, Sources *of* Indo-Aryan lLexicography, Deccan
-College, Poona,
-Siksasamgraha
-SIS. Singhi Jain Series, Calcutta.
+PSP. Punjab Sanskrit Pustakalaya,
+PSS. Punjab Sanskrit Series, Lahore
+PunOs. Punjab Oriental Series, Lahore
+PUOP, Panjab University Oriental Pu
+PY. Prabhakari Yantralaya, Benar
+RJSM, Rayachandra Jaina Sastramala
+RKPS. Ratna Kumari Publications Se
+tute of Ancient Scientific
+RPGM.. _—‘Rajasthana Puratana Grant
+Oriental Research Tnstitw
+RSGM, Rajasthan Sanskrit College Gr:
+Sarhbandha, Sambandhavarttika.
+SBH. Sacred Books of the Hindus, A
+SBT ‘Sarasvati Bhavana Texts, Alla
+SDS Sarskrta Ditakavya Samegrah
+SGK. Srirangam Sankaragurukula Se
+SIAL. Sources of Indo-Aryan Le
+College, Poona.
+SikSam. Siksasarngraha.
+SJS. Singhi Jain Series, Calcutta,
 
 LXXII
-SKS.
-SmSam.
-SNGM.
-SOS.
-Be
-SPS.
-SRF.
-8s.
-3800.
-SSPGM.,
-STS.
-SVGM.
-SVS.
-TPH.
-TPHOS.
-TSS.
-TS ws.
-T(T)s.
-UBh.
-US8am.
-USamuce.
-VBSGM.
-VCJGM.
-VDGM.
-VG..
-VGR.
-Vid VP.
-VIS.
-VOS.
-VP.
-VRS.
-VS.
-VSGM.
-एरिना,
-VSM:
-VSS,
-VVP.
-VVRI.
-VVSS.
-VY.
-WIS.
-WPH.
-Ws,
-YJIGM.
-ZDMG.
-
-Sarhskrta Kosakavya Sarhgraha, Calcutta,
-Smrtinim Samuccayah.
-Sakharam Nemchand Granthamala, Sholapur.
-Scindia Oriental Series, Oriental Manuscripts
-“Library, Ujjain.
-Satapitaka Series, International Academy *of*
-Indian Culture, New Delhi.
-Suzuki Research Foundation, Tokyo.
-Sanskrit Series
-Savitarayasmrtisarnrakshanagranthamala,.‘the Vas.
-réndra Research Rajshahi
-Society,
-Samskrit Sahitya Parisad Granthamala, Calcutta,
-Sanskrit Text Society, London.
-Sarasvati Vilasa Granthamala. Madras.
-Sarasvati Vihara Series, The International Aca.
-demy *of* Indian Culture, Nagpur.
-Theosophical Publishing House, Adyar Library,
-Madras
-Theosophical Publication House Oriental Series,
-Adyar.
-Trivandrum Sanskrit Series, Trivandrum.
-Tibetan Sanskrit Works Series, Patna,
-Tantric Text Series, London,
-Upanisadbhasya.
-Upanisatsamgraha
-Upanisadam Samuccayah,
-Vidyabbhawan Sanskrit Granthamala, Varanasi
-Vijayadhanachandrasiri Jaina Granthamala,
+Calcutia. SKS. Sarhskrta Kosakavya Sarhgraha, Calcutta,
+€,
+n, SmSam. Smrtinarh Samuccayah.
+Bombay. SNGM. Sakharam Nemchand Granthamala, Sholapur.
+Kalyan,
+SO8. Scindia Oriental Series, Oriental Manuscripts
+ndha, a Library, Ujjain.
+SPS. Satapitaka Series, International Academy of
+Indian Culture, New Delhi,
+aina Granthamala, SRF. Suzuki Research Foundation, Tokyo. vip ewes
+88. Sanskrit Series. an
+nla, Mathura. §SSGM. Savitarayasmrtisarnrakshanagranthamala,.‘the Vas.
+Manuscripts Series, réndra Research Society, Rajshahi. 4...
+98764. Samskrit Sahitya Parisad Granthamala, Calcutta,
+series, Madras. STS. Sanskrit Text Society, London.
+SVGM. Sarasvati Vilasa Granthamala. ‘Madras,
+SVS. Sarasvati Vihara Series, The International Aca.
+‘anskrit and Prakrit: demy of Indian Culture, Nagpur.
+TPH. Theosophical ‘Publishing House, Adyar Library,
+8. Madras.
+५,
+पः प्ल Publication, TPHOS. Theosophical Publication House Oriental Series,
+Adyar,
+TSS. Trivandrum Sanskrit Series; Trivandrum,
+ries, Madras. TSWS. Tibetan Sanskrit Works Series, Patna.
+TTS. Tantric Text Series, London,
+UBh. Upanisadbhasya.
+USam. Upanisatsarmgraha,
+1, Sanskrit Series, UWSamuce. Upanisadam Samuccayah.
+ysore. VBSGM. Vidyabhawan Sanskrit Granthamala, Varanasi.
+blication, Mysore. VCJGM. Vijayadhanachandrasiri Jaina Granthamala,
+lon.
 Bhavanagar.
-Vedantadegikagranthamala, Conjeevaram,
-Vaidyasarathigranthavali, Kottayanagari.
-Vyakaranagrantharatnavali, Tanjore.
-Vidyavilasa Press, Benares Kashi
-Vishveshvaranand Indological Series, VV RI}
-Venkatesvara Oriental Series, Tirupati.
-Venkateshwar Steam Press, Bombay.
-Varendra Research Society, Rajshahi.
-Vishvabharati Studies, Shantiniketan.
-Vidyasagara Samskrita Granthamala, Benares,
-Vijayadana-sirishvara—Jaina-granthamala,
-Vaidika Sarméodhana Mandala, Poona.
-Viziayanagaram Sanskrit Series, Benares.
-Vanivilasa Press, Srirangam.
-Vishveshvaranand Vedic Research Institute,
-Hoshiarpur.
-Vani Vilas Sanskrit Series, Srirangam.
-Vedic Yantralaya, Ajmer
-Woolner Indological Series, Vishveshvaranand
-Institute, Hoshiarpur.
-Wallace Printing House, Tanjore.
-Works *of* Sankaracarya.
-Yashoyijaya Jaina Granthamala, Benares,
-Zeitschrift der Deutschen Morgenlandischen
+cademy, Hyderabad, VDGM. Vedantadesgikagranthamala, Conjeevaram,
+VG.. Vaidyasarathigranthavali, Kottayanagari.
+VGR. Vyakaranagrantharatnavali, Tanjore.
+Vid Benares
+VP. Vidyavilasa Press, (Kashi),
+VIS. Vishveshvaranand Indological Series, VV RI}
+Lahore. VOS8. Venkateévara Oriental Series, Tirupati.
+€. VP Venkateshwar Steam Press, Bombay.
+€. VRS. Varendra Research Society, Rajshahi.
+iblication, Lahore: VS. Vishvabharati Studies, Shantiniketan.
+eS, VSGM. Vidyasagara Samskrita Granthamala, Benares,
+Bombay. VSIGM. Vijayadana-sirishvara—Jaina-granthamala,
+ries, Research Insti- VSM. Vaidika Sarngodhana Mandala, Poona.
+Studies, Delhi. VSS, Viziayanagaram Sanskrit Series, Benares,
+thamala, Rajasthan VP, Vanivilasa Press, Srirangam.
+te, Jaipur. VVRI. Vishveshvaranand Vedic Research Institute,
+anth Mala, Hoshiarpur.
+एर. Vani Vilas Sanskrit Series, उपपादुका,
+\llahabad. VY. Vedic Yantralaya, Ajmer..
+19.104. WIS. Woolner Indological Series, Vishveshvaranand
+a, Calcutta. Institute, Hoshiarpur.
+eries. Wallace House, Tanjore.
+WPH. Printing
+‘xicography, Deccan WS, Works of Sankaracarya. a
+YJIGM. Yashoyijaya Jaina Granthamala, Benares,
+ZDMG. Zeitschrift der Deutschen -Morgenlindischen
 Gesellschaft, Leipz'g 1909.

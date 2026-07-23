@@ -1,635 +1,690 @@
-READER’S
-Note For the general lay-out *of* the articles in the Dictionary
-I. ENTRY WORDS
-A. The following types *of* vocables included in the
-are
+<!-- provenance: engine=tesseract-5.5.0.20241111 eng+san; pipeline=run_ocr.py v2; source=RG.pdf; date=2026-07-23 -->
+# RG.pdf
+
+## Page 1
+
+५..." REA
+Note:- For the general lay-out of the articles in the
+1. ENTRY WORDS
+A. The following types of vocables are included in
+धि
 Dictionary
-Roots €. g. (amé-), gam—), da-) ete.
-अंश्‌ गम्‌ दा
-Simple *and* derived words €. g. अंश (amésa), अश्व
-(asva (nr देव daiva wifes (laukika etc.
+i. Roots €. g. अंश्‌ arhs-), गम्‌ gam—), दा da-)
+ii Simple and derived words €. g. अंश (améa),
+(asva (nr देव daiva रौकिक (laukika
 नृ
-ili. Grammatical formants e. g. अक (-aka), अन (-ana)
-ete.
-Foreign words *used* in Sanskrit works e. अदरक
-(aibuka मद्धिक mallika अकठ्वर्‌ (akabbara etc
-Words found in the Kogas only
-vi. Important variant readings recorded in the books
-used for the extraction *of* the material e. g. अकारग्रक्षेप
-(akarapraksepa v. 1. for etary (akarapraslesa
-अक्षपीडक aksapidaka v. 1. for अक्षिपीडक aksipidaka
-ete
-vii. Technical terms in different branches *of* learning.
-3.
-viii, Artificial terms *of* grammar €. g. टाप्‌ (tap),
-सुप्‌
-(sup ete.
-ix, Laukika or technical nyayas *or* maxims *€.* अकाण्ड-
-g.
-कूष्माण्डपतनन्याय (akandakismandapatananyaya अश्वा-
-भिधानीन्याय( asvabhidhaninyaya ete
-Compounds *of* two members
-xi, Compound numerals *€.* g. dvadaéan एकोन-
-द्वादशन्‌
-चत्वारिंशत्‌ ekonacatvarimégat etc
-xii. Symbolic numerical expressions भक्षगज (aksagaja
-ete
-xiii. Negative compounds e. g. *अकुमारी* (akumari),
-अक्रतु
-(akratu ete
-xiv. Compounds *of* more than two members for special
-syntactic *and* semantic reasons *e.* g. अक्रताम्यागमदोष
-(akrtabhyagamadosa अकारणगुणपूर्वक akaranaguna-
-purvaka etc
-XV." Compound denominatives rakacand-
-राकाचन्द्राय
-Yayar).
-xvi. Sounds *of* Sanskrit *€.* g. (a), अकार akara ete.
-B. The Dictionary includes the Proper names *of*
-ao gods. *and* goddesses
-ii. sages and mythical persons.e. अक्षपाद Aksapada
-अगस्ति Agasti ete
-Tribes, clans, people, guilds. etc.
-iv. Rivers, mountains, lakes, regions, countries ete.
-Animals, birds, trees, plants *and* other natural
-objects.
-‘Individual. objects like palaces, ‘gardens, parks,
-weapons, chariots, ornaments arments, *and* other
-personal belongings.
-vii. Authors, books, chapters, sections, siktas, stotras,
-simans, verses *and* groups *of* verses to a limited extent
-अंशरावतरण arsavatarana अश्चसूक्त (aksasikta
+iii, Grammatical formants e.g. अक (-aka), अन
 etc.
-The *of* words excluded’:
-following types *are* generally
-1. Metalinguistic expressions *of* some length.
-Longer compounds involving purely technical terms.
+ण. Foreign words used in Sanskrit works €. g.
+(aibuka मद्धिक mallika अकठ्बर (akabbara)
+.w.: Words found in the Kogas only.
+vi. Important variant readings recorded in the
+used for the extraction of the material €. g. अंका
+(akarapraksepa v. 1. for अकारपश्छेष akaraprasl
+अक्षपीडक (aksapidaka v. 1. for अक्षिपीडक aksipid
+ete,
+vii, Technical terms in different branches of learning
+viii, Artificial terms of grammar €. g. *टाप्‌* (tap).
+(sup ete.
+ix. lLaukika or technical nyayas or maxims €. g. कः
+कूष्माण्डपतनन्याय (akandakismandapatananyaya
+भिधानीन्याय( asvabhidhaninyaya etc.
+x. Compounds of two members,
+xi, Compound numerals €. g. द्वादशन्‌ dvadagan),
+चत्वारिंशत्‌ ekonacatvarimégat ete.
+xii. Symbolic numerical expressions €. ४. mama (aksa
+et.
+xiii, Negative compounds €. g.. अकुमारी (akumari
+(akratu ete.
+xiv. ..Compounds of more than two members for gs]
+syntactic and semantic reasons €,
+£. अकरताभ्याग
+.(akrtabhyagamadosa अकारणगुणपूर्वक akarana
+pirvaka ete.
+xv. Compound denominatives €. £. राकाचन्द्राय (raka
+rayar
+xvi. Sounds of Sanskrit €. g. (a), अकार्‌ (akara et
+B, The Dictionary includes the. Proper names of
+1. gods and goddesses.
+ii, sages and mythical persons.e. g. अक्षपाद Aksapi
+अगस्ति Agasti ete.
+o
+‘iii, Tribes, clans, people, guilds. ete.
+iv. Rivers, mountains, lakes, regions, countries ete.
+v. Animals, birds, trees, plants and other nz
+objects.
+„\
+“Individual.
+“vil objects like palaces, ‘gardens,
+weapons, chariots, ornaments, garments, and
+personal belongings. वि
+vii. Authors, books, chapters, sections, siktas, st
+simans, verses and of verses to a limited
+groups
+€. g. waaay arsavatarana अक्षसूष्त (akgasi
+ete.
+The following types of words are generally excluded’:
+i, Metalinguistic expressions of some length,
+ii. Longer compounds involving purely technica] ter
 
-GUIDE
-the reader is referred to the Introduction Section ए. xii.
-Dvandva compounds with no grammatical peculiarities
-iv. Compounds ending in words like (pada),
-पद्‌ शब्द्‌
-(sabda वाक्य (vakya), नामन्‌ (naman अभिख्या
-(abhikhy& ete
-Compounds forming ripakas *if* not *of* frequent occu-
-rrence अंश्युनाराच axhsunaraca अंद्युघन amégu-
-dhana ete
-vi. Compounds *of* artificial terms ह. अकजूविधि
+.DER’S GUIDE
+५,
+Dictionary the reader is referred to the Introduction Section p. xii.
+171. Dvandva compounds with no grammatical peculiarities.
+iv. Compounds ending in words like पद्‌ (pada), शब्द्‌
++€
+(Sabda), वाक्य (vakya), *नामन्‌* (naman), अभिख्या
+(abhikhy& ete.
+etc.
+v. Compounds forming *ripakas* if not of frequent occu-
+अश्व
+rrence €. £. अंज्युनाराच (amsunarica अंश्युघन argu-
+ete.
+dhana) et.
+ana)
+vi. Compounds of artificial terms eg. अकज्‌विधि
 (akajvidhi अकचप्रत्यय akacpratyaya etc.
-Long chronograms for recording dates *or* giving
-numbers in Mathematics, Astronomy *and* similar
+TSE vii. for dates
+Long chronograms recording or giving
+te.
+numbers in Mathematics, Astronomy and similar
 works.
-viii. Colophones *and* names *of* chapters *or* sections *of* books,
-*if* not important
-ix, Names *of* books in general.
-Purely middle Indo-Aryan *and* modern Indo-Aryan
+books viii. Colophones and of sections of books,
+names chapters or
+CAT
+if not important,
+९९९.
+ix. Names of books in general.
+lake)
+x. Purely middle Indo-Aryan and modern Indo-Aryan
 words,
-The form *of* the entry word
+सुप्‌ D. The form of the entry word
 i, Nouns are given in their base forms pratipadika
-g. Har (४६2 अक्षि (aksi), अधि (agni ete.
-11. Nouns *of* different *genders* *are* *given* as separate
-entries, unless one *of* the genders is secondary
-or
-occasional *or* the *word* has optional *gender* throughout
-wae (akula) eae (akula) m. अश्च (aksa’)
-m. अक्ष (aksa) n. etc.
-Adjectives are given in their base form with the
-indication *of* the feminine base when available, as one
-entry
-iv. Adjectives *and* nouns *are* combined as one entry *if*
-the entries *are* *smal]* *or* *if* one *of* the usages is clearly
-secondary
-Adverhbs,. indeclinables: *and* other nominals like
-*pro-*
-nouns *are* given-in‘full form *or* in the neuter *gender*
-€. g. अकामतस्‌ (akimatas), पव (eva), अकुर्वत्‌
-(akurvat अस्मद्‌ (asmad) ete
-vi. Verbs *are* given in their root form अंश *(कई*
-अन्त्‌ (aks-—) ete
-vii. Roots with preverbs are given as separate entries
-आगम्‌ agam—) ete
-‘viii. Derivative verbs *are* given along with the suffix *and’*
-listed as separate entries, but the causatives are
-included undér-the *of* the verb.
-main entry
-ix. Cvi-forms *and* gatis *are* given with the following root
-as entries *€.* £. efaftgH amsikr—) ete
-Participles *are* treated as adjectives *and* listed as
-separate entries e. g. अकुर्वत्‌ (akurvat ete.
-xi, Infinitives *and* gerunds along with their negative
-forms *are* *given* as ‘separate entries €. AEG
-g.
-(akartum अकरुत्वा akrtva ete.
-Words which do not *occur* in literature but
-actually
-216 given for special reasons *are* put in square brackets
-[अंशापवाह (arhsapavaha अंहती amhati
-वि
-6८.
-अंहोमुच]| (arhhomuca
-iis Word taken *over* from the earlier dictionaries like
-ए; nt, MW., DBHS:, Visva. Apte, Vacs.”
-*/pw.,*
+काण्ड- €. £. अंश (२६९), af (aksi), अचि (ष्पा ete.
+अश्वा- ii. Nouns of different genders are *given* as separate
+entries, unless one of the genders is secondary or
+occasional or the word has optional gender throughout
+एकोन- 6. £. Haw (akula) n. AES akula) m. अक्ष (aksa’)
+१४. अक्ष (aksa) n. etc. ae
+gaja) iii, Adjectives are given in their base form with the
+indication of the feminine base when available, as one
+अक्रतु entry.
+iv,. Adjectives and nouns are combined as one entry ‘if
+pecial the entries are *small* or if one of the is clearly
+usages
+मदोष secondary. oe
+v. Adverbs,: indeclinables- and other nominals like pro-
+guna
+nouns are given-in‘full form or in the neuter gender
+cand- g. अकामतस्‌ (akamatas), एव (eva), अकुर्वत्‌
+(akurvat 25980.) etc,
+अस्मद्‌
+Le, vi. Verbs are given in their root form e. अंश arhé—)
+अन्त्‌ (aks— ete. (र
+vii. Roots with preverbs are given as separate entries €. g.
+आगम्‌ agam—) ete.
+ada), verbs and’
+viii. Derivative are *given* along with the suffix
+listed as separate entries, ‘but the causatives are
+Loe
+included under the main entry of the verb, -“
+ix. Cvi-forms and gatis are given with the following root
+tara
+as entries €. g. अंशक (arisikr—) ete,
+ऋ. Participles are treated as adjectives and listed as
+parks,
+separate entries €. g. क्कुर्वेत्‌ (akurvat etc.
+other
+xi, Infinitives and gerunds ‘along with their negative
+forms given as entries €. g. AEG
+otras, *‘separate*
+ae
+(akartum अक्त्वा akrtva ete.
+xtent i, Words which do not actually occur in literature but
+पा).
+are given for special reasons are put in square brackets
+ose ge [अंश्ञापवाह] (arhsapavaha [अंहती] *(amhati),*
+Ce [अंहोमुच] (arhomuca )ete.
+कीत Word taken over from the earlier dictionaries like
+ms. क. DBHS., Vaes
+PW., nt, MW., Visva., Apte,
 
+## Page 2
 
----
-
-[पा
-‘SabdaKaDru. *and* other 1०४5 aré with iv. in the *of* ‘an article are’ also.
-special given Adverbial entries body
-the indication *of* their source in square brackets. transliterated to show the accent marks
-Homonyms *are* indicated by a prefixed index number
-B. The transliteration differs from the Devanagari entry-form
-*€.* g. leq (aksa अक्ष aksa ete.
-in the following respects
-A difference in the construction in a compound *word*
-1. The acute *and* accent marks *are* *used* to indi-
-*grave*
-is not considered as giving rise to homonyms’ €,
-£.
-cate the udatta *and* svarita only
-अकरुतभावसंविद्‌ akrtabhavasamvid ete.
-ii. The parasararna is *used* for the written Anusvara to
-iii, A difference in the base *or* a suffix is considered as
-indicate its alphabetical *place*
-giving rise to homonyms *€.* £. अं रक (améaka ?अंराक
-111. The Visarga is transliterated as a sibilant. before: a.
-(arngaka ete
-sibilant and is so alphabetized.
-iv. Two indentical entries with a difference in grammatical
-iv. An (n) in brackets is *added* to the base
-separate strong
-status are not *given* the index number *of* homonyms
-from the weak; in the case *of* the possessive suffixes.
-*€.* g. अकुप्यं (akupya adj. अकुप्यं (akupya १, ete.
-The immediate constituents *of* the vocables *are*
-Il. ALPHABETIZATION *separated* by the use *of* a single hyphen *and* no further
-analysis is indicated, to *avoid* ambiguity.
-All entries follow a single alphabetization *and* no
-vi. When the IC *cut* falls inside a long vowel, it is not
+SabdaKaDru. and other special Kofas aré given
+the indication of their source in square brackets.
+F. i. Homonyms are indicated by a prefixed index nw
+€. (akga अक्ष ०१८६९. ete.
+8. अश्च
+ii. <A difference in the construction in a compound
+is not considered as rise to homonyms’
+giving
+A अकरुतभावसंविद्‌ aki tabhavasarhvid ete.
+आ. A difference in the base or a suffix is considere
+giving rise to homonyms €. g. अंशक (arnsaka 2%
+(arhgaka ete.
+iv. Two identical entries with a difference in gramm:
+status are not given the index number of homo:
+€. g. अकुप्यं (akupya *adj.* wary (akupya १, ete.
+Il. ALPHABETIZATION
+1. All entries follow a single alphabetization an
 subalphabetization is used.
-shown.
-11. Stems, roots, formants, full forms, compounds: *and*
-vii. The hyphen is *used* in compound names but is”
-block for the proper
--even phrases *are* regarded as one *pur-*
-*avoided* in simple proper names
-*pose* *of* alphabetization.
-viii. The ICs include both words *and* suffixes
-The following order *of* the Devanagari script is taken
-ix, In case *of* the abstract suffixes like -ta *and* -tva the IC
-as the basis for alphabetization. Note that Visarga
-*cut* is usually before them
-follows Anusvara *and* the order *of* the semivowels is
-४1९00. अ, आ, इः ई, उ, ऊः चह, ऋः ठः ए, पे, ओ, IV. PARTS OF SPEECH
-ओ, GT, च, छः जः क्ष, ज, ठ, ड, ठ,
-1, F, ट, णः
-A. Only the following parts *of* *speech* *are* consistently indicated
-तः UG, 4, नःप, फः वः भः मःयःरः कः वः BW, FT, सः ह.
-1. Nouns, both simple *and* compound, by indicating their”
-iv. The written Anusvara *of* 54101 *and* some other words
-*gender* as 9.) f, *and* n. €. £. अंशा (२६ अक्षि
-is alphabetized as when it is final. m,
-parasavarna except
-is (aksi) 2. अंहति (arhati) ¢, ese amsuhasta
-Visarga alphabetized in its own place before velars
-m., अँश्ुदक 8६०११२९.) n., etatthR ardokti)
-*and* labials; otherwise it is assimilated to the following
-ii. Grammatical suffixes *are* not given *part* *of* speech
-any
+ii. Stems, roots, formants, full forms, compounds
+-even phrases are regarded as one block for the
+pose of alphabetization.
+iii, The following order of the Devanagari script is
+as the basis for alphabetization. Note that Vi
+follows Anusvara and the order of the semivows
+फ़," landv. अ, आः न) डे, उः चटुः Ss VT
+ओ, :+कःखःग, घ, च, छ, ज, ज्ञ, ज, ट, ठ, ड,
+तः? थः द्धः A, TH, FT, HW, A, A, CU, GS, A, AW, षः:
+iv. The written Anusvara of *sau* and some other
+is alphabetized as *parasavarna* except when it is’
+ण. Visarga is alphabetized in its own place before
+and labials; otherwise it is assimilated to the follo
 sound.
-अक्‌ (aka AEE (akan ete
-vi. Anusvara is alphabetized in its own place only before
-11. Adjective along with its feminine form. adj. e.
-*and* 1. g.
-y, ४, 1, ए. 8,
-अकम्प (akampa) adj. [/.-a] अक्रिय (akriya) adj.
-land th standing for *and* dh in an intervocalic *posi-*
-[८ 8]
-tion are alphabetized as *and* dh.
-iv. Adverbs include forms in -am, -tas, -६28, *—vat* *and*
+vi. Anusvara is alphabetized in its own place only
+y, ४, 1, ए. 8, and 1.
+vii. and th standing for and dh in an intervocalic
+and
+tion are alphabetized as dh.
 viii. standing for is alphabetized as 1.
-the adverbial use *of* cases. adv. €. £. (akastam
-Words a difference *of* *accent* are ordered with अकष्टम्‌
-with only
-adv, अकामतस्‌ (akamatas) adv, ewaraq (améavat
-‘preference given to wdatta *over* svarita *and:* the order
-adv., sarara. amésasas adv., *अकाण्डे* (akande adv.
-*of* the *place* *of* accent is from left to right.
-Pronouns
-Between identical nouns *and* verbs, the verb precedes pro.
-vi. Numerals nw.
-the noun
-vii. Verbs indicated by the Gana *and* Pada.
-xi. Between adjectives *and* nouns, the historical order is
-viii. Infinitives inf. अकतौम्‌ (akartum inf.
-followed ‘so that sometimes the adjective *and* some-
-noun ix, Gerunds ger. अक्त्वा (akrtva ger.
-times the comes first.
-Indeclinables *ind.* अकस्मात्‌ (akasmat ind., (iva
-xii. A. vocable *of* doubtful is alphabetized it *इव*
-correctness as
-is *and* the necessary correction is.indicated in brackets
-2. अकथदह्‌( ae (akathaha( ma )cakra अक्चसालिका ए. Other features like derived verbal
-grammatical compounds,
-(aksasalika aksamalika etc. shown when found
-stems, cases *are* only necessary *or*
-xiii. If a *word* is either a misprint *or* an obvious mistake,
-useful,
-it is alphabetized in its correct form *e.* अक्षशाछिन्‌
-g.
+ix. Words with only a difference of accent are ordered
+‘preference given to *udatia* over *svarita* and: the
+of the place of accent is from left to right.
+x. Between identical nouns and verbs, the. verb pre
+the noun. षि
+xi. Between adjectives and nouns, the historical ord
+followed so that sometimes the adjective and
+times the noun comes first.
+xii, 4. vocable of doubtful correctness is alphabetized
+is and the necessary correction is indicated in bra
+€. £. अकथह्‌( aH akathaha( ma )cakra eteren
+(aksasalika aksamalika
+xiii. Ifa word is either a misprint or an obvious mis
+it is alphabetized in its correct form €. g. aay
+ete.
+(akgagalin
+xiv. When the Samhita form differs from that of
+Padapatha, it is alphabetized in its Samhita form
+a cross-reference to the Padapatha form €, g: *अक्षिः*
+(aksita yasu PaPa. akgitavasu ete.
+xy.. The lenimata are given in a normalised orthogr
+g. afeRre (akificid) agar (akrta-sai
+rama.) ete.
+णू. TRANSLITERATION
+A, 1. All entries] are.transliterated in the Roman, scrip
+i, The systen| of transliteration is the one. internatio
+accepted. Note the following symbols rm, h,,§ s,
+फा. 28.8.06. between ze! and wl,
+No distin tion
+
+LXXXIII
+‘with iv. Adverbial-entries in the body ofan article are’ also.
+transliterated to show the accent marks.
+mber B. The transliteration differs from the Devanagari entry—form.
+in the following respects
+word
+गु
+1. he acute and *grave* marks {८ are used to indi-
+*accent*
+९४.
+cate the *udatta* and *svartta* only.
+ii, The *parasarṇa* is used for the written to-
+Anusvara
+88
+indicate its alphabetical place. Vk
+अंशक
+iii, The Visarga is transliterated as a sibilant. before: a.
+sibilant and is so alphabetized.
+atical
+iv.. An (n) in brackets is added to separate the strong base
+nyms
+from the weak; in the case of the possessive suffixes.
+v. The immediate constituents of the vocables are
+separated by the use of a single hyphen and no further
+analysis is indicated, to avoid ambiguity.
+no
+vi. When the IC cut falls inside a long vowel, it is not
+and shown.
+vii. The hyphen is used in compound proper names but is”
+pur-
+avoided in simple proper names.
+viii. |The ICs include both words and suffixes. हि
+taken
+ix. In case of the abstract suffixes like -ta and -tva the IC’
+sarga
+cut is usually before them.
+els is
+ty ओ, IV. PARTS OF SPEECH
+SA, the of speech are indicated
+Only following parts consistently
+ia i. Nouns, both simple and compound, by indicating their”
+‘final. gender as 9.) f, and n. €. £. अंशा (२६ m, अक्षि
+(aksi) 2, अंहति (arhati) ¢, eae arnguhasta
+१. अँदूदक (athsidaka n., अं दोक्ति armsokti)
+wing
+ii. Grammatical suffixes are not given any part of speech
+९. g. अक (aka); (akan ete.
+‘efore अकङ्‌
+iii, Adjective along with its feminine form. *adj.* €. g.
+अकम्प (akampa) *adj.* [/.-a] अक्रिय (akriya) *adj.*
+posi«
+Lf -3.]
+उ. Adverbs include forms in —vat and
+-am; -tas, -Sas,
+with the adverbial use of cases. *adv.* €. £. अकष्टम्‌ (akastam
+*adv,* अकामतस्‌ (akamatas) *adv,* ewaraq (améavat
+order
+adv., sarara. amésasas *adv.,* अकाण्डे (akande *adv.*
+v. Pronouns *pro.*
+cedes
+vi. Numerals nu.
+vii. Verbs indicated by the Gana and Pada.
+ler is
+some- viii. Infinitives *inf.* *waaay* (akartum *inf.*
+ix. Gerunds *ger.* अक्रुत्वा akrtva *ger.*
+x. Indeclinables *ind.* अकस्मात्‌ (akasmat *ind.,* ga (iva
+as it
+ckets *ind.*
+(sat ए. Other grammatical features like compounds, derived verbal
+stems, cases etc. are shown only when found necessary or
+take, useful.
 Vv. ETYMOLOGY
-(akgagalin ete
-xiv. When the Samhita form differs from that *of* the A. The etymology *of* a vocable is *given* in brackets.
-square
-Padapatha, it is alphabetized in its Samhita form with immediately after its *part* *of* *speech* Usually only a_refe-
-a cross-reference to the Padapatha form e. g: अक्षितावसु rence is *added* to the *well* known etymological dictionaries.
-(aksita yasu PaPa. akgitavasu ete. *of* Sanskrit *and* Indo-European without discussion *or* citation
-normalised *works*
-(११ The lenimata *are* given in a orthography *of* cognate forms. The following *8116* consistently
-€. g. afefye (a-kificid) अक्रुतसं्रम (akrta-sambh- used.
-rama.) ete,
-1. Pox. Vergleichendes Wérterbuch des indogermani-
-‘RE TRANSLITERATION schen Sprachen, Julius Pokorny.
-ii. Mayr. Kurzgefasstes etymologisches Worterbuch des
-Altindischen, Manfred Mayrhofer
-The systen| *of* transliteration is the *one.* internationally
-*of* the
-accepted. Note the following symbols m, 1.5 s, ‘iii. Turn. A Comparative Dictionary Indo-Aryan
-r,
-“No distin tion is made between *Gland* al, Languages, R.. L. Turner.
+the <A, The etymology of a vocable is given in square brackets
+with immediately after its part of speech. Usually only a_refe-
+तावसु rence is added to the well known etymological dictionaries.
+of Sanskrit and Indo-European without discussion or citation
+‘aphy of cognate forms. The following works are consistently
+mbh- used.
+i. Pox. Vergleichendes Worterbuch des indogermani-
+schen Sprachen, Julius Pokorny.
+t. ii. Mayr. Kurzgefasstes etymologisches Wéorterbuch des
+nally Altindischen, Manfred Mayrhofer.
+r, iii, Turn. A Comparative Dictionary of the Indo-Aryan
+Languages, R..L. Turner.
 
----
+## Page 3
 
-*LXXXIV*
-iv. DED. A Dravidian Etymological Dictionary. T.
-Burrow, M. B. Emeneau
-v. AltGr. Altindische Grammatik. *J.* Wackernagel
+iv. DED. A Dravidian Etymological Dictiona:
+Burrow, M. B. Emeneau.
+v. AltGr. Altindische Grammatik. J. Wacke
 A. Debrunner.
-This. *part* *of* the etymology is separated from the
-scholia: *and* traditional explanations by the use *of* a black
+This. part of the etymology is separated fre
+scholia: and traditional explanations by the use of
 oblique line
--B. The derivation *of* a *word* is indicated wherever necessary
-by stating the suffix *and* indicating its form in Sanskrit
-particularly in the system *of* Panini. A reference
-grammar,
-to A. Debrunner, Altindische Grammatik Band IT. 2. Die
+-B. The derivation of a word is indicated wherever ne
+by stating the suffix and indicating its form in
+grammar, particularly in the system of Panini. A re
+to A. Debrunner, Altindische Grammatik Band IT.
 Nominalsuffixe, will be normally *given* for nouns.
 VI. SCHOLIA
-Etymologies *and* derivations found in *ancient* Sanskrit
-works *are* carefully collected *and* given after the accepted etymo-
-logy *of* the vocable. It should be borne in mind that these
-etymologics *are* given for their own value *and* interest *and* it
-does not mean that the editors accept them as correct.. Usually
-‘@ *of* the grammatical features *of* important words is
-summary
-also added with reference to Sanskrit grammar, particularly
-Panini. Variant bases *of* words *are* also indicated.
+Etymologies and derivations found in ancient
+-works are carefully collected and given after the accepted
+logy of the vocable. It should be borne in mind thai
+etymologics are given for their own value and interest
+does not mean that the editors accept them as *correct..*
+‘@ summary of the grammatical features of important
+also added with reference to Sanskrit grammar, parti
+Panini. Variant bases of words are also indicated.
 VII. FORMS
-In the case *of* nouns *and* verbs, only important *and* irregular
-forms *are* given *and* their peculiarities *are* indicated.
-VIII. SUMMARY *OF* MEANINGS
-i. When an article is long *and* the word shows numer-
-ous meanings, a summary *of* these meanings is given
-at the beginning *of* the meaning-analysis.
-ii. Inthe the numbering *of* the meanings is
-summary
-kept identical with that *of* the body *of* the article, but
-a *more* compact form.
-iii, Explanatory remarks *and* statements about the enviro-
-nments, syntactic *or* semantic, *are* not included in the
+In the case of nouns and verbs, only important and ir
+forms are given and their peculiarities are indicated.
+VII. SUMMARY OF MEANINGS
+i. When an article is long and the word shows
+ous meanings, a summary of these meanings is
+at the beginning of the meaning-analysis.
+ii, Inthe summary the numbering of the mean
+kept identical with that of the body of the artic
+72 more compact form.
+iii, Explanatory remarks and statements about the
+nments, syntactic or semantic, are not included
 summary.
-Ix. ARRANGEMENT OF MEANINGS
-i. Distinct meanings which *are* mutually exclusive are
-indicated by the use *of* Arabic numerals 1, 2, etc.
-ii. Mere nuances *of* meanings *or* a mere difference in
-the denotation is indicated by the use *of* lower case
+2. ARRANGEMENT OF MEANINGS
+i. Distinct meanings which are mutually exclusi
+indicated by the use of Arabic numerals 1, 2,
+ii. Mere nuances of meanings or a mere differe
+the denotation is indicated by the use of low
 Roman numbers i. ii. iii. ete.
-iii. All intermediate differences *of* meanings *are* given
-with the use *of* Roman capitals like A. B. €, etc.
-iv. The meanings *are* so numbered that a branching tree
-representation *will* be always possible. Thus the
-interrelation between the various meanings is made
+iii. All intermediate differences of meanings are
+with the use of Roman capitals like A. B. etc
+iv. The meanings are so numbered that a branchir
+representation will be always possible. Tht
+interrelation between the various meanings is
 explicit.
 X. CITATIONS
-i, All meanings *are* illustrated with appropriate citations
-drawn from the material *used* for the dictionary. As
-a rule, no meaning is admitted without a supporting
+i, All meanings are illustrated with appropriate ci
+drawn from the material used for the dictionar
+a rule, no meaning is admitted without a
+sup]
 citation.
-ii. Meanings found in the earlier dictionaries are added
-with an indication *of* the *source* in square brackets.
-It means that no citation is available for it in the
-corpus *of* this dictionary.
-711. In case *of* the meanings from the Koégas, often a mere
-reference is *given* without actually quoting the line
-*of* the Koéa, *if* it is not informative.
+ii. Meanings found in the earlier dictionaries are
+with an indication of the source in square br
+It means that no citation is available for it
+corpus of this dictionary.
+iii. In case of the meanings from the Koéas, often
+reference is without th
+given actually quoting
+of the Koga, if it is not informative.
 
-iv.
-vi.
-ii,
-iii.
-iv.
-vi.
-vii,
-viii.
-ix,
-
-If a word has more thar. one meaning due to élesa
-*and* there is a single quitation to justify it, itis given
-only once, usually after the first meaning, A *mere*
+LXXXIV
+ry. T. iv. Ifa word has more thay, one meaning due to élesa
+and there is a single quitation to justify it, itis given
+mnagel, only once, usually after the first meaning, A mere
 reference to the passzge is added after the other.
-meanings
-Usually, only a limived number *of* citations is given
-from a- book *and* further references are added so that
-the reader may *add* to the citations *if* he so desires.
-Under each meaning, the citations *are* arranged in a
-historical sequence.
-XI. ARRANGEMENT OF CITATIONS
-In the arrangement *of* the citations both the subject
-*and* chronology are taken into consideration. *<A* list
-*of* the different branches *of* literature used for the
-dictionary with an approximate chronology *of* the
-works in each branch is provided elsewhere.
-Under each type the approximate chronology is
-observed.
-In the case *of* inscriptions, the citations are arranged
-according to the dates *of* the inscriptions *and* not
-according to the volumes *of* EI.
-The following exceptions to the strict chronological
+the meanings.
+om
+४. Usually, only a limived number of citations is given
+black
+from a: book and further references are added so that
+the reader may add to the citations if he so desires.
+vi. Under each the citations are in
+meaning, arranged a
+sanskrit historical
+sequence.
+ference
+Die XI. ARRANGEMENT OF CITATIONS
+i. In the arrangement of the citations both the subject
+and chronology are taken into consideration. <A list
+of the different branches of literature used for the
+anskri
+dictionary with an approximate chronology of the
+ooo works in each branch is provided elsewhere.
+an ii, Under each type the approximate chronology is
+it
+Usual observed.
+iii, In the case of inscriptions, the citations are arranged
+ords
+according to the dates of the inscriptions and not
+icularly
+according to the volumes of EI.
+iv. The following exceptions to the strict chronological
 order should be noted
-(४) Commentarial explanations *are* added imme-
-diately after the citation *of* the text on which
-they *are* based
-(b) Quotations *or* immitative passages *are* brought
-together irrespective *of* the chronology *of* the
-authors
-(¢) Anthological quotations *are* brought close to the
+(४) Commentarial explanations are added imme-
+regular
+diately after the citation of the text on which
+they are based.
+immitative
+(४) Quotations or passages are brought
+*numer-* together irrespective of the chronology of the
+given authors,
+(५) Anthological quotations are brought close to the
 original source.
-(d) Identical passages *are* put together with the
-sign,
-(e) Koga citations are put in one place, mostly *at*
-the *end* *of* the article *and* *are* not scattered
+ings is
+(d) passages are put together with the
+cle, but *Identical*
+sign.
+(e) Koga citations are put in one place, mostly at
+«the the end of the article and are not scattered
+meine
 throughout.
-(£) Grammatical citations *or* references dealing with
-grammar *are* included along with derivation *or*
-etymology, at the beginning *of* the article
-Citations from the *accented* texts are with accent
-*given*
-marks usual for that text *or* school. The initial *and*
-final *of* the quoted *are* treated as absolute
-passage
-initial *and* final for the purpose *of* accentuation. If
+(£) Grammatical citations or references dealing with
+grammar are included along with derivation or
+etymology, at the beginning of the article.
+ve are
+v. Citations from the accented texts are given with accent
+ete.
+marks usual for that text or school. The initial and
+nee in
+final of the passage quoted are treated as absolute
+er case
+initial and final for the purpose of accentuation. If
 a portion is dropped in'the middle, this is indicated
-with three dots *and* the accentuation *of* the text is
+given
+with three dots and the accentuation of the text is
 not modified.
-Citations *are* intended to be self-sufficient *and* hence a
-word *or* two *are* *added* in brackets to make the
-meaning clear.
-When *parts* *of* passages are dropped this is indicated
-by the use *of* three dots *and* *sandhi* rules *of* the finals
+ang tree vi. Citations intended to be self-sufficient and hence
+are a
+us the word two added in brackets to make the
+or are
+made clear.
+meaning
+vii, When parts of passages are dropped this is indicated
+by the use of three dots and sandhi rules of the finals
 are observed before them.
-Tf a citation is given to:illustrate a *word* which occurs
-in it as a variant, the accepted reading is given first
-*and* the variant is.added in brackets with the sign
+itations
+viii. Ifa citation is given to:illustrate a word which
+occurs
+As in it the is first
+as a variant, accepted reading given
+porting
+and the variant is added in brackets with the sign
 v. 1. before it.
-Ifa passage is not construable to the editors,. it is
-indicated with the use *of* a question *mark* in brackets
-after it.
-If a correction to the text is suggested it is *placed* in
-brackets after the word to be corrected with a question
-mark preceding it *€.* g. under अंहीयस्‌ *अं* हीयाद्‌ *(१* न्‌);
-under अकरमैविकर्मभोग, विभागो भोगो etc
+added ix. Ifa is construable to the
+passage not editors,. it is
+rackets, indicated with the use of a question mark in brackets
+in the after it.
+x. Ifa correction to the text is suggested it is placed in
+a mere brackets after the word to be corrected with a question
+16 line mark. preceding it e. g. under अंहीयस्‌ अँहीयाद्‌ (१ न्‌);
+under अकरमैविकर्मभोग, विभागो भोगो ete.
 
+## Page 4
 
----
-
-*LXXXV*
-xi. Metrical passages *are* *quoted* in such a as to indi-
-way
-cate their metrical structure. Only a single danda is
-used *at* the *end* *of* a line even when some *part* *of* it
+xi. Metrical passages are quoted in such a wa:
+cate their metrical structure. Only a sing
+used at the end of a line even when some
 is dropped.
-xii, Citations *are* normalised as far as the use *of* the
+xii, Citations are normalised as far as the
 punctuation marks is concerned,
 XII. USAGE LABELS
-i, Syntactic usage *of* a vocable is given in square brackets
-before the *specific* meaning *or* a *of* citations,
-group
-ii, The provenance *of* a word is indicated by the use *of*
-the branch *of* literature in which it occurs,
-iii, The technical meaning *of* *word* is also indicated by
-the same device but *put* before that meaning,
-iv. Other usage labels *are* sparingly *used* when found
-necessary *or* useful.
+2. Syntactic usage of a voeable is given in squ:
+before the specific meaning or a group of
+ii, The provenance of a word is indicated by
+the branch of literature in which it occurs,
+iii, The technical meaning of word is also 11
+the same device but put before that meanit
+iv. Other usage labels are sparingly used vw
+necessary or useful.
 XIII. CROSS-REFERENCE
-Cross-references *are* added in the Dictionary to indicate
-i, .A variant spelling *or* a variant *sound* *of* a vocable
-€. £. *अकीरसिं* (akirtti) *cf* अकीर्तिं (akirti); अकशाय
-(akagaya) *cf* spay (akagapa); अक्षरणिधन
-(aksaranidhana *cf.* अक्षरनिधन (aksaranidhana etc.
-ii, Another *word* with the same meaning, either more
-common *or* more explicit €. g. अश्चश्रवस्‌ aksagravas
-ef, *अक्चकणै* (aksakarna); अकर्पना (akalpana
-*ef.* अविकल्पना (avikalpana); अकल्पन (akalpana
+Cross-references are added in the Dictionary to 11
+i, A variant spelling or a variant *sound* o!
+€. 8. अकीरसिं (akirtti) cf. अकीर्तिं (akirt
+(akagiya) cf. separ (akasapa
+(aksaranidhana cf. अक्षरनिधन aksaranid
+ii, Another word with the same meaning,
+common or more explicit €. g. अक्चश्रवस्‌
+ef. अक्चकणै (aksakarna); अकर्पना
+ef. अविकल्पना (avikalpana); अकल्पन
 cf, निर्विकद्पक (nirvikalpaka ete.
-iii, If a meaning is confined to a compound *or* phrase अहु
-(amsu) *cf.* अंछ्ुपात (arsupata); 9. cf. अंश्युमत्‌
+iii, Ifa meaning is confined to a compound or
+(amsu) cf. efagqra (arhéupata); 9.
 (armgumat ete.
-iv. Alternative name for.the same thing अक्षरोपधि (aksa-
-ropadhi *cf.* aksarasadhatu etc.
-अक्षरसधातु
-ए. Tosupply relevant examples for a general statement
-both in formation *and* meaning €. ऽअ cf. अघोर,
+iv. Alternative name forthe same thing अक्षरे
+ropadhi cf. अक्षरसधातु aksarasadhatu et
+ए. Tosupply relevant examples for a genera
+both in formation and meaning €. १्अ
 g.
 अनुत्तर etc.
-vi. To *add* supplementary information from other articles,
-vii. To *give* the fuller word, if the entry is a kind *of*
-shorter form €. अंशा (०६९. cf. अक्षाराक्छ (aksarngaka
-g.
-अकान्तरक (akantaraka *cf.* अक्छान्ततर्‌क्‌ (akantataraka
+vi. To add supplementary information from ot]
+vii. To give the fuller word, if the entry is
+shorter form €. g. अंडा (2128. cf. अक्षांराक (9
+अकान्तरक (akantaraka cf. अक्छान्ततर्‌क्‌ (ak
 etc.
-viii, 10 *give* the correct form *of* the word *if* the entry is an
-incorrect vocable €. g. अक्चटकर्मन्‌ aksadrkkarman cf,
-आक्षहकर्मन्‌ (akgadrkkarman अक्षरचज्त्ु aksaracaficu
-*cf.* aksaracuficu etc.
+viii. To give the correct form of the word if the
+incorrect vocable €. g. अक्चटकर्मन्‌ aksadrkk
+आक्षहकर्मन्‌ (aksadrkkarman अक्षरचञ्स्चु ak
+cf. aksaracuficu etc.
 अक्षरचुल्चु
-ix. To refer to a hyponym in case *of* technical terms €,
+ix. To refer to a hyponym in case of technical
+अकान्ति (akanti) cf. Qe@etq (lekhadosa
+aksaramudra cf. अक्षरगुष्टि (aksaramusti
+x. To give alternative names of nyayas €. £.
+(akalakismanda cl. अकाण्डकूष्माण्डपतनन्याय
+xi, Toa negative form, if necessary €. g. Seq cf
+xii. To the original vocable in case of diminu
+अक्षज्यका (aksajyaka of. अश्षज्या aksajya
+xiii, To give examples in case of formants €.
 g.
-अकान्ति (akanti) *cf* छेखदोष (lekhadosa);
-अश्षरसुद्रा
-aksaramudra *cf.* अक्षरगुष्टि (aksaramusti ete.
-x. To *give* alternative names *of* nyayas ARSE AIS
-£.
-(akalakismanda *ch.* etc.
-अकाण्डकूष्माण्डपतनन्याय
-xi, Toa negative form, *if* €. Seq *cf.* अनेडमूक.
-necessary g.
-xii. To the original vocable in case *of* diminutives e.
-अश्चज्यका (aksajyaka *cf.* अक्चञ्या aksajya ete.
-xiii, To examples in *of* formants
-*give* case €. g. अक्त (akna)
-cf. जान्वक्तः न्यक्त etc.
-xiv. To refer to a grammatical rule, mostly from Panini,
+५. जान्वक्तः न्यक्त etc.
+xiv. To refer to a grammatical rule, mostly from
 XIV. RUN-ON ENTRIES
-Run-on entries are given only to the adverbial usage *of*
--ease-forms *of* nouns *and* are arranged alphabetically in the body
-*of* the main entry e. g. अकारणे, अकारणेन, under ऽ(कारण
-अकारणात्‌,
-akarana etc,
+Run-on entries are given only to the adverbi:
+-ease-forms of nouns and are arranged alphabetically ir
+of the main entry e. g. अकारणात्‌, अकारणे, अकारणेन, ८४
+etc,
+akarana
 
-iii,
-iv.
-vi.
-vii.
-viii.
-ix.
-xi,
-iv.
-vi.
-vii.
-
-XV. MODE *OF* REFERENCE
-The mode *of* reference in case *of* *each* book is
-explained fully in the list *of* abbreviations,
-The reference is to the line in which the given
+LXXxv
+as to indi- XV. MODE OF REFERENCE
+16 danda is is
+i, The mode of reference in case of each book
+part of it
+explained fully in the list of abbreviations,
+ii The reference is to the line in which the given
+use of the
 vocable occurs, even though the passage *quoted* may
 cover many lines.
-The references *are* made as full as possible. The first
+iii, The references are made as full as possible. The first
 reference given is sufficient to locate a passage in the
-edition which is *used* for this dictionary. The refe-
-rence in the brackets *will* help the reader to locate the
+are brackets
+itations. edition which is used for this dictionary. The refe-
+rence in the brackets will help the reader to locate the
+the use of
 passage in other editions.
-For the sake *of* clarity, *all* references are given. in full
-*and* no abbreviation is *used* when a series *of* references
-come together from the same book €. g. (akafi)
-अकज्‌
-SiddhaHe. vi. 2.12; vi. 2.36; vi. 2.66 ete. *and* *not* vi.
+ndicated by iv. For the sake of clarity, all references are given. in full
+and no abbreviation is used when a series of references
+ng.
+vyhen found come together from the same book €. g. अकज्‌ (akafi)
+SiddhaHe. vi. 2.12; vi. 2.36; vi. 2.66 etc. and *noé* vi.
 2.12; 36; 66, ete.
-If there is additional matter in a work which is not in-
-cluded in the numbering by the editor, it is indicated
-with the use *of* the sign *put* after the immediately
-preceding reference. This *matter* may be found
-either in the body *of* the text *or* in the foot-notes e. g.
-SiguVa, 15. 31 ete.
-All commentarial matter is introduced with the name
-*of* the commentator in an abbreviated form the
-*or*
-name *of* the commentary *and* is given in brackets
-without further reference.
-any
-If the commentary is found in the edition *used* for
-this dictionary, only the word comm. is *used* .to quote
-from it.
-If a book is cited occasionally its full is given
-name
-*and* no abbreviation is used.
-While the name *of* the book is *given* after the citation
-the name *of* the author precedes the citation.
-In case *of* folios, the obverse *and* the reverse sides *and*
-in case *of* pages with two columns, the columns are
-indicated by the use *of* A *and* B,
-In case *of* *prose* works the first reference is usually to
-volume *and* the others to page *and* line; while in
-metrical works the first reference is to the section
-variously called *and* the other to the verse.
-XVI. GLOSSES
-Explanations, as distinct from translations, are added
+v. If there is additional matter in a work which is not in-
+ndicate cluded in the it is indicated
+the numbering by editor,
+a vocable with the use of the sign put after the immediately
+1); STRAT preceding reference. This matter may be found
+अक्षरणिधन either in the body of the text or in the foot-notes e. g.
+hana.) ete. SiguVa, 15. 31 ete.
+sither more vi. All commentarial matter is introduced with the name
+aksasravas of the commentator in an abbreviated form or the
+akalpana, name of the commentary and is given in brackets
+(akalpana, without any further reference.
+vii, If the commentary is found in the edition used for
+phrase e%3y this dictionary, only the word comm. is used .to quote
+cf. WaT from it.
+oo viii, Ifa book cited its full is
+is occasionally name given
+Tafa (aksa- and no abbreviation is used.
+५. ix. While the of the book is after the citation
+name given
+ul statement the name of the author precedes the citation.
+of, अघोरः In of the obverse and the sides and
+x. case folios, reverse
+in case of pages with two columns, the columns are
+her articles, indicated by the use of A and B,
+a kind of xi. In case of *prose* works the first reference is usually to
+ksaimésaka, volume and the others to page and line; while in
+intataraka metrical works the first reference is to the section
+variously called and the other to the verse.
+entry is an
+XVI GLOSSES
+carman cf,
+<saracaficu i, Explanations, as distinct from translations, are added
 in round brackets. ‘Longer explanations are given in
-the form *of* independent sentences,
-Words *are* added in brackets with the use *of* i, €, to
-identify the denotation *of* the *vocable.* In case *of* a
-complex entry the identification pertains to the
-immediately preceding *word* €. g. अश्चरमात्रत्व imperi-
-shable (1. €. Brahman etc,
-Derived *or* secondary meanings *are* given with the
-use *of* words like Jit, fig., 1. €.) hence *or* the=sign.
-A negative form *of* a word *used* for a normal positive
-concept is first given in the negative form followed.
-by the *positive* *word* in brackets with the use i. e..
-unblunted (1. €, sharp etc.
-अङकण्टाय्र
-Abstract suffixes like -ta *and* -tva *are* generally
-‘the state ०...
-translated
-The *nominal* use *of* a compound is given in the gloss.
-as ‘one *who...’,* while the adjectival use with ‘who...’.
-Articles like the not used with words meaning
-a, are
+the form of independent sentences,
+terms e. ह.
+ii, Words are added in brackets with the use of i, €, to
+अक्षरमुद्रा
+identify the denotation of the vocable. In case of a
+ete,
+entry the identification pertains to the
+complex
+कालकृष्माण्ड
+immediately preceding word €. g. अश्चरमात्रत्व imperi-
+ete,
+shable (i. €. Brahman etc,
+ASHE.
+iii, Derived or secondary meanings are given with the
+tives €. g. of words like *Jit,* 1. *hence* or the=sign.
+use *fig.,* e.,
+etc. "iv. A form of a word used for a normal positive
+negative
+अक्त (akna concept is first given in the negative form followed.
+by the *positive* word in brackets with the use i. e..
+Panini. अङकण्टाय्र unblunted (1. €, sharp etc.
+नि v. Abstract suffixes like -ta and -tva are generally
+translated ‘the state ०...
+al. of vi. The *nominal* of a compound is given in the gloss.
+usage use
+the body as ‘one *who...’,* while the adjectival use with ‘who...’.
+der vii. Articles like a, the not used with words meaning
+<(कारण are
 abstract concepts or ideas,
 
+## Page 5
 
----
-
-LEXXVI
-XVIL TYPES
-oo Black Devanagari is used to *give* the entry-word *and*
+गा. TYPES,
+‘i, Black Devanagari is used to give the entry-w
 while giving cross-refercnce to other articles.
-Ordinary Devanagari is *used*
-(a) to give citations from Sanskrit works which *are*
-more than one word long.
-(b) graphemes *of* Sanskrit.
-single-word citations from Kogas *and* grammatical
-works
-(१) *all* words added in brackets in the citations *and*
-the remarks *of* the commentators
-The Roman type is used
-(a) for the transliteration *of* the entries.
-(b) glosses *and* explanations
-(५) proper names *and* Sanskrit words commonly *used*
+ii, Ordinary Devanagari is used...
+(a) to give citations from Sanskrit works
+‘more than one word long.
+(४) graphemes of Sanskrit.
+single-word citations from Kogas and grat
+works.
+(१) all words added in brackets in the citati
+the remarks of the commentators.
+ॐ. The Roman type is used
+(a) for the transliteration of the entries.
+(b) glosses and explanations.
+(५) proper names ‘and Sanskrit words commo
 in English.
-(१) names *of* countries, cities, mountains etc.
-(€ names *of* authors, books ete,
-The Italic type is used
-(a) for *all* single non-English words *and* Sanskrit
-words occurring in running English sentences,
-(b) grammatical elements *of* Sanskrit,
-(५) *all* *quoted* forms *of* nouns *and* verbs.
-Vv Lower capitals *are* used for
-(a) names *of* modern séholars *and* authors,
-(b) Conjugational number *and* Padas *of* verbs,
-XVIII. PUNCTUATION MARKS AND OTHER SYMBOLS
-Besides their normal use, the punctuation marks are also
-*used* as follows *oo*
+(१) names of countries, cities, mountains etc
+(€) names of authors, books ete,
+ivy. The Italic type is used
+(a) for all single non-English words and
+‘words occurring in running English sent
+(b) grammatical elements of Sanskrit,
+all forms. of and
+(¢) quoted nouns verbs.
+v. Lower capitals are used for
+(a) names of modern séholars and authors,
+(b) Conjugational number and Padas of verk
+XVII. PUNCTUATION MARKS AND OTHER SYMB(
+Besides their normal use, the punctuation marks
+used as follows:
 
-iii.
-iv.
-vi.
-vii.
-viii.
-ix,
-
-A comma is *used* to separate different’ words in the
-glosses, which *give* the same meaning of.the vocable.
-A semi-colon is used to separate two citations, whether
-“quoted in full *or* merely referred to.
-A full stop is used after *all* abbreviations and at. the
-end *of* the article *if* it does not *end* with a bracket.
-Three dots *are* *used* to indicate that a *part* *of* the text
+LXXXVI
+A-comma is used to separate different’ words in the
+glosses, which give the same meaning of.the vocable.
+ord and
+ii... A semi-colon is to two whether
+used separate citations,
+“quoted in full or merely referred to.
+fii. A full stop is used after all abbreviations and at. 06
+hich are end of a’bracket.
+the article if it does not end with
+iv. Three dots are used to indicate that a part of the text
+धि
 is omitted in the citations.
-A hyphen is used after the root in transliteration *and*
+mmatical v. A hyphen is used after the root in transliteration and
 to indicate the Immediate Constituent cuts.
-A black slant line is used to separate the accepted
-etymology *of* a word from the traditional one *and*
-other remarks,
-Round brackets *are* used for
-(a) the transliteration *of* the lemmata,
-(b) the status *of* words *and* meanings.
+ions and
+vi, A black slant line is used to separate the accepted
+etymology of a word from the traditional one and
+other remarks.
+vii. Round brackets are used for
+(a) the transliteration of the lemmata,
+nly used (b) the status of words and meanings.
 (५) additional matter in glosses.
-(d) remarks giving the context.
-(€ corrections *and* additions in Sanskrit citations.
+remarks the context.
+(१) giving
+(€ corrections and additions in Sanskrit citations.
 (£) variant readings in the passages quoted.
-(g) to indicate a difference in accentuation e.
-g.
-(4kama
-Square brackets *are* used for giving
-(a) the etymology *and* derivation *of* vocables,
+(g) to indicate a difference in accentuation e. g.
+Sanskrit
+(४८2)
+ences,
+viii. Square brackets are used for giving
+(a) the etymology and derivation of vocables,
 (b) other grammatical information,
-(५) sources *of* vocables taken from other dictionaries,
-(d) names *of* scholars.
-“(e) missing letters added in the texts,, especially
-inscriptions
-(£) the feminine *of* the adjective
-An asterisk is used to indicate a recoristructed form
-अंश्चुमयी (from *arhgumaya
-*£.*
+(५) sources of vocables taken from other dictionaries,
+(9). names of scholars.
+“(e) missing letters added in the texts,
+especially
+inscriptions.
+OLS
+(£) the feminine of the adjective.
+are also ix, An asterisk is used to indicate a reconstructed form
+a
+९. £. अंश्चुमयी (from *arhgumaya

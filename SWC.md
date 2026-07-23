@@ -1,123 +1,133 @@
-SUBJECT-WISE CLASSIFICATION AND APPROXIMATE:
-Samhitas 26 Mimarsa
-४८ Brahmanas 27° Vedanta
-CO Aranyakas 27.1 Sankara
-Upanisads 27.2 Bhaskara
-4. Major Upanisads 27.3 Ramanuja
-4. Minor Upanisads 97.4 Anandatirtha
-Mantrapatha, Anukramanis ete. 27.5 Nimbarka
-Srautasitras 27.6 Srikantha
-Sulbasiitras 27.7 Vallabha
-Pitrmedhasitras 27.8 Govinda
-27.9 Srikara
+<!-- provenance: engine=tesseract-5.5.0.20241111 eng+san; pipeline=run_ocr.py v2; source=SWC.pdf; date=2026-07-23 -->
+# SWC.pdf
+
+## Page 1
+
+SUBJECT-WISE CLASS
+Sambhitas
+Brahmanas
+Aranyakas
+Upanisads
+4,1 Major Upanisads
+4. Minor Upanisads
+Mantrapatha, Anukramanis ete.
+Srautasitras
+Sulbasiitras
+Pitrmedhasitras
 Grhyasiitras
-10 Nirukta 28 Bhakti
-11 Pratigakhyas 29 Trika
-12 Epics 30 Samkhya
-13 Commentaries on the Mahabharata 31 Yoga
-14 Buddhism 32 Nyaya
-15 Jainism Dogmatics 33 Vaisesika
-16 Jainism Narrations 34 Nydyavaisesika
-17 Puranas 35 Dharmasiitras
-18 Tantras 36 Dharma
-19 Grammar Paninian 87 Nibandha
-20 Grammar Non-Paninian 38 Arthasastra
-21 Linganugasanas 39 Minor sciences
-22 Siksas 39. Veterinary Science, Archery
-23 Lexicons 39.2 Agriculture
-24 Commentaries on the Amarakoga 39. Sports
-25 Philosophy General 40 Samgita
-1, SAMHITAS 1400 BC Samhitopanisad
-Reveda Gopatha
-Samaveda Kauthuma 3. ARANYAKAS 800 BC
-Samaveda Ranayaniya Aitareya
-Samaveda (Jaiminiya Sankhayana
-Atharvaveda Saunaka Taittiriya
-Atharvaveda Paippalada 4, UPANISADS
-Taittiriyasamhita 4.1 MAJOR UPANISADS 600 BC
-Maitrayanisamhita Traditional Order
-Kathakasamhita Wsavasya Vajasaneyisamhita *40*
-Kapisthalakathasamhita Kena
-Vajasaneyisamhita Madhyandina Katha
-Vajasaneyisamhita Kanva Pragna
-Khilasiktas Mundaka
-2, BRAHMANAS 1000 BC Mandikya
-Aitareya Taittiriya Taittiriyaranyaka 7-9
-Paficaviméa Aitareya Aitareyaranyaka IT, *4-6*
-Kausitaki Chandogya
-Taittiriya Brhadaranyaka Satapathabrahmana
-Sadviméa XIV.
-Satapatha Svetasvatara
-Mantra Kausitaki
-Jaiminiya Maitrayani
-Jaiminiyopanisad. Baskalamantra
-Samavidhana Chagaleya
-Arseya Arseya:
-Devatadhyaya Saunaka
-Vamsa Jaiminiya (=Jaiminiyopanisadbrahmana)
-8. D.
+10 Nirukta
+11 Pratigakhyas
+12 Epics
+13 Commentaries on the Mahabhara
+14 Buddhism
+15 Jainism Dogmatics
+16 Jainism Narrations
+17 Puranas
+18 Tantras
+19 Grammar Paninian
+20 Grammar Non-Paninian
+21 Linginudaisanas
+22 Siksis
+23 Lexicons
+24 Commentaries on the Amarakosa
+25 Philosophy General
+1, SAMHITAS BC
+Reveda
+Samaveda Kauthuma
+Samaveda Ranayaniya
+Samaveda (Jaiminiya
+Atharvaveda Saunaka
+Atharvaveda Paippalada
+Taittiriyasamhita
+Maitrayanisamhita
+Kathakasamhita
+Kapisthalakathasamhita
+Vajasaneyisamhita Madhyandina
+Vajasaneyisamhita Kanva
+Khilasiktas
+2, BRAHMANAS BC
+Aitareya
+Paficaviméa
+Kausitaki
+Taittiriya
+Sadviméa
+Satapatha
+Mantra
+Jaiminiya
+Jaiminiyopanisad.
+Samavidhana
+Arseya
+Devatadhyaya
+Vamsa
+8, D.
 
-CHRONOLOGY *OF* THE WORKS
-*41* Silpa
-*42* Medicine
-*49* Kama
-44 Mathematics
-45 Astronomy
-46 Astrology
-*47* Alchemy
-48 Poetics
-49 Dramaturgy
-50 Nrtya
-51 Prosody
-52 Kavyas
-53 Historical Poems
-54 Minor Poems
-54. Satakas ete,
-54. Laharis
-54,3 Ditakavyas
-54. Stotras, Stavas ete,
-54.5 Other Poems
-55 Anthology
-56 Brhatkatha and connected
-57 Stories 4nd Romances
-58 Campi
-59 Drama
-60 Farces
-61 Allegorical plays
-62 Inscriptions
-*4.2* MINOR UPANISADS'
-Alphabetically Arranged
+SIFICATION AND APPROXIMATE CHRONOLOGY OF THE WORKS
+26 Mimamsa 41 Silpa
+27 Vedanta 42 Medicine
+27.1 Sankara 48 Kama
+Bhaskara 44 Mathematics
+27,2
+27.3 Ramanuja 45 Astronomy
+27.4 Anandatirtha 46 Astrology
+27.5 Nimbarka 47 Alchemy
+27.6 Srikantha 48 Poetics
+27.7 Vallabha 49 Dramaturgy
+27.8 Govinda 50 Nrtya
+27.9 Srikara 81 Prosody
+28 Bhakti 52 Kavyas
+29 Trika 53 Historical Poems
+30 Samkhya 54 Minor Poems
+itay 31 54. Satakas ete.
+Yoga
+32 Nyaya 54,2 Laharis
+54,3
+35 Vaisesika Ditakavyas
+34 Nydyavaisesika 54. Stotras, Stavas ete,
+35 Dharmasiitras 54,5 Other Poems
+36 Dharma 55 Anthology
+37 Nibandha 56 Brhatkatha and connected Works.
+38 Arthasastra 57 Stories 4nd Romances
+39 Minor sciences 58 Campi
+39.1 Veterinary Science, Archery 59 Drama
+39.2 Agriculture 60 Farces
+39.3 Sports 61 Allegorical plays
+40 Samgita 62 Inscriptions
+Samhitopanisad 4.2 MINOR UPANISADS'
+Gopatha Alphabetically Arranged
 Aksamalika,
-Aksi
-Atharvasgikha
-Atharvagiras
-Advayatairaka
-Advaita
-Adhyatma
-Annapirna
-Amrtanada
-Amrtabindu
-Alla
-‘Avadhita J,
-Avyakia
-Acamana
-Atma 1/2
+3. ARANYAKAS 800 BC
+Aitareya Aksi
+Sankhayana Atharvasikha
+Taittiriya Atharvagiras
+4, UPANISADS Advayataraka
+4.1 MAJOR UPANISADS 600 BC Advaita
+Traditional Order Adhyatma
+40 Annapirna
+Wavasya Vajasaneyisamhita
+Kena Amrtanada
+Katha Amrtabindu
+Pragna Alla,
+Avadhita
+Mundaka J,
+Mandikya Avyakia
+Taittiriyaranyaka 7-9 Acamana
+Taittiriya
+Aitareyaranyaka IT, 4-6 Atma 1/2
+Aitareya
 Atmapaja
-Atmabodha
-Atharvanadvitiya
+Chandogya
+Brhadaranyaka Satapathabrahmana Atmabodha
+XIV. Atharvanadvitiya
 Arunika
-Agrama
-Itihasa
-Urdhvapundra
-Ekaksara
-Katharudra
-Kathasruti
-Kalisarhtarana
+Kausitaki Agrama,
+Maitrayani Itihasa
+Baskalamantra Urdhvapundra
+Chagaleya Ekaksara
+Arseya: Katharudra
+Saunaka Kathaégruti
+Jaiminiya (=Jaiminiyopanisadbrahmana) Kalisarhtarana
 
-Works.
-
-
----
+## Page 2
 
 Katyayana
 ‘Kamarajakilitoddhara
@@ -125,7 +135,6 @@ Kalagnirudra
 Kalika
 _Kalimedhadiksita
 “‘Kundika
-‘Krsna
 Krsnapurusottama
 ‘Kaivalya
 Ksurika
@@ -157,6 +166,7 @@ Tulasi
 ‘Trisikhabrahmana
 Daksinamirti
 Dattatreya
+oe
 Devi
 Dvaya
 Dhyanabindu
@@ -184,147 +194,95 @@ Paficabrahma
 Paingala
 Pranava 1,
 
-*LXXIV*
-Pranagnihotra
-Bahvrea
-Bilva
-Brhajjabala
-Brahma
-Brahmabindu
-Brahmavidya
-Bhasmajabala
+LXXIV
+Pranagnihotra Siddhantasara
+Bahvrea Sita
+हि धि
+Bilva Sudaréana
+Brhajjabala Subala
+Brahma eo Sumukhi-- poe,
+Brahmabindu Sirya
+Brahmavidya Siryatapini
+Bhasmajabala Saubhagyalaksmi
 Bhavana
-Bhiksuka
-Mathamnaya
-Mandalabrahmana
-Mantrika,
-Mahanarayana
-Mahavakya
-Mahopanisad
-Muktika
-Mudgala
-Mrtyulangila
-Maitri
-Maitreyi
-Yajfiopavita
-Yajiiavalkya
-Yogakundali
-Yogacidamani
-Yogatattva 1,
-Yogaraja
-Yogagikha
-Rajasyamalarahasya
-Radha
-Ramapirvatapini
-Ramarahasya
-Ramottaratapini
-Rudra
-Rudrajabala
-Rudrahrdaya
-Langila
-Linga
-Vajrapafijara
-Vajrasticika
-Vatuka
-Vanadurga
-Varaha
-Vasudeva
-Vidyataraka
-Visrama
-Sarabha
-Satyayantya
-Sandilya
-Sariraka
-Siva
-Sivasankalpa
-Sukarahasya
-Syimala
-Sricakra Cakra
-Sodhopanisad
-Sankarsana
-Sadananda
-Samnyasa
-Sarasvatirahasya
-Sarvasara
-Samarahasya
-Savitri
-Siddhantagikha
-
-Siddhantasara
-Sita
-Sudargana
-Subala
-Sumukhi
-Sirya
-Saryatapini
-Saubhagyalaksimi
 Skanda
-Svasarnvedya
-Hamsa
-Harhsasodha
-Hayagriva
-Heramba,
-5. MANTRAPATHA, ANUKRAMANIS
-ETC.
+Bhiksuka Svasarhvedya
+Mathamnaya Harhsa
+Mandalabrahmana Harhsasodha हि
+Mantrika Hayagriva
+Mahanarayana Heramba,
+Mahavakya 5. MANTRAPATHA, ANUKRAMANIS
+Mahopanisad ETC.
+प्क
 Apastambamantrapatha
-Brhaddevata 4th ५. B. C.
-Sarvanukramani 5th—3rd ९, B.
-Brhatsarvanukramanika
-Atharvavedaparisista
-6. SRAUTASUTRAS 600 BC
-Aégvalayana
+B.C.
+Mudgala Brhaddevata 4the
+Mrtyulangiila Sarvanukramani 5th-3rd B,
+Maitri Brhatsarvanukramanika
+Maitreyi Atharvavedaparisista
+Yajfiopavita 6. SRAUTASUTRAS 600 BC
+a
+Yajfiavalkya Aévalayana’
 Sankhayana
-Baudhayana
-Vadhila
+Yogakundali
+Yogaciidamani Baudhayana
+Yogatattva 1, Vadhila
+Yogaraja
 Bharadvaja
-Apastamba
-Manava
-‘Varaha
-Katyayana
-Hiranyakesin
-‘Naikhanasa
+Yogasikha Apastamba
+Rajasyamalarahasya Manava
+Radha Varaha
+Ramapirvatapini Katyayana
+‘Ramarahasya Hiranyakesin
+Ramottaratapini ‘Waikhanasa
+Rudra
 Masgakakalpasiitra
-Ksudrasitra
-Nidanasitra
-Latyayana
-Drahyayana
-Jaiminiya
-Puspasiitra
-Vaitana
-7. SULBASUTRAS 600 BC
-Baudhayana
-Apastamba
-Katyayana
-PITRMEDHASUTRAS 600 BC
-Gautama
-Baudhayana
-Bharadvaja
-Hiranyakesgin
-9. GRHYASUTRAS 600 BC
-Sankhayana
-Kausitaka
+Rudrajabala _Ksudrasiitra
+Rudrahrdaya Nidanasiitra
+Langila Latyayana
+Linga Drabyayana
+Vajrapafijara Jaiminiya
+शभुष्छ्ऽप्नतछ Puspasiitra
+एभ्युणा-2 Vajitana
+Vanadurga 7. SULBASUTRAS 600 BC
+Varaha Baudhayana
+‘Vasudeva Apastamba
+‘Vidyataraka Katyayana
+-Vigrama 8. PITRMEDHASUTRAS 600 580
+"Sarabhai
+“Gautama
+Satyayantya Baudhayana
+Sandilya Bharadvaja
+Sariraka Hiranyakegin
+9. GRHYASUTRAS 600 BO
+Sivasankalpa Sankhiyana
+धि
+Sukarahasya Kausitaka
 Agvalayana
-Bodhaiyana
-Kathaka
-‘Bharadvaja
-Apastamba
-‘Manava
-88.119.
-‘Hiranyakesin
-Vaikhanasa
-Agnivegya
--Paraskara
+Sricakra
+Cakra Bodhayana
+Sodhopanisad” Kathaka
+Sankarsana ‘Bharadvaja
+Sadananda Apastamba
+Samnyasa {Manava
+Sarasvatirahasya Varaha
+धवासा ‘Hiranyakesin
+Samarahasya _--Waikhanasa
+oe
+ईक्सन Agnivegya
+Siddhantagikha ष्णा
 
-
----
+## Page 3
 
 Gobhila
 Drahyayana
+ae
 Jaimini
 Kausgikasiitra
-10. NIRUKTA
+NIRUKTA
+10.
 Nighantu
-Nirukta ५. 400 8. त.
+Nirukta ०. 400 8. त.
 11. PRATISAKHYAS 400 BC
 Rkpratisakhya
 Upalekhasiitra
@@ -336,15 +294,15 @@ Samavedasaptalaksana
 Upanidanasiitra
 Atharvapratisakhya
 Saunakiyacaturadhyayika
-12. EPICS 400 BC-400 *AD*
+12. EPICS 400 BC-400 AD
 Mahabharata
 Ramayana
 Harivarsa
 18. COMMENTARIES ON THE
 MAHABHARATA
-JHanadipika ०. 1150 A. D.
+JHanadipika ०. A. D.
 Visamasloki Durghatirthaprakasika
-Mahabharatatika 1275-1350 A, D.
+Mahabharatatika, 1275-1350 A. D.
 Bharatarthaprakagika,
 Mahabharatarthadipika
 Laksabharana 1500-1600 A. D.
@@ -359,7 +317,7 @@ Saddharmapundarika
 Gandavyihamahiyanasiitra
 Madhyantavibhaga 300-50 A. 1.
 Abhisamayalankara 300-50 A. D.
-Bodhisattvabhimi 3800-50 A. D.
+Bodhisattvabhimi 300-50 A. 1.
 Lankavatarasitra 300-50 A. D.
 Abhidharmasamuccaya: 300-50 A. D,
 Yogacarabhiimi 300-50 A. D.
@@ -368,8 +326,7 @@ Abhidbarmakoga 4th ५. A.D,
 Abhidharmakogabhasya 4th ५. A, D.
 Madhyantavibhagabhasya 4th ५. A, D.
 Triméika 4th.c. A. D.
-Virngatika 4th A. D.
-c.
+Virngatika 4th ५. A. D.
 Jatakamala 4th ९. A. D.
 Nyayapravesa 4th c. A. D.
 Gilgit Manuscripts
@@ -377,148 +334,85 @@ Pratimoksasitra
 Madhyantavibhagastitrabhasyatika
 ०. 550 A. D.
 Prasannapada 6th ५. A, D.
-Nyayabindu 7th ५, A, D.
+7th
+Nyayabindu ५, A, D.
 Pramanavarttika
 Pramanavarttikasvopajfiavrtti
 Sphutartha
 Bodhicaryavatara
-Siksasamuccaya *st*
+Siksdsamuccaya
 
-“LXXV
-Hetubindutika 700 A. D.
-Tattvasamgraha 750-763 A. D.
-Tattvasamgrahapafijika c. 760 A. 0.
-Abhisamayalankaraloka 770-810 A. D.
-Hevajratantra
-Nyayabindutika 8th ५. *A.D,*
-Pramanavarttikabhasya c. 800 A. D.
-Dharmottarapradipa ०. 1000 A. 1.
-Bodhicaryavatarapaijika
-Avadanakalpalata 1028-63 A. D.
-Tarkabhasa 1075-1100 A. D..
-Mahavyutpatti
-15. JAINISM Dogmatics
-Tattvarthadhigamasitra ९. 100 A. D.
-Tattvarthabhasya. c. 100 A, D.
-Pariksamukhasiitra
-Sarvarthasiddhi c. 400 A. D.
-Nyayavatara 700-50 A. D.
-Tattvartha( raja )varttika 750-800 A. D.
-Laghiyastraya 750-800 A. 1.
-Nyayavinigcaya 750-800 A. D.
-Pramanasamgraha 750-800 A. D,
-Visesavasyakabhasyavrtti
-Prameyaratnamala
-Tattvapradipika 10th ९, A. D.
-Pramananayatativalokalankara
-Tatparyavytti 1150-1200 A. D.
-Parigistaparvan 1143-76 A. D.
-Yogasastra 1160-72 A. D.
-Pramanamimarhsa *0.* 1172 A. D.
-Ratnakaravatarika
-Aupapatikasitratika 12th ९. A. D,
-Jfiatadharmakathatika 12th ९, A. D,
-Sthandngatika 12th ५, A. D.
-Syidvadamafijari Saka 1214 (1292 A:
-D.)
-Tirthakalpa Sam. 1364-89
-1808-33 A. D.
-Gurvavali
-Jfianabinduprakarana 1600-1650 A, D.
-16. JAINISM Narrations
-Padmapurana Ravisena
-Vira Nir, 1204 678 A. D.)
-Varaingacarita 7th c, A. D.
-Siddhipriyastotra
-Kalyaénamandirastotra 700-50 A, D.
-Bhaktamarastotra 8th e. A. D,
-Harivarhégapurana Jinasena
-Mahapurana 815-877 A. D.
-“Brhatkathakoga Sarh. 989, Saka 853
-(931 A. D.)
-Jinagataka 950-75 A. D,
-Caturvirngatijinastuti 950-1000 A. D.
-Yasodharacarita
-Ekibhavastotra
-Sripirgvanathacarita Vadiraja
-Visapaharastotra
-Mahavirastotra Jinavallabha
-early 12the A.D,
-Vairagyasataka Padmanabha
-1125-75 A. D.
-Pragnottararatnamala,
-Vitaragastotra 1143-76 A. D.
-Trisastigalakapurusacarita 1160-75 A. D.
-Mahivirastotra 1, 1160-75 *A.D.*
+-LXXV
+700 A. D.
+Hetubindutika ०, Hemacandra
+Tattvasamgraha 750-763 A. D. Neminirvana
+Tattvasamgrahapafijika c. 760 A. 0. Kuvalayamalakathasamksepa
+Abhisamayalankaraloka 770-810 A. D. Pandavacarita A. D.
+Hevajratantra Surathotsava 1201-60 A. D.
+Nyayabindutika 8th c. A. D. Kirtikaumudi 1225-50 A. D.
+Pramanavarttikabhasya ५. 800 A. D. Mallinathacarita 1225-75 A. D,
+Dharmottarapradipa ०. A. 1. Parsvanathacarita Bhavadeva
+Bodhicaryavatarapafijika Sarh. 1312/1412 (1255/1355 A. 1).
+Avadanakalpalata 1028-63 A. D. Samaradityasamksepa
+Tarkabhasa 1075-1100 A. D.. Sam, A. 7.)
+Mahavyutpatti Srigaravairagyatarangini A. D.
+15, JAINISM Dogmatics Sindiraprakara A. D,
+Tattvarthadhigamasitra c, 100 A. D. Prabhavakacarita Sar. (1278 A D.)
+Tattvarthabhasya. ०. 100 A, D. Salibhadracarita
+Pariksamukhasiitra Nemidita
+Sarvarthasiddhi c. 400 A. D. Rauhineyacarita
+Nyayavatara 700-50 4. 0. Samyaktvakaumudi
+Tattvartha( raja varttika 750-800 A.D, Prabandhacintamani
+Laghiyastraya 750-800 A. D. Sam. A. D.
+Nyayavinigcaya 750-800 A. D. Srivirastava
+Pramanasamgraha 750-800 A. D, Gotamastotra
+Visesavasyakabhasyavriti Caturviméatijinastava
+Prameyaratnamala Parsvastava
+Tattvapradipika 10th ९. A. D. Pargvanathastava
+Pramananayatativalokalankara Sriviranirvanakalyanastotra
+Tatparyavrtti 1150-1200 A.D. Siddhantagamastava
+Parigistaparvan 1143-76 A. D. Jinacaturviméatika
+Yogasastra 1160-72 A. D. Atmanindastaka
+Pramanamimarhsa 0. A. D. Uttamakumaracarita
+Ratnakaravatarika Kalikacaryakatha
+Aupapatikasiitratika 12th ९. A. D. Prabandhakoga Sam. (1849 A. D.)
+Jfatadharmakathatiké, 12th c, A. D, Dhirtakhyana Sar. A.D.
+Sthandngatika 12th ५, A. D. Bharatakadvatrimsika 15th ९, A. D.
+Syidvadamafijari Saka (1292 4. 7.) Palagopalakathanaka ०. A. D.
+Tirthakalpa Sar. 1364-89 Ratnactdakatha A. D.
+(1308-33 A.D.) Puratanaprabandhasarhgraha
+Gurvavali Neminathacarita
+Jfianabinduprakarana 1600-1650 A, D. Campakaégresthikatha
+16. JAINISM Narrations Citrasenapadmavaticarita
+Sarh.
+Padmapurana Ravisena A.D.)
+Vira Kathakoéa
+Nir, (678 A.D.)
+Varangacarita 7th ५, A. D. 17. PURANAS
+Siddhipriyastotra *‘Group* I: *Before* 600 A, D.
+Kalyanamandirastotra 700-50 A. D. Visnu
+Bhaktamarastotra A. D, Markandeya
+8th e.
+Harivarhégapurana Jinasena Vayu
+Mahapurana 815-877 A. D. Matsya
+“Brhatkathakoga Sarh. 989, Saka 853 Brahmanda
+981 A. D.) *Group* II; *Before* A, D.
+Jinagataka 950-75 A. D, Bhagavata
+Caturvirngatijinastuti 950-1000 A. D. Kirma
+Yasodharacarita Agni
+Ekibhavastotra Brahmavaivarta
+Sripirsvanathacarita Vadiraja Nilamata
+Visapaharastotra Skanda
+Mahavirastotra Jinavallabha Vamana
+early 12the A.D, Visnudharmottara
+Vairigyagataka Padmanabha Varaha
+1125-75 A.D, Brhannaradiya
+Pragnottararatnamala Narasimha
+Vitaragastotra 1143-76 A. D. *Group* *IIT:* *After* 4. 2.
+Trisastigalakapurusacarita 1160-75 A. D. Linga
+Mahivirastotra 1, 1160-75 A.D. Brahma
 
-Hemacandra
-Neminirvana
-Kuvalayamalakathasarnksepa
-Pandavacarita 1200 A. D.
-Surathotsava 1201-60 A. D.
-Kirtikaumudi 1225-50 A. D.
-Mallinathacarita 1225-75 A. D,
-Parsvanathacarita Bhavadeva
-Sarh. 1312/1412 (1255/1355 A. D.)
-Samaradityasarhksepa
-उक. 1324 *(1268* A. 7.9.
-Srigaravairagyatarangini 1276 A. D.
-Sindiraprakara 1276 A. D.
-Prabhivakacarita Sam. 1334 (1278 A.
-D.),
-Salibhadracarita
-Nemidita
-Rauhineyacarita
-Samyaktvakaumudi
-Prabandhacintamani
-Sam. 1361 1305 A. D.
-Srivirastava
-Gotamastotra
-Caturviméatijinastava
-Parévastava
-Parégvanadthastava
-Sriviranirvanakalyanastotra
-Siddhantagamastava
-Jinacaturviméatika
-Atmanindastaka
-Uttamakumaracarita
-Kalikacaryakatha
-Prabandhakoga Sarh. 1405 (1349 A. D.)
-Dhirtakhyana Sar. 1422 1365 A.D.
-Bharatakadvatrimsika 15th ९, A. D.
-Palagopalakathanaka c, 1488 A. D.
-Ratnactdakatha 1450 A. D.
-Puratanaprabandhasamegraha
-Neminathacarita
-Campakagresthikatha
-Citrasenapadmavaticarita
-9९१. 1660 1603 A. D.
-Kathakoga
-17. PURANAS
-Group I: Before 500 A, D.
-Visnu
-Markandeya
-Vayu
-Matsya
-Brahmanda
-Group II: Before 1000 A, D.
-Bhagavata
-Kirma
-Agni
-Brahmavaivarta
-Nilamata
-Skanda
-Vamana
-Visnudharmottara
-Varaha
-Brhannaradiya
-Narasimha
-Group *III* *After* 1000 *A.D.*
-Linga
-Brahma
-
-
----
+## Page 4
 
 Bhavisya
 Devibhagavata
@@ -532,9 +426,9 @@ Kalki
 Adhyatmaramayana
 “Yogavasistha
 18. TANTRAS
-Guhyasamajatantra
-Pauskarasarmbhita
-Jayakhyasamhita ९. 450 *A.D*
+‘Guhyasamajatantra
+Pauskarasarhhita
+Jayakhyasarmhita ०. 450 A. D.
 Ahirbudhnyasamhita
 Lalitasahasranama
 Paramesvarasamhita
@@ -553,31 +447,31 @@ Paranandasitra ९. 900 A. D.
 Laksmitantra
 ‘Tantrasara Abhinavagupta
 Tantraloka
-‘Vanagivagurudevapaddhati 11th A.D,
+‘Tanagivagurudevapaddhati 11th ५, A.
 Paficaratra Narada
 Satvatatantra
 Paraguramakalpasitra
 Mahanirvanatantra
 Paficaratraraksa 14th ९. A. D.
-‘Tantrasamuccaya 1426-75 A.
-Tantrasara Krsnananda 1500-50 *A.D*
-Satcakranirapana Saka 1499 *(1577* A.D.)
+‘Tantrasamuccaya 1426-75 A. D.
+Tantrasara Krsnananda 1500-50 A
+Satcakraniripana Saka, (1577 A.
 Brhaddharmasamhita
 Saktisarhgamatantra
 Varivasyarahasya 1700-50 4, 1).
 Lalitasahasranamabhasya
-Sarn. 1785 *(1728* A. D.)
-Setubandha Saka 1655 (1733 A. D.
+Sam. (1728 A,
+Setubandha Saka (1733 A. D.
 Nityotsavanibandha
-Kali 4876 *(1775* 4. 7.
-Kosas
+Kali (1775 A. 1]
+*Kosas*
 Uddharakoga
-Tantrabhidhana ९, 1597 A. D.
+Tantrabhidhana ९, A. D.
 19. GRAMMAR (PANINIAN)
 Sivasiitras
 Astadhyayi 4th ५. B.C.
 Dhatupatha
-‘Ganapatha
+Ganapatha
 Unadisitra
 Phitsitra
 Varttika 3rd ५. B,C.
@@ -586,93 +480,91 @@ Mahabhasya 150 B, C.
 Kasikavrtti 600-650 A. D,
 
 LXXVI
-Nandikesgvarakasika Kauhali
+Nandikegvarakagika Kauhali
 Sphotasiddhi Mandanamiéra Yajfiavalkya
-Nyasa 8th ९. A.D. Katyayani
-Pradipa 11th ९. A, Parasari
-Ganaratnamahodadhi 1140 A. Amoghanandini
-Ripavatara Madhyandini
-Durghatavrtti Saka 1095 (1172 A.D.) Laghumadhyandini
+Nyasa 8th ९. A. D. Katyayani
+Pradipa 11th ९. A. D. Parasari
+Ganaratnamahodadhi A. D. Amoghanandini
+Riipavatara Madhyandini
+Saka A.
+ष्णा (1172 D.) Laghumadhyandini
 Ksiratarangini Naradi
-Dhatupradipa 12th ९. A. D. Lomasi
+Dhatupradipa 12th ५. A. D. Lomasi
 Bhasavrtti 12th co A. D. Gautami
-Padamafijari 13th ९. A, D. 23. LEXICONS
-Dhatuvrtti Dviripakoga Panini
-Paribhasavrtti Amarakosa 6th ९. *A.D.*
-Prakriyakaumudi 15thc A. D. Anekarthasamuccaya ९. 600 A. D.
-Prasaida Paryaéyaratnamala 900-25 A. D.
+Padamafijari 13th ९. A, D. 28. LEXICONS
+Dhatovrtti Dviripakoga Panini
+Paribhasavrtti Amarakosa 6th ९, A. D.
+Prakriyakaumudi 15th co. A. D. Anekarthasamuccaya ९. 600 A. D.
+Prasada Paryayaratnamala 900-25 A. D.
 Panintyatantravadanaksatramala Anekarthadhvanimafijari 925 A. D.
 1582-85 A, D, Abhidhanaratnamala 925-75 A. D.
-Siddhantakaumudi 17th c, A, D. Namamalika 11th c, A.D.
-Vaiyakaranabhisana Vaijayanti c. 1050 A. D.
+Siddhantakaumudi 17th ९, A, D. Namamalika 11th c, A.D.
+Vaiyakaranabhisana Vaijayanti c. A. D.
 Vaiyakaranabhisanasira Trikandasgesa 1050-1159 A. D.
 Paribhasavrtti Nilakantha Haravali 1050-1159 A. D.
-Paribhasendugekhara 18th ९. A. D. Sabdabhedaprakaga 1050-1159 A. D.
-Laghugabdendugekhara 18th ९. A.D, Sesandmamala 1089-1172 A. D.
-Vaiyakaranasiddhantalaghumafijisa Anekarthasarngraha 1089-1172 A. D.
-18th ५. A.D, Abhidhanacintamani 1089-1172 A. D.
-Paramalaghumafijisa 18th ९, *A.D* Agastyanighantu Sabdasarhgraha
-20. GRAMMAR (NON-PANINIAN Visvaprakaga Saka 1033 (1111 A. D.
-Vyadiparibhasa Sabdabhedaprakaga Maheégvara
+Paribhasendusekhara 18th ९. A. 7. Sabdabhedaprakaga 1050-1159 A. D.
+Laghusgabdendusekhara 18th ९. A.D, Sesanamamala 1089-1172 A. D.
+(12) 1.14 Anekarthasarngraha 1089-1172 A. D.
+18the. A.D, Abhidhanacintamani 1089-1172 A. D.
+Paramalaghumafijisa 18the A.D. Agastyanighantu Sabdasarhgraha
+20. GRAMMAR (NON-PANINIAN Visvaprakaéa Saka (1111 4. 1).
+Vyadiparibhasa वि Sabdabhedaprakaga Mahegvara
 Katantra 100 A, D, Dharanikoga
-Katantraparibhasa 100 A. D. Anekarthakoga (Mankha) ९, 1140 A.D,
-Jainendravyakarana 5th ५. A. D, Nanarthasarngraha ९. 1140 A. D.
-Jainendraparibhasa 5th ५. A. D. Nanartharnavasarksepa c. 1160 A.D.
-Candravyaikarana 6th ¢. A. D. Dviripakoéga Harsa
-Candraparibhasa 6th ५, A. D. Anekartharatnamala Dhanafijaya
+Katantraparibhasa 100 A. D. Anekarthakoga (Mankha) ९, A. D,
+Jainendravyakarana 5th ५. A. D, Nanarthasarheraha ९. A. D.
+Jainendraparibhasa 5the A.D. Nanartharnavasarksepa c. A.D.
+Candravyaikarana 6th ¢. A. D. Dviriipakoga Harsa
+.D. Candraparibhasa 6the A.D. Anekartharatnamala Dhanafijaya
 Candradhatupatha 6th ९. A. D. Anekarthanighantu
-Candravrtti 6th ९. A. D. Namamala
-Katantravrtti 8th ९. A. D. Paryayasabdaratna
-Sakatiyanavyakarana 9th A. D. Medinikoga 1200-75 A, D.
-Sakatayanaparibhasa 9th ५. A. D. Ekaksaranamamala Sudhakalaéa
-Sakatayanadhatupatha 9th 6. A. D. 1350 A. D.
-Sarasvatikanthabharana 11th ९. A. D. Anekarthatilaka
-Siddhahemacandra 1089-1177 A. D. Namamailasiloficha
-Daivavyakarana 12th ९. A. D, Sarh. 14383 1377 A. D.)
-Sarasvatavyaikarana 13th c, A. D. Nanarthamafijari
-Mugdhabodha 1250-1300 A. 1). Nanartharatnamala 1400 A. D.
-९.
-Kavikalpadruma 1250 A. D. Sabdaratnakara Vamanabhattabana
-13th
-Purusakara 0. A. D. 1400-60 A. 1).
-21. LINGANUSASANAS Ekaksarindmamala Amara
-Linganugasana *of* Panini Paramanandiya Anekartha
-of Vararuci Paramanandiyanamamala
-*of* Harsavardhana Saradiyakhyanamamala 1575-1625 A. D.
-*of* Vamana 0. 800 A, D. Eikarthanamamala ९. 1580 A. D.
-*of* Sakatayana Dvyaksaranamamala ५. 1580 A. D.
-*of* Hemacandra Ekaksaranimamalika Visvasambhu
-1089-1177 A. D, ९. 1590 A. D,
-*of* Paramananda Visévalocanakoga 1600 A.
-22. SIKSAS Sabdaratnakara Sadhusundaragani
-Apigali *९.* 1624 A.
-Paniniya Paficatattvaprakadga
-Candravarnasiitra Koégakalpataru ९. 1644 A.D,
+6th A, D.
+Candravrtti ९. Namamala
+Katantravrtti 800 ९. A. D. Paryayasabdaratna
+Sakatayanavyakarana 9th ५. A. D. Medinikoga 1200-75 A. D.
+Sakatayanaparibhasa 9th ५. A. D. Hkaksaranimamala Sudhakalaéa
+Sakatayanadhatupatha 9th ९. A. D. ९. A. D.
+.D. Sarasvatikanthabharana 11th ९. A. D. Anekarthatilaka
+0.) Siddhahemacandra 1089-1177 A. D. Namamailasiloficha
+Daivavyaikarana 12th ९. A.D, Sarh. A. D.)
+Sarasvatavyaikarana 13th c, A. D. Nanarthamaiijari
+Mugdhabodha 1250-1300 A. 1). Nanartharatnamala ५. A. 1).
+Kavikalpadruma A. D. Sabdaratnakara Vamanabhattabana
+Purusakara 13th A. D. 1400-60
+D.) 0. A. D.
+21, LINGANUSASANAS Ekaksarinamamala Amara
+Linganugisana of Panini Paramanandiya Anekartha
+D. of Vararuci Paramanandiyanamamala
+of Harsavardhana Saradiyakhyanamamala 1575-1625 A. D.
+of Vamana c. 800 A, D. Eikarthanamamala ९. A. D.
+of Sakatayana Dvyaksaranamamala c. A. D.
+of Hemacandra Ekaksaranimamalika Visvasambhu
+1089-1177 A. D, ५. A. D,
+of Paramananda Viévalocanakoga ५. A. D.
+22. SIKSAS Sabdaratnakara Sidhusundaragani
+Apigali ५. A. D.
+Paniniya Paficatattvaprakasa
+Candravarnasiitra Koégakalpataru ९. A.D,
 Saisiriya Kalpadrukoga
-Svarankusa Kali 4761, Sar. 1716 1660 A,
-7.)
-Mandiki Sabdaratnasamanvayakoga 1684 A. D.
-Bharadvaja Kosavatarnsa 1810-30 A. D,
+Svarankuga Kali 4761, Sar. A, D.)
+Mandiki Sabdaratnasamanvayakoga A. D.
+Bharadvaja Kogavatamsa 1810-30 A. D,
 
-
----
+## Page 5
 
 24. COMMENTARIES ON THE
 AMARAKOS'A
 Amarakogodghatana 1050-1100 A. D.
 Tikasarvasva
-Kali 4260, Saka 1081 A.D.)
-*(1159*
+Kali 4260, Saka (1159 A. 7.
 Padacandrika
-Kali 4532, Saka 1353 1481 *A.D.*
+Kali 4532, Saka (1431 A.D.
 Vyakhyasudha Bhanujidiksita
 25. PHILOSOPHY General
 Sarvadarganasiddhantasarngraha
 Sarvavedantasiddhantasarasamgraha
 Saddarsanasamuccaya Haribhadra
-Sth ९. A, D,
+8th ५. A,
 Saddarganasamuccaya Rajagekhara
-1325-75 A. D.
+1325-75 A,
 Sarvadarganasarhgraha 1350-75 A. D.
 Sarvadarganakaumudi 1450-1500 A. D.
 Prasthanabheda 1565-75 A. D.
@@ -680,11 +572,11 @@ Sarvamatasarhgraha
 26. MIMAMSA
 Mimarmsasitra
 Sarkarsakanda
-Sabarabhasya 5th c, A.
-Brhati ५. 600 A.
-Bhavanaviyeka *०.* 700 A.
-Vibhramaviveka ९. 700 A.
-Slokavarttika 8th ०. A.
+Sabarabhasya 5th ०. A. D.
+Brhati c. 600 A. D.
+Bhavanaviyeka ०. 700 A. D.
+Vibbramaviveka ¢. 700 A,
+Slokavarttika 8th c. A. D.
 Tantravarttika 8th 6. A. D.
 Tuptika 8th ५. A. D.
 Tatparyatika Umveka 750-800 A. D,
@@ -692,7 +584,7 @@ Sarkarika
 Prakaranapaficika 900-950 A. D.
 Tattvabindu 950-75 A. D.
 Kagika Sucaritamiégra
-Nayaviveka ५. 1000 A. D.
+Nayaviveka ५. A. D.
 Tantraratna 1025-75 A. D.
 Nyayaratnamala 1025-75 A. D.
 Nyayaratnakara 1025-75 A. D.
@@ -701,282 +593,215 @@ Samkarsakandabhasya Devasvamin
 Nyayasudha Bhattasomegvara
 Nyayamalavistara 1350-75 A. D.
 Arthasarhgraha
-Tantrarahasya ९, 1500 A. D.
+Tantrarahasya 0, A.D.
 -Yuktisnehaprapirant 1500-50 A.D.
 Upakramaparakrama 1570-80 A. D.
 ‘Vidhirasaiyana 1570-80 A. D.
 Mimarnsakaustubha 1600-50 A. D,
 Bhattadipika 1600-50 A. D.
 -Mimarnsanyayaprakaga 1600-50 A, D,
-Manameyodaya 1636-46 A. D.
+1636-46
+Manameyodaya A. D.
 ‘Bhattacintamani 1650-1700 A. D.
 Mayikhamalika 17th ९, A. D.
 [Bhattacandrika
 27, VEDANTA
 ‘Brahmasitra
 27.1 SANKARA
-Gaudapadakarika
-Brahmasiddhi ९. 700 A.
+‘Gaudapadakarika
+-Brahmasiddhi ५. 700 A. 7.
 ‘Brahmasiitrabhasya 788-820 A. 1),
 ‘Wopanisadbhasya 788-820 A. D.
 Aitareyopanisadbhasya 788-820 A. D.
 “Kathakopanisadbhisya 788-820 A, 1),
-‘Kenopanisatpadabhasya 788-820 A. D.
+Kenopanisatpadabhasya 788-820 A. 0.
 
 LXXVII
-Kenopanisadvakyabhasya 788-820 A. D,
-Chandogyopanisadbhasya 788-820 A. D.
-Taittiriyopanisadbhasya 788-820 A. D.
-Pragnopanisadbhasya 788-820 A. D.
-Brhadaranyakopanisadbhasya
-788-820 A. D.
-Mundakopanisadbhasya 788-820 A. 1.
-Svetas
-vataropanisadbhasya’
-788-820 A, D.
-Gitabhasya 788-820 A. D.
-Sanatsujatiyabhasya 788-820 A. D.
-Visnusahasranamabhasya 788-820 A. D.
-Lalitatrigatibhasya 788-820 A. D.
-Aparoksanubhiti 788-820 A. D.
-Atmabodha 788-820 A. D.
-Upadegasahasri 788-820 A. 1.
-Paficikarana 788-820 A. D.
-Praudhanubhiti 788-820 A. D.
-Manisapaficaka 788-820 A. D.
-Vakyavrtti 788-820 A. D.
-Vivekaciidamani 788-820 A. D.
-Satadloki 788-820 A. D.
-Sadaciranusandhana 788-820 4. 1),
-Svatmaniripana 788-820 A. D.
-Svatmaprakasika
-Brhadaranyakopanisadbhasyavarttika
-9th ९, A. D.
-Taittiriyopanisadbhasyavarttika
-9the, A.D,
-Naiskarmyasiddhi 9th ९, A. D.
-Paficapadika 9th ५. A. D.
-Istasiddhi 850-900 A. D.
-Sarhksepagariraka 850-900 A. D,
-Paficaprakriya 850-900 A. 1).
-Bhamati ९. 1000 A. D.
-Nyayamakaranda 1050-1100 A. D,
-Pramanamala 1050-1100 A. D.
-Khandanakhandakhadya
-not later than 1170 A. D,
-Tattvapradipika (Citsukha 1200-50 A. D.
-Prakatarthavivarana 1200-50 A. D,
-Vedantakalpataru ९. 1250 A. D.
-Tarkasargraha Anandajfiana
-1250-1350 A, 1),
-Jivanmuktiviveka ९. 1550 A. D.
-Paficadasi c. 1350 A. 7).
-Vivaranaprameyasamegraha 0. 1350 A, D.
-Sankaradigvijaya Madhava
-९.. 1350 A. D.
-Sankaravijaya Anandagiri
-Vedantasara Sadananda
-1450-1500 A, D,
-Prabodhasudhakara 1527-38 A. D.
-Siddhantabindu 1550-75 A. 7).
-Advaitasiddhi 1550-75 A. 1.
-Advaitaratnaraksana 1550-75 A, D.
-Bhedadhikkara 1500-1600 A. D.
-Siddhantalegasarmgraha 1575-82 A, D,
-Nayamafijari 1575-82 A. D.
-Gurucandrika ९. 1600 4. D.
-Laghucandrika ०. 1600 A. D.
-Siddhantatattva ०. 1600 A. D.
-Vedantaparibhasa c. 1600 A. D.
-Siddhantasiddhafijana 1600-75 A. 1),
+Kenopanisadvakyabhasya 788-820 A. D, Vedantasiddhantasiktimafijari
+Chandogyopanisadbhasya 788-820 A. D. ५. A. D.
+Taittiriyopanisadbhasya 788-820 A. D. 27.2 BHASKARA
+Pragnopanisadbhasya 788-820 A, 7. Brahmasiitrabhasya ९. 850-980 A. 7.
+Brhadaranyakopanisadbhasya 27.8 RAMANUJA
+788-820 A.D. Agamapramanya 950-1000 A. D.
+Mundakopanisadbhasya 788-820 A. D. Atmasiddhi 950-1000 A. D.
+Svetiévataropanisadbhasya’ Isvarasiddhi Yamunacarya
+788-820 A, D. 950-1000 A. D.
+Gitabhasya 788-820 A. D. Sarhvitsiddhi 950-1000 A. D.
+788-820 A. D. Sribhasya 1050-1139 A, D.
+Sanatsujatiyabhasya
+Visnusahasranamabhasya 788-820 A. D. Gitabhasya (Ramanuja) 1050-1139 A. D.
+Lalitatrigatibhasya 788-820 A. D. Vedantasara Ramanuja
+Aparoksanubhiti 788-820 A. D. 1050-1139 A. D.
+Atmabodha 788-820 A. D. Vedantadipa 1050-1139 A. D.
+Upadegasahasri 788-820 A. 1. Vedarthasarngraha 1050-1139 A. 1).
+Paficikarana 788-820 A. D. Nitimala 1075-1258 A. D.
+Praudhanubhiiti 788-820 A. D. Srutaprakadika 1250-1300 A. D.
+Manisapaficaka 788-820 A. D. Vedantatattvasara
+788-820 A. D. 1250-1300 A.D.
+Vakyavrtti Nyayakuliga
+Vivekacidamani 788-820 A. D. Satadisani c. 1320-21 A. D.
+Satagloki 788-820 A. D. Nyayapariguddhi A. 1).
+Sadaciranusandhana 788-820 4. 1), -Tattvamuktakalapa c, 1333-34 A.D.
+Svatmaniripana 788-820 A. D. Nyayasiddhafijana c, 1334-35 A. 1).
+Svatmaprakasika Yatindramatadipika early 17th A.D.
+Brhadaranyakopanisadbhasyavarttika 27.4 ANANDATIRTHA
+9th ९, A. D. Brahmasiitrabhasya. Madhva
+Taittiriyopanisadbhasyavarttika ०. A. D.
+9the A.D, Anuvyakhyana A. D.
+Naiskarmyasiddhi 9th ९, A. D. Dagaprakarana
+Paficapadika 9th ९, A. D. Pramanalaksana
+Istasiddhi 850-900 A. D. Kathalaksana
+Samksepasariraka 850-900 A. D, Upadhikhandana
+Paficaprakriya 850-900 A. 1). Mayavadakhandana
+Bhamati ९. A. D. Prapaficamithyatvanumanakhandana
+Nyayamakaranda 1050-1100 A. D, Tattvasarnkhyana
+Pramanamala 1050-1100 A. D. Tattvaviveka
+Khandanakhandakhadya Tattvoddyota
+not later than A. D, Karmanirnaya
+1200-50
+Tattvapradipika (Citsukha A. D. Visnutattvavinirnaya
+Prakatarthavivarana 1200-50 A, 1), Tattvaprakasika 1365-1388 A. D.
+Vedantakalpataru ०, A. 1). Nyayasudha Jayatirtha
+Tarkasargraha Anandajfiana 1365-1388 A, 7.
+1250-1350 A, 7, Vadavali 1365-1388 A. 7.
+Jivanmuktiviveka ९. A. D. Tattvasarmkhyanatika Jayatirtha
+Paficadasi c. A. 7). 1365-1388 A, D.
+Vivaranaprameyasamegraha 0. A, D. Nyayamrta ०, A.D.
+Sankaradigvijaya (Madhava 27.5 NIMBARKA
+९.. A. D. Vedantaparijatasaurabha 13th ९. A. D.
+Sankaravijaya Anandagiri Siddhantaratna
+Vedantasara Sadananda Vedantakaustubha
+1450-1500 A, 7, Vedantaratnamafijisa
+Prabodhasudhakara 1527-38 A. D. 27.6 SRIKANTHA
+Siddhantabindu 1550-75 A. 7. Srikanthabhasya c, A. 1).
+Advaitasiddhi 1550-75 A. D. Sivarkamanidipika 1575-82 *A.D.*
+Advaitaratnaraksana 1550-75 A, D. Pirvottaramimamsavadanaksatramala
+Bhedadhikkara 1500-1600 A. D. 1575-82 A. 7.
+1575-82 D,
+Siddhantalegasarmgraha A, Kriyasara
+Nayamafijari 1575-82 A. D. 27.7 VALLABHA
+Gurucandrika c. A. D. Anubhasya c. 16th ५. A, D.
+A. D.
+Laghucandrika ५. 27.8 GOVINDA
+1600. D.
+Siddhantatattva ०. A. Sarasarhgraha
+A.D. 1725-75 A, D.
+Vedantaparibhasa ०. Govindabhasya
+Siddhantasiddhafijana 1600-75 A.D, 27.9 SRIKARA 2१...
 
-Vedantasiddhantasiktimafijari
-५. 1826 A, D.
-27.2 BHASKARA
-Brahmasiitrabhasya ९. 850-980 A. 7.
-27.8 RAMANUJA
-Agamapramanya 950-1000 A. D.
-Atmasiddhi 950-1000 A. D.
-Isvarasiddhi Yamunacarya
-950-1000 A.
-Samvitsiddhi 950-1000 A.
-Sribhasya 1050-1139 A, D.
-Gitabhasya (Ramanuja) 1050-1139 A.D.
-Vedantasara Ramanuja
-1050-1139 A. D.
-Vedantadipa 1050-1139 A. D.
-Vedarthasarngraha 1050-1139 A. D.
-Nitimala 1075-1258 A.D.
-Srutaprakadika 1250-1300 A. D.
-Vedantatattvasara
-Nyayakuliga 1250-1300 A.
-Satadisani *c.* 1320-21 A. D.
-Nyayaparisuddhi ९. 1324 A. D.
--‘Tattvamuktakalapa c, 1333-34 A. D.
-Nyayasiddhafijana c, 1334-35 A. 1).
-Yatindramatadipika early 17th A.D.
-27.4 ANANDATIRTHA
-Brahmasiitrabhasya. Madhva
-९. 1230 A.
-Anuvyakhyana c, 1230 A, D,
-Dagaprakarana
-Pramanalaksana
-Kathalaksana,
-Upadhikhandana
-Mayavadakhandana
-Prapaficamithyatvanumanakhandana
-Tattvasarnkhyana
-Tattvaviveka
-Tattvoddyota
-Karmanirnaya
-Visnutattvavinirnaya
-Tattvaprakasika 1365-1388 A. D.
-Nyayasudha Jayatirtha
-1365-1388 A, D.
-Vadavali 1365-1388 A. D.
-Tattvasarmkhyanatika Jayatirtha
-1365-1388 A, D.
-Nyayamrta ५. 1500 A. D,
-27.5 NIMBARKA
-Vedantaparijatasaurabha 13th c. A. D.
-Siddhantaratna
-Vedantakaustubha
-Vedantaratnamafijisa
-27.6 SRIKANTHA
-Srikanthabhasya *c,* 1400 A. 1).
-Sivarkamanidipika 1575-82 A. D.
-Pirvottaramimamsavadanaksatramala
-1575-82 A, 7.
-Kriyasara
-27.7 VALLABHA
-Anubhasya ०. 16th ५. A. D.
-27.8 GOVINDA
-Sarasarhgraha
-Govindabhasya 1725-75 A. D.
-27.9 SRIKARA
-
-
----
+## Page 6
 
 -LXXVIIT
-Srikarabhasya Padarthadharmasamgraha c. 400 A.D.
-28, BHAKTI Nyayakandali Saka 913 *(991* A. D.
-Bhagavadgita Laksanavali 1054 A. D,
-Bhaktisiitra Narada Kiranavali 1054 A. D.
-Brahmasamhita Upaskara 1425-50 A. 7).
+Srikarabhasya Padarthadharmasarhgraha c. 400 A. D.
+28. BHAKTI Nyayakandali Saka 913 (991 A. D.)
+Bhagavadgita Laksanavali A. D,
+Bhaktisiitra Narada ST, Kiranavali A. D.
+Brahmasamhita Upaskara 1425-50 A. D.
 Bhaktisiitra Sandilya 34. NYAYAVAISESIKA
-Bhaktirasimrtasindhu 1541 A. D. Saptapadarthi c, 1150 A. D.
+Bhaktirasimrtasindhu A. D. Saptapadarthi ५. A. D.
 Bhaktirasiyana 1565-75 A. D. Tarkabhaga 13th.c. A. D,
-29. TRIKA Tarkakaumudi 14th A. D.
-Pagupatasiitra Bhasapariccheda ०. 1550 A. D.
-Paratrimgika Siddhantamuktavali ५, 1550 A. D,
-Sivasiitra early 9th *५.* A. Tarkamrta c. 1600 A. D.
-Siddhitrayi Utpala 850-900 A. Tarkasarngraha 1625-1700_A. D.
+TRIKA Tarkakaumudi 14th ९. A. D.
+Pagupatasiitra Bhasapariccheda ०. A. D.
+Paratrimgika A.
+Siddhantamuktavali ५. D,
+Sivasiitra early 9th ०. A. D. Tarkamrta ०. A. D.
+Siddhitrayi Utpala 850-900 A. D. Tarkasarngraha 1625-1700_A. D.
 Ajadapramatrsiddhi Manikana
-ivarasiddhi 35. DHARMASUTRAS 400 BC
+Igvarasiddhi 35. DHARMASUTRAS 400 BC
 Sambandhasiddhi Gautama
 igvarapratyabhijfiasitra 850-900 A. D. Apastamba
-Sivadysti ¢. 900 A. 1). Bodhayana
+Sivadrsti ¢. 900 A. D. Bodhayana
 Pratyabhijfiavimarsini Vasistha
-Laukika 90, Kali 4115 (1014 A. D.) Vaikhanasa
-Parmarthasara c, 1024 A. D. 36. DHARMA
+Laukika 90, Kali (1014 A. D.) Vaikhanasa
+Parmarthasara c. A. D. 36. DHARMA
 Pratyabhijfiahrdaya 1020-50 A. D. Atrismrti
-Malinivijayottaratantra Atrisarhhita
-Bhaskar 1750-1800 A. D. Manusmrti 2nd A. D.
-९.
-30. SAMKHYA Naradasmrti
-Samkhyakarika c, 300 A. D, Daksasmrti
-Tattvasamasa c. 400 A. 7.
-Aigirahsmrti
+Malinivijayottaratantra Atrisamhita
+Bhaskari 1750-1800 A. D. Manusmrti 2nd ९, A. D.
+30, SAMKHYA Naradasmrti
+Sarmmkhyakarika ५, 300 A. D. Daksasmrti
+Tattvasamasa c. 400 A. D. Ajngirahsmrti
 Samkhyapravacanasitra Yamasmrti
-Samkhyakarikabhasya 6th ५. A. D.
-Brhadyamasmrti
-Matharavrtti Sannvartasmrti
-Samkhyatattvakaumudi ९. 1000 A. D. Visnusmiti 3rd A, D,
-९.
-Sarmkhyatattvapradipa 12th 6. A. D.
-Laghuvisnusmrti
-Samkhyasiitravrtti c. 1500 A. D.
-Brhaspatismrti
-Sarhkhyapravacanabhasya 16th ०, A. D. Paragarasmrti
+Samkhyakarikabhasya 6th ५. A. D. Brhadyamasmrti
+Matharavrtti Sarvartasmrti
+Samkhyatattvakaumudi ९. A. D. Visnusmiti 3rd ९. A. D.
+Sarmkhyatattvapradipa 12th 6. A. D. Laghuvisnusmrti
+Samkhyasiitravrtti ९. A. D. Brhaspatismrti
+Samkhyapravacanabhasya 16th ०. A. D. Paragarasmrti
 81. YOGA
-Brhatparasgarasmrti
-Yogasitra
+Brhatparagarasmrti
+Yogasiitra
 Vrddhasatatapasmrti
-Yogabhasya Satatapasmrti
-Tattvavaisaradi c. 1000 A. D.
+Yogabhasya
+Satatapasmrti
+Tattvavaisaradi 9. A. D.
 Laghusatatapasmrti
-Sivasarhhita
-YaAajfiavalkyasmrti 5th co, A. D,
-Rajamartanda 1010-55 A. D,
-Devalasmrti
+Sivasarhhita Yajfiavalkyasmrti 5th A. D.
+९,
 Hathayogapradipika 1300-1650 A, D.
 Katyayanasmrti
-Yogasarasamgraha 1525-1600 A, D.
-Prajapatismrti
+Yogasarasarngraha 1525-1600 A. D. Prajapatismrti
 Yogavarttika Apastambasmrti
-Yogasiitravrtti Gobhilasmrti (=Karmapradipa
+Yogasittravrtti Gobhilasmrti (=Karmapradipa
 32, NYAYA. Auganasasmrti
-Nyayasiitra Vrddhaharitasmrti
-Nyayabhasya c. 500 A. 1.
-Laghuharitasmrti
-Nyayavarttika 550-650 A. D.
-Laghvasvaléyanasmrti
+Nyayasiitra
+Vrddhaharitasmrti
+Nyayabhasya ०. 500 A. 1. Laghuharitasmrti
+Nyayavarttika 550-650 A. D, Laghvagvalayanasmrti
 Nyayamafijari ९. 890 A, D. Vrddhagautamasmrti
-925-75 A. D. Sankhasmrti
-Nyayasara
+Nyayasara 925-75 A. D. Sankhasmrti
 Tatparyatika on Nyayavarttika Laghugankhasmrti
-९. 1000 A. Likhitasmrti
-Atmatattvaviveka Bauddhadhikkara Sankhalikhitasmrti
-५. 1050 A. Vedavyasasmyrti
-Nyayakusumafijali c. 1050 A. D. Balakrida
-Nyayavarttikatatparyapariguddhi Manubhasya 9th ९. A. D.
-५. 1050 A. 7, Mitaéksara 1076-1100 A. D.
-Tarkikaraksa ५. 1150 A. D. Apararka c, 1125 A, D.
-Tattvacintamani 1325-50 A. D, Manvarthavivrti 13th c, A. D.
-‘Padarthatattvaniripana 1475-1550 A. D, Subodhini c, 1375 A. D.
-Saktivada 1600-50 A, Dipakalika 1390-1450 A. D.
-Vyutpattivada, *earlier* than 1625 A. Manvarthamuktavali 15the A.D,
-33. VAISESIKA Viramitrodaya on Yajfiavalkya
-Vaisesikasitra 1600-25 4. D.
-*Pa*
+९. A.D. Likhitasmrti
+Atmatattvaviveka (=Bauddhadhikkara) Saikhalikhitasmrti
+९. A.D. Vedavyasdsmrti
+Nyayakusumafijali c. A. D. Balakrida
+Nyayavarttikatatparyapariguddhi Manubhasya 9th c, A. D.
+९. A.D, Mitaksara 1076-1100 A. D.
+Tarkikaraksa ५. A, D. Apararka 0. A, D.
+Tattvacintamani 1325-50 A.D. Manvarthaviviti 13th c, A. D.
+‘Padarthatattvaniripana 1475-1550 A. D, Subodhini ५. A. D.
+Saktivada 1600-50 A. D. Dipakalika 1390-1450 A. D.
+Vyutpattivada, earlier than A. 1). Manvarthamuktavali 15the A.D.
+88. VAIS'ESIKA Viramitrodaya on Yajfiavalkya
+‘Vaiéesikasiitra 1600-25 A
 
 Balambhatti 18th c, A.D.
 37. NIBANDHA
-Haralata 1175-1200 A. D.
-Smrticandrika ९. 1200 A. D.
+Haralata 1175-1200 A. 7.
+Smrticandrika c. A.D.
 Caturvargacintamani 1260-72 A. D.
-Dandaviveka 1450-75 A. D.
-Vyavaharanirnaya
-Tristhalisetu c, 1545 A. D.
+1450-75
+Dandaviveka A.D.
+Vyavaharanirnaya वि
+a
+Tristhalisetu c, A. D.
 Dayatativa
 Viramitrodaya 1600-25 A. D.
 Vyavaharamayiikha 1610-40 A. D.
-Nirnayasindhu Sarh. 1668 (1612 A.D.)
+Nirnayasindhu Sarh. (1612 A.D.)
 88. ARTHAS ASTRA
 Arthagastra
 Canakyarajanitisastra
 Barhaspatyasitra
 Nitisara c. 700 A. D.
 Nitivakyamrta ५. 959 A, D.
-Yuktikalpataru 1010-55 A. 7.
-Rajanitiratnakara ०, 1870 A, D.
+Yuktikalpataru 4. 0.
+Rajanitiratnakara ०, A, D.
 Nitiprakasika,
 Sukraniti
-39. MINOR SCIENCES
+39 MINOR SCIENCES
 39.1 VETERINARY SCIENCE, ARCHERY
-Agvacikitsa ०. 1000 A. 1),
+Aévacikitsa ५, A. D,
 Salihotra 1010-55 A, 7.
 Asvavaidyaka
-Asvasastra
+Aévasastra
 ‘Hastyayurveda
 Matangalila
 Syainikasastra
 39.2 AGRICULTURE
-Krsiparagara
+Krsiparasara
 Krsigastra
 89.3 SPORTS
-Caturangadipika,
+Caturangadipika
 Gafijiphakhelana
 40. SAMGITA
 Gitalankara
@@ -984,313 +809,236 @@ Brhaddeéi
 Sargitamakaranda 10th ५, A.D.
 Sarhgitaratnakara 1200-50 A. 7),
 Svaramelakalanidhi
-Saka 1472 *(1550* A, D.
+Saka (1550 A, D.
 Ragavibodha 17th ९, A. D.
-Caturdandiprakagika 17th ९, A. D.
+Caturdandiprakagika 17the. ALD.
 Sarhgitaparijata
 41. SILPA
 Manasara
 Mayamata
 Vastuvidya.
-Samaranganasittradhara 11४0 A.D.
-Manasollasa Saka 1051 1129 A. 7,
-Silparatna 16th ९. A.
-*42.* MEDICINE
-Carakasamhité 2nd ०. A. D.
-Sugrutasamhita 2nd ९, A, D.
-Bhelasamhité 2nd A, D.
+Samaranganasitradhara llth ५, A. D.
+Manasollasa Saka A. 7,
+Silparatna 16th ९, A. 7).
+42. MEDICINE
+(णार 20 ०. A. D.
+Sugrutasamhbita 2nd ९, A, D.
+Bhelasamhitaé 2nd ९, A. D. va
 Haritasamhita
-Kasyapasamhita
-Astangasangraha 711 0. A. D.:
-Astangahrdaya 7th 0. A, D.
+_Kasyapasamhita
+Astangasangraha 0. *A.D.*
+Astaéngahrdaya 7th co, A. D.
 Kalyanakaraka 825-75 A. D.
-Rugviniscaya 900-25 A. D.
+.D. Rugvinigeaya 900-25 A. D.
 
+## Page 7
 
----
+Siddhayoga 10th ५. A.D,” ति
+Sarigadharasarbhita 11th o A. D.
+Nadivijiiana
+Bhavaprakasa ०. A. D.
+Bhojanakutiihala 1676-1711 A.D.
+*Kosas*
+Dhanvantariyanighantu
+Rajanighantu
+Astanganighantu
+Paryayamuktavali
+Nighantugesa 1089-1172 A. D.
+Madanapalanighantu
+Sara, (1375 A, I
+Bhavaprakasganighantu ९. A. D.
+Abhidhanamafijari
+Sadrasanighantu
+Apirvanamamala,
+Sivakoga Saka A.D.)
+48. KAMA
+Kamasitra 4th ९, A. D.
+Nagarasarvasva
+—~
+Ratirahasya
+Ratisastra
+Jayamangala 10th ९. A. D.
+Paficasiyaka .1300-25 A. D.
+Anangaranga 1500-25 A. D.
+Ratiramana
+Kandarpaciidamani
+Sar. A, I
+Ratimafijari
+Ratiratnapradipika
+Srigaradipika
+44. MATHEMATICS
+Ganitasarasarhgraha 814-877 A, D.
+Bijaganita A, D.
+Lilavati A. D.
+45, ASTRONOMY
+Jyotisavedanga ९..500 B.C,
+Aryabhatiya Kali (498 A.D.)
+Paficasiddhantika 500-50 A, D.
+Saryasiddhanta
+Mahabhaskariya ०. 574 A.D.
+Laghubhaskariya ९, 574 A.D.
+Khandakhadyaka 665 A. D.
+Brahmasphutasiddhanta 665 A. D.
+Aryasiddhanta Mahasiddhanta
+हि ९. 950 A,
+Bhisvati Kali 4200, Saka (1099A.
+Grahaganita Saka (1150 A. D.
+Goladhyaya Saka A.D.)
+Karanakutihala c. A. D,
+Grahalaghava A, D.
+Siddhantatattvaviveka
+Saka (1658 A. I
+46. ASTROLOGY
+Jaiminiyopadesasiitra
+Brhajjataka 500-50 A. D.
+Brhatsamhita 500-50 A.D.
+Yogayatra 500-50 A. D;
+र.
+Laghujataka 500-50 4. 1.
+Horasatpaficasika, A.D,
+Horasara ९. AyD:
+Saravali,550-600 A, D. oe
+Pragnajfiana oe
 
 LUXXxIx
-Siddhayoga 10th ०, A.D. Adbhutasigara Saka 1090 A.
-*(1168* 7.
-Sarigadharasarbhita 11th A. D. Naradasamhita
-Nadivijiiana Vasisthasamhita
-Bhavaprakasa ०. 1550 A. D. Jatakaparijata
-Bhojanakutiihala 1676-1711 A. D. Tajikanilakanthi
-Kosas Daivajfiavallabha
-Dhanvantariyanighantu Kosas
-Rajanighantu Ganitandmamala
-Astanganighantu Jyotihsastranighantu
-Paryayamuktavali 47. ALCHEMY
-Nighantugesa 1089-1172 A. D. Rasairnava 12th ९, A. D.
-Madanapalanighantu Rasaprakasasudhakara
-Sara, 1431 1375 A. 7. Rasaratnasamuccaya 0. 1300 A, D,
-Bhavaprakasganighantu ९. 1550 A. Rasendracintamani 14th ९, A. D.
-Abhidhanamatfijari 48. POETICS
-Sadrasanighantu Kavyalankara Bhamaha
-Apirvanamamala, Kavyadarga 650-700 A. D,
-Sivakoga Saka 1599 1677 Srigaratilaka
-A.D.) Rudrabhaitta
-48. KAMA 800 A. D,
-Kavyalankarasarasamgraha c,
-Kamasitra 4th ९, A. D. Kavyalankarasiitra ५, 800 A. 1),
-Nagarasarvasva Kavyalankara Rudrata 825-50 A. D.
-Ratirahasya Dhvanyaloka ५. 850 A. D.
-Ratisastra Alankaracintamani 815-877 A. D;
-Jayamangala 10th *९.* A. Kavyamimarisa 900-50 A.
-Paficasayaka .1300-25 A. Vakroktijivita 950-1050 A.
-Anangaranga 1500-25 A. D. Locana
-Ratiramana Sarasvatikanthabharana 1025-50 A, D.
-Kandarpacidamani Srigaraprakaga, 1025-50 A. D.
-Sam. 1633 *(1576* A. D.) Kavikanthabharana 1028-63 A. D.
-Ratimafijari Aucityavicairacarca
-Ratiratnapradipika Laukika 31 1059 A, D.)
-Srigaradipika 1050-1100 A,
-Kavyaprakaga
-44. MATHEMATICS Vidagdhamukhamandana
-Ganitasirasarhgraha 814-877 A. 1100 A.
-Vyaktiviveka
-Bijaganita 1150 A. Hemacandra
-Kavyanugasana
-Lilavati 1150 A. 1125-75
-45, ASTRONOMY Alankarasarvasva 1135-1150 A. D.
-Jyotisavedanga *९..500* B.C, Candraloka
-Aryabhatiya Kali 3600 *(498* A.D.)
-Sabrdayalila
-Paficasiddhantika 500-50 A, D. Vagbhatalankara 1136-1143 A. D.
-Saryasiddhanta Alankararatnakara 1150-1200 A. D.
-Mahabhaskariya ०. 574 A.D. 1225-75 A. 1.
-Kavyakalpalatavrtti
-Laghubhiaskariya ९, 574 A. D,
-Kavyanugasana Vagbhata
-Khandakhadyaka 665 A. D. 1250-1300 A. D.
-Rasatarangini
-Brahmasphutasiddhanta 665 A. D. Rasamafijari 1250-1300 A. 1,
-Aryasiddhanta Mahasiddhanta Ekavali 1300 A.
-*९.*
-५. 950 A. D. Prataparudrayasgobhiisana 1300-25 A. D,
-Bhisvati Kali 4200, Saka 1021 (1099A. D.) 1330-80 A.
-Rasarnavasudhakara
-Grahaganita Saka 1072 *(1150* A. 7. Camatkaracandrika
-Saka 1072 1150 1400 A. D.
-Goladhyaya A.D.) Sahityadarpana ५.
-Karanakutihala c. 1183 A. D,
-Kavyapradipa
-Grahalaghava 1520 A, D. Alankarakaustubha Kavikarnapiira
-Siddhantatattvaviveka Ujjvalanilamani 1541-50 A. D.
-Saka 1580 A. 1563-73 A. D,
-*(1658* 7, Alankaragekhara
-46. ASTROLOGY Citramimarhsa 1563-73 A. D.
-Jaiminiyopadesasiitra Kuvalayinanda 1563-73 A,
-Brhajjataka 500-50 A. D. Rasagangadhara 1610-50 A.
-Brhatsamhita 500-50 A. D. Srigaramafijari Akbar Shah
-Yogayatra 500-50 A. D; *५.* 1665 A, 1,
-Laghujataka 500-50 A. ‘D. Alankaramafijisé 1765 A. D.
-Horasatpaficasika, ९. 532 A. D, Alankarakaustubha Vigvegvara
-Horasara c. 532 AyD: 8th ०, Ay
-Saravali,550-600 A, D. Kavindrakarnabharana 18th *९.* 4.
-Pragnajfiana Sahityasara
+Adbhutasigara Saka 1090(1168
+A.D.) Kavikalpalata हि
+Naradasamhita 49. DRAMATURGY
+Vasisthasamhita, Natyasastra,
+Jatakaparijata Dagariipaka 975-1000 A. D.
+Tajikanilakanthi Avaloka 975-1000 A. D.
+Daivajtiavallabha Abhinavabharati D.
+A.
+*Kosas* Natyadarpana 12th ९. A, D.
+Ganitanimamala Natakalaksanaratnakoga 13th 0. A. D.
+13th A.
+yotihgastranighantu Bhavaprakagana ५, D.
+47. ALCHEMY Ditikarmaprakada
+Rasarnava 12th ९. A. D. 50. NRTYA
+Rasaprakasasudhakara Abhinayadarpana 12th ५. A. D.
+D.) Rasaratnasamuccaya 0. A, D, Nrtyaratnavali A. D.
+Rasendracintamani 14th ९. A. D. Nrtyadhyaya 14th ९. A.D.
+48. POETICS Nrtyaratnakoga A.D.
+Kavyalankara Bhimaha Nrttasarmgraha
+Kavyadarga 650-700 A. D, 51, PROSODY
+Srigaratilaka Rudrabhatta Chandahsiitra
+Kavyalankarasarasarhgraha 0. 800 A. 1), Janasrayi Chandoviciti 580-615 A, D..
+Kavyalankarasiitra ५, 800 A. 1), Jayadevachandas ०. 800 A. 1).
+Kavyalankara Rudrata 825-50 A. D. Mrtasarijivani 925-75 A.D,
+Dhvanyaloka ०. 850 A.D. Srutabodha
+Alankaracintamani 815-877 D: Suvrttatilaka 1028-63 A. 1).
+Kavyamimarsa 900-50 A.D. Vrttaratnakara 1050-1100 A. D.
+Vakroktijivita 950-1050 A. 1). Chandonugasana: 1160-72 A. D.
+Locana Chandagcidamani
+Sarasvatikanthabharana 1025-50 A,D. Chandomafijari
+Srhgaraprakaga 1025-50 A. 1). 52. KAVYAS
+D.) Kavikanthabharana 1028-63 A.D. Buddhacarita 1st ९. A. D.
+Aucityavicaracarca Saundarananda ‘Ist ७, A. D.
+Laukika 31 A, 1. Rtusamhara 4th 6. A, 1,
+Kavyaprakaga 1050-1100 A. D. Kumarasarabhava 4th c. A. D,
+Vidagdhamukhamandana Meghadiita 4th ९, A. D.
+Vyaktiviveka A. D. Raghuvaméa 4th c. A. D,
+Kavyanusasana Hemacandra Padyaciidamani
+1125-75 A. D, Janakiharana 517-26 A. 1).
+Alankarasarvasva 1135-1150 A. D. Kiratarjuniya c, 580 4. D,
+Candraloka Bhattikavya
+Sabrdayalila Sigupiilavadha c, 665 A. D.
+Vagbhatalankara 1136-1143 A. D. Haravijaya 825-75 A. D.
+Alankararatnakara 1150-1200 A. D. Kapphinabhyudaya 850-900 A, D,
+Kavyakalpalatavrtti 1225-75 A. 1. Ramacarita 850-900 A. 1).
+Kavyanugasana Vagbhata Raghavapandaviya Dhanafijaya
+Rasatarangini 1250-1300 A. D. Raghavanaisadhiya
+Rasamafijari 1250-1300 A. D. Kicakavadha llth ९, A. D.
+Ekavali ०. A. D. Ravanarjuniya 11th A. D.
+D. Prataparudrayagobhiisana 1300-25 A. D, Ramayanamafijari 1028-63 A. D.
+oe
+D.) Rasarnavasudhakara 1330-80 A. D. Dasavataracarita Laukika 41 (1066 A.D)
+Camatkaracandrika Srikanthacarita 1127-49 A. D..
+Sahityadarpana c. A. 7. Naisadhiyacarita c. 11704. 70.
+Kavyapradipa Raghavapandaviya Kaviraja
+Alankarakaustubha Kavikarnapiira Nalodaya
+Ujjvalanilamani 1541-50 A. D. -Yudhisthiravijaya
+2.) Alankaragekhara 1563-73 A. 1), Vasudevavijaya
+Citramimarhsa 1563-73 A. D. Dhatukavya
+Kuvalayinanda 1563-73 A, D. Haricarita (Paramegvara)
+Rasagangadhara 1610-50 A. D. beginning of 14th A. D.
+Srigaramafijari Akbar Shah Yadawabhyudaya 1325-35 A, D,
+९, A,D, Nalabhyudaya early 15th ०, A. 7,
+Alankaramafijisa A. D. Haricarita.( Caturbhuja
+Alankarakaustubha Vigvesvara Kathakautuka Saka A, D.)
+०. 0. ‘Aryagataka
+Kavindrakarmabharana 18the, Harivilasa Saka (1583 A, 1),
+a A.D.
+Sahityasara Ramakrsnavilomakavya
 
-Kavikalpalata,
-49. DRAMATURGY
-Natyasastra,
-Dasgariipaka 975-1000 A. D.
-Avaloka 975-1000 A.D.
-Abhinavabharati 1014 A, D,
-Natyadarpana 12th ९. A, D.
-Natakalaksanaratnakoga 13th ९. A. D.
-Bhavaprakagana 13th ५, A. D.
-Ditikarmaprakaga
-50. NRTYA
-Abhinayadarpana 12th *c.* A.D
-Nrtyaratnavali 1253 A. D.
-Nrtyadhyaya 14th ९. *A.D.*
-Nrtyaratnakoga 1433 A.D.
-Nyrttasarhgraha
-PROSODY
-51,
-Chandahsiitra
-Janasrayi Chandoviciti 580-615 A, D..
-Jayadevachandas ०. 800 A. 1).
-Mrtasamjivani 925-75 A.D.
-Srutabodha
-Suvrttatilaka 1028-63 A.
-Vrttaratnakara 1050-1100 A. D.
-Chandonugasana- 1160-72 A. D.
-Chandaégciidamani
-Chandomafijari
-52, KAVYAS
-Buddhacarita 1st ९. A. D.
-Saundarananda 187 0. A. D.
-Rtusamhara 4th ९. A. D,
-Kumarasambhava 4th ९. A. D,
-Meghaditta 4th ९, A. D.
-Raghuvaméa 4th c. A. D,
-Padyaciidamani
-Janakiharana 517-26 A. D,
-Kiratarjuniya c. 580 4. D,
-Bhattikavya
-Sigupalavadha c, 665 A. 7,
-Haravijaya 825-75 A. D.
-Kapphinabhyudaya 850-900 A, D,
-Ramacarita 850-900 A. 1).
-Raghavapandaviya Dhanafijaya
-Raghavanaisadhiya
-Kicakavadha llth ९, A. D.
-Ravanarjuniya 11th A.
-Ramayanamafijari 1028-63 A.
-Dasavataracarita Laukika 41 *(1066* A. D)
-Srikanthacarita 1127-49 A.
-Naisadhiyacarita ५. 1170°A. D.
-Raghavapaindaviya Kaviraja
-Nalodaya
-Yudhisthiravijaya
-Vasudevavijaya
-Dhatukavya
-Haricarita Paramegvara
-beginning *of* 14th A. 7)
-Yadavabhyudaya 1325-35 A, D,
-Nalabhyudaya early 15th A. 7.
-०,
-Haricarita.( Caturbhuja
-Kathakautuka Saka 1427 1505 A,
-D.)
-Aryasataka
-Harivilasa Saka 1505 A, D,
-*(1583*
-Ramakrsnavilomakavya
-
-
----
-
-Bhiksatanakavya before 1868 A. D.
-Sivalilarnava 1625-50 A. 1).
-Raghaviya 1700-1750 A. D.
-Kaunteyavrtta
-Sitasvayarhvara
-53. HISTORICAL POEMS
-Navasahasankacarita 1000 A. 1.
-Vikramankadevacarita 1076-87 A. D.
-Dvyasrayakavya 1100-73 A. D.
-Rajatarangini Kalhana Saka 1070
-*(1148-49* A. 13.
-Kumarapilacaritavarnana 1150-75 A, D.
-Kaumarapalapratibodha ९. 1184 A. D.
-Kumarapalagunotkirtana
-Prthvirajavijaya 1191-1200 A. D.
-Vasantavilasamahakavya Sarh. 1296
-*(1240* A. 7.
-Kumirapaladevacarita Somatilaka
-1325-50 A. D.
-Kumarapaladevacarita
-Madhuravijaya 1358-77 A. D.
-Kumarapalaprabodhaprabandha
-1350-1400 A. 7,
-Kumarapaladevaprabandha
-earlier than 1443 A, D,
-Hammiramahakavya 15th ९. A. D.
-Rajatarangini Jonaraja c. 1450 A. D.
-Rajatarangini Srivara 1486 A. D.
-Rajatarangini Prajyabhaita
-Ballalacarita Saka 1432 *(1510* A. 7.
-Acyutarayabhyudaya 1536-42 A. D.
-Virabhanidaya 1555-91 A, D.
-Rastraudhavarhéa Saka 1518 *(1596* A. D.)
-Raghunathabhyudaya 1614-33 A, 1).
-Paramanandakavya
-Parnalaparvatagrahanakhyana
-54. MINOR POEMS
-54.1 SYATAKAS ETC.
-Canakyagataka
-Satakatrayi
-Vijflanasataka
-Bhavagataka c. 350 A. D.
-Candigataka 600-50 A. D.
-Siryagataka 600-50 A. D.
-Amarugataka c. 850 A. D.
-Devisataka c. 850 A. D.
-Vakroktipaficasika,
-Caurapaficasika
-Bhallatagataka before 989 A. D,
-Carucaryadataka 1028-63 A. D,
-Aryasaptagati ५. 1119 A. D.
-Santigataka
-Satakatraya
-Drstantakalikasataka
-Sundarigataka
-Isvaragataka
-Anyapadegagataka Nilakantha
-1625-50 A. 7.
-Sabharafijanasataka 1625-50 A. D,
-Vairagyagataka Appayyadiksita
-Anyapadesagataka Madhusiidana
-Srngarakalikatrigati
-Candikucapaficasika
-Mikapaficagati
+## Page 8
 
 LXXX
-Kavyabhiisanagataka
-Upadesgasgataka 1800-25 A, D,
-Anyoktigataka
-Romiavaligataka
-Gitigataka
-Khadgasataka
-Srigarasataka Narahari
-Srigarasataka, Janardana
-Vairagyagataka (Janardana)
-Sudarsanasataka
-54.2 LAHARIS
-Srigaramrtalahari
-Amrytalahari 1610-50 A. D.
-Karunalahari 1610-50 A. D.
-Gangalahari 1610-50 A, D.
-Laksmilahari 1610-50 A. D.
-Sudhalahari 1610-50 4. D.
-54.3 DUTAKAVYAS
-Pavanadiita (Dhoyi 1150-1200 A. D.
-Harhsasandega 1300-50 A. D,
-Hazhsadiita Vamanabhattabana
-early 15th, A. D.
-Mayiirasandega 1400-50 A. D,
-Hazhsadiita Riipagosvamin
-1510-41 A, D.
-Bhramaradita 1600-50 A. D.
-Pavanadiita Vadicandra
-Manodita
-Indudita
-54. STOTRAS, STAVAS ETC.
-Acyutastaka
-Annapirnastaka
-Ardhandriévarastotra
-Anandalahari
-Umamaheévarastotra
-Kanakadharastotra
-Kalyanavrstistava
-Kalabhairavastaka
-Kasipaficaka
-Gangastaka,
-Ganesapaficaratna
-Ganesabujarhga
-Gurvastaka
-Govindastaka
-Gauridagaka
-Jagannathastaka
-Tripurasundarimanasapijastotra
-Tripurasundarivedapadastotra
-Tripurasundaryastaka
-Daksinamirtivarnamaélastotra
+Bhiksatanakavya before A. 7. Kavyabhiisanagataka
+Sivalilarnava 1625-50 A. 1). Upadegagataka 1800-25 A, D.
+Raghaviya 1700-1750 A. D. Anyoktigataka
+Kaunteyavrtta Romavaligataka
+Sitaésvayarhvara Gitigataka
+53. HISTORICAL POEMS Khadgasgataka
+Navasahasankacarita A.D, Srigarasataka Narahari
+Vikramankadevacarita 1076-87 A. D. Srigaragataka, Janardana
+Dvyasrayakavya 1100-73 A. D. Vairagyagataka (Janardana)
+Rajatarangini (Kalhana) Saka Sudarganagataka
+(1148-49 A. 13. 542 LAHARIS
+Kumarapalacaritavarnana 1150-75 A. D. Srngaramrtalahari
+Kaumarapalapratibodha ९. A. D. Amrtalahari 1610-50 A. D.
+Kuméarapalagunotkirtana Karunalahari 1610-50 A. D.
+Prthvirajavijaya 1191-1200 A. D. Gangalahari 1610-50 A. D.
+Vasantavilasamahakavya Sarh. Laksmilahari 1610-50 A. D.
+(1240 A.D.) Sudhalahari 1610-50 A. D,
+Kumirapiladevacarita (Somatilaka 54.8 DUTAKAVYAS
+1325-50 A.D, Pavanadiita Dhoyi 1150-1200 A.
+Kumarapaladevacarita Harhsasandega 1300-50 A. D,
+Madhuravijaya 1358-77 A. D. Harisadita Vamanabhattabana
+Kumarapalaprabodhaprabandha early 15th c.
+1350-1400 A, D, Mayiirasandega 1400-50 A. D,
+Kumarapaladevaprabandha Hazhsadiita Riipagosvamin
+earlier than A, D, 1510-41
+Hammiramahakavya 15th ९. A. D. Bhramaradita 1600-50 A. D.
+Rajatarangini Jonaraja c. A. D. Pavanadiita Vadicandra
+Rajatarangini Srivara A. D. Manodita
+Rajatarangini Prajyabhaita Indudita
+Ballalacarita Saka (1510 A. 7. 54. STOTRAS, STAVAS ETC.
+Acyutarayabhyudaya 1536-42 A. D. Acyutastaka
+Virabhanidaya 1555-91 A, D. Annapirnastaka
+Rastraudhavarhéa Saka (1596 A.D.) Ardhanarigvarastotra
+Raghunathabhyudaya 1614-33 A, 1). *Anandalahari*
+Paramanandakavya Umamaheévarastotra
+Parnalaparvatagrahanakhyana Kanakadharastotra
+54. MINOR POEMS Kalyanavrstistava
+84.1 SATAKAS ETC. Kalabhairavastaka
+Canakyagataka Kasipaficaka
+Satakatrayi Krsnastaka
+Vijfianasataka Gangastaka,
+Bhavagataka c. 350 A. D. Ganesapaficaratna
+Candigataka 600-50 A. D. Ganesabujarhga
+Siryagataka 600-50 A. D. Gurvastaka
+Amaruéataka c. 850 A. 1). Govindastaka
+Devigataka ०. 850 A. D. Gauridadaka
+Vakroktipaficasika, Jagannathastaka
+Caurapaficasika Tripurasundarimanasapijastotra
+Bhallatagataka before 989 A. D. Tripurasundarivedapadastotra
+Carucaryadataka 1028-63 A. D, Tripurasundaryastaka
+Aryasaptagati ५. A. D. Daksinamirtivarnamalastotra
+Santigataka
 Daksinamirtistotra
-Daksinamirtyastaka
-Dagaglokistuti
-Devicatuhsastyupacarapijastotra
-Devibujarhgastotra
-Dvadaégalingastotra
-Narmadastaka
-Navaratnamalika,
-Nirgunamanasapija
-Pandurangastaka
-Pragnottararatnamalika
-Pratahsmaranastotra
-Bhagavanmanasapija
+Satakatraya Daksinamirtyastaka
+Drstantakalikasataka Daégaslokistuti
+Sundarigataka Devicatuhsastyupacarapijastotra
+Isvaragataka Devibujarhgastotra
+Anyapadegagataka Nilakantha Dvadagalingastotra
+1625-50 A. D. Narmadastaka
+Sabharafijanagataka 1625-50 A. D. Navaratnamalika,
+Vairagyagataka Appayyadiksita Nirgunamanasapija
+Anyapadesagataka Madhusiidana Pandurangastaka
+Srngarakalikatrigati Pragnottararatnamalika
+Candikucapaficasika Pratahsmaranastotra
+Mikapaficagati Bhagavanmanasapija
 
 Bhavanibhujanga
 Bhramarambastaka
@@ -1300,6 +1048,7 @@ Minaksipaficaratna
 Minaksistotra
 Mrtyufijayamanasapiija
 Mohamudgara
+OS
 Yamunastaka
 Laksminrsirmhakarunarasastotra
 Laksminrsirmhapaficaratna
@@ -1310,13 +1059,13 @@ Saradabhujangaprayatastaka
 Sivakegadipadantavarnanastotra
 Sivandmavalyastaka
 Sivapaficiksaranaksatramala
-Sivapaficaksarastotra
+D. Sivapaficaksarastotra
 Sivapadadikesantavarnanastotra
 Sivabhujarhgastotra
-Sivanandalahari
+A. D. Sivanandalahari
 Sivaparadhaksamapanastotra
 Sriramabhujarhgaprayatastotra
-Srivisnubhujar gaprayatastotra
+A, 1), Srivisnubhujarhgaprayatastotra
 Satpadistotra
 Subrahmanyabhujarnga
 Suvarnamalastuti
@@ -1329,10 +1078,11 @@ Dinakrandanastotra
 Mahaganapatistotra
 Sivastuti Lankegvara
 Sivastuti Narayanapandita
-Stavamala Saka 1471 1550 A.
+Stavamala Saka A.
 D.).
 Ramayanasérasarm graharaghuvirastava
-1625-75 A, D..
+1625-75
+A, D..
 Anandasagarastava
 Visgvagarbhastava
 Varnamalastotra
@@ -1352,115 +1102,115 @@ Syamalidandaka
 Kuttanimata 755-86 A. D.
 Mukundamala
 Subhasitaratnasarhdoha
-Kalavilasa 1028-63 A, D.
+Kalavilasa 1028-63 A.D.
 Caturvargasamngraha 1028-63 A, D..
-Darpadalana 1028-63 A. D.
-Sevyasevakopadega 1028-63 A, D.
-Narmamala 1028-63 A. 7),
+1028-63 A. D.
+Darpadalana
+1028-63 A, 1.
+Sevyasevakopadega
+Narmamala 1028-63 A. D.
 
+## Page 9
 
----
-
-LXXxI
-Degopadega 1028-63 A. D. Sirmhasanadvatrimsika
+LXXXI
+Degopadega 1028-63 A. D. Simhasanadvatrimsika
 Samayamatrka 1028-63 A. D. Vetalapaficavimsati
-Vetalapaficaviméati Sivadasa
-Rajendrakarnapira
-Anyoktimuktalata, Vetalapaficaviméati Jambhaladatta
+Rajendrakarnapira Vetalapaficaviméati Sivadasa
+Anyoktimuktalata Vetalapaficaviméati Jambhaladatta
 Raksasakavya Madhavanalakhyana
-Gitagovinda 1150-1250 A. D. Sukasaptati
-Mugdhopadega 57. STORIES *AND* ROMANCES
+Gitagovinda 1150-1250 A. D. a Sukasaptati
+Mugdhopadega 57. STORIES AND ROMANCES
 Subhasitanivi Tantrakhyayika
 Krsnakarnamrta Paficatantra
 Bhojaprabandha Hitopadega
-Nitimafijari Sar, 1550 1494 A. D.) Paficakhyanaka Sarh. 1255 *(1199* A. D.)
-Rasikarafijana 58. *CAMPU*
+Nitimafijari Sar, A. D.) Paficikhyanaka Sarh. (1199 AVI
+Rasikarafijana 58. CAMPU
 Anandamandakini Nalacampi 900-50 A. D.
-Yaéastilakacampi Saka 8$1 959 A.D.)
-Narayaniya
-Malayalam Era 762 *(1587* A. D. Ramayanacampi
-Kotiviraha Udayasundarikathaé 1026-56 A. D.
-Svahasudhakara Jivandharacam *pi*
+Saka
+Narayaniya Yaéastilakacampi 881 959 A.
+Malayalam Era 762 (1587 A.D.) Ramayanacampi
+Kotiviraha Udayasundarikatha 1026-56 A. D.
+Svahasudhakara Jivandharacam pi
 Bhavavilasa Sri Anandavrndavanacampi
-1610-1650 A. D. Sri Gopalacampi
-Anyoktayah
-Asaphavilasa 1610-1650 A. D. Yatraprabandha *c.* 1600.A.
+Anyoktayah 1610-1650 A. D. Sri Gopalacampi oo,
+Asaphavilasa 1610-1650 A. D. Yatraprabandha c. 1600.A. D.
 Pranabharana 1610-1650 A. D. Bharatacampi
-Bham'nivilasa 1610-1650 A. D. Nilakanthavijaya Kali 4738 1636 A.D.)
-Kalividambana Pirvabharatacampa
+Bham'nivilasa 1610-1650 A. D. Nilakanthavijaya Kali A,!
+Kalividambana Pirvabharatacampi
 Gangavatarana 1625-75 A. D. Vidvanmodatarangini 1650-75 A. D.
-Gurutattivamalika Anandarangavijayacampi
-Candirahasya Kali 4854 (1752 A. 7.
+Gurutattvamalika Anandarangavijayacampi
+Candirahasya Kali (1752 A. I
 Santivilasa Sudarganacampii
 Sivotkarsamafijari 59. DRAMAS
 Ramastaprasa Abhisekanataka 3rd c..A. D.
 Danalilakavya Avimaraka 517 ९. A. D.
-Damaruka 1728 A. D. Urubhanga 38rdc, A. D.
-Janakicaranacimara Karnabbara 51त ९, A. D.
+Damaruka A. D. Urubhanga 3rdc. A. D.
+Janakicaranacimara Karnabhara 3rdc. A. D.
 _-Mukundamuktavali Carudatta 3rdc. A. D.
-Lokoktimuktavali Ditaghatotkaca 3rdc. A. D.
-Navaratnamala, Ditavakya 3rdc. A. D.
+Lokoktimuktavali Ditaghatotkaca 3rdc, A. D.
+Navaratnamala Ditavakya 3rdc. A. D.
 Puspabanavilasa Paficaratra 3rdc. A. D.
-Sadrtuvarnana Pratijfiayaugandharayana 3rdc, A, D.
-Tarasasanka Pratimanataka 3rd.c. A. D.
+Sadrtuvarnana Pratijfiayaugandharayana 3rd 9. A, D.
+Tarasaganka Pratimanataka 810. 0. A. D.
 55. ANTHOLOGIES Balacarita 3rdc. A. D.
-Subhasitaratnakoga 1100 A. D. Madhyamavyayoga 314 ५, A. D.
-Saduktikarnamrta Saka 1127 A. ३1 A. D.
-(1205 D.) Svapnavasavadatta ९.
-Siktimuktavali Saka 1179 Abhijfianagakuntala 4th A. D.
-*(1257* A.D.) ९.
-Siktiratnahara 1325-50 A, D. Malavikagnimitra 4th ९, A, 7),
-Sarngadharapaddhati 1363 A. 1), Vikramorvasiya 4th ०. A. D.
+Subhasitaratnakoga c.1100 A.D. Madhyamavyayoga 3rdc. A. D.
+Saduktikarnamrta Saka A. 31त A. D.
+(1205 D.) Svapnavasavadatta ५.
+Saktimuktavali Saka (1257 A.D.) Abhijfianagakuntala 4th ९. A. D.
+Siktiratnahara 1325-50 A. D. Malavikagnimitra 4th ९, A, 7),
+Sarngadharapaddhati A. D. Vikramorvagiya 4th c. A.D,
 Subhasitavali 15th ५, A. D. Mrcchakatika
 Padyaveni 17th 6. A. D. Kundamala
 Siktisundara 1628-1710 A. D. Mudraraksasa
 Rasikajivana Venisamhara
-Padyamrtatarangini Nagananda 600-50 A. D.
-Sam. 1730 (1673 A. D.) Priyadargika 600-50 A.D.
+Padyamrtatarangint Nagananda 600-50 A. D.
+Sam. (1673 A.D.) —Priyadargika 600-50 A. D.
 56. BRHATKATHA AND CONNECTED Ratnavali 600-50°A. D.
 WORKS Kaumudimahotsava
-Vasavadatta, Mahaviracarita 700-36 A. D.
-Kadambari 600-50 A. D. Uttararamacarita 700-36 A. D.
+Vasavadatta Mahaviracarita 700-36 A. D.
+Kadambari 600-50 A. D. Uttararamacarita 700-36 A. 7.
 Harsacarita, 600-50 A. D. Malatimadhava 700-36 A. D.
-Avantisundarikatha 650-700 A. D, Ramabhyudaya 700-36 A. D.
-Dagakumaracarita 650-700 A. D. Anargharaghava 775-825 A, D.
+Avantisundarikatha 650-700 A. D, Ramabhyudaya 700-36 A. 1.
+Dagakumaracarita 650-700 A. D. Aniargharaghava 775-825 A. D.
 Brhatkathaslokasarngraha Tapasavatsaraja 800-50 A. D.
-Tilakamafijari 950-1000 A, D. Asgcaryacidamani c. 800 A. D.
-Srhgaramafijari Subhadradhanafijaya 900 A. D,
-Brhatkathamafijari 1028-66 A, D. Balaramayana 900-50 A. D.
-Kathasaritsagara after 1064 A, D. Viddhagalabhafijika 900-50 A, 7.
-Gadyacintamani Balabharata 900-50 A. D.
-Purusapariksa 1363-1400 A. D. Candakausika
-5.7. XI
+Tilakamafijari 950-1000 A, D. Aécaryaciidimani ९. 800 A. D.
+Srhgaramafijari Subhadradhanafijaya 900 A. 1),
+Brhatkathamaiijari 1028-66 A, D. Balaramayana 900-50 A. D.
+Kathasaritsigara after A, D. Viddhasalabhafijika 900-50 A, 7.
+Gadyacintamani Balabharata, 900-50 A. D.
+Purusapariksa A.D.
+1363-1400 Candakausika
+XI
+8.7.
 
 Karnasundari
 Kaumudimitrananda 1100-85 A. D.
-Parijataharana 1119 A. D.
+Parijataharana A. D.
 Mudritakumudacandra
 Parthaparakrama 1150-1200 A.D.
 Gopalakelicandrika
 Prasannaraghava
-Karpiracaritabhana 1200°A.
-Tripuradahadima 1200 A. D.
-Rukminiharana 1200 A. D.
-Samudramathana 1200 A. D.
-Hasyacidamani 1200 A. D.
-Kiratarjuniyavyayoga 1200 A. D.
+Karpiracaritabhana 12004. D.
+Tripuradahadima A. D.
+Rukminiharana A. D.
+D. Samudramathana A. D.
+A. 7.
+Hasyacidamani
+Kiratarjuniyavyayoga A. 1.
 Hammiramadamardana 1220-30 A, D.
-Ditangada 1243 A. D.
+Ditangada A. D.
 Parvatiparinaya early 15th ९. A. D.
 Unmattarighava Viripaksa
 1404-06 A. D.
 Vidagdhamadhava
-Sam. 1589 1838 4. D.
+Sara. .A. D.
 Lalitamadhava
-Karnsavadha
+D.) Karnsavadha
 Adbhutadarpana
 Janakiparinaya
 Manmathonmathana
-Saka 1742 A. D.)-
-*(1820*
-Mahaniataka
+D. Saka (1820 A. D.)-
+Mahanataka
 Unmattaraghava Bhaskarabhatta
 60. FARCES
 Caturbhani
@@ -1473,23 +1223,22 @@ Mattavilasa 600-50 A. D.
 Dhirtasamagama 1324-30 A. D.
 Latakamelaka
 Srngarabhiisana early 15th c. A. D.
-Srngaratilaka 1680-1700 A. D.
-Madanaketucarita c. 1755 A. 7).
+Srhgaratilaka 1680-1700 A. D.
+Madanaketucarita c. A. 7).
 Mukundananda
 Natavata
-Vasantatilaka ९. 1800 A. D.
-Srngarasarvasva 0. 1800 A. 1),
+Vasantatilaka ९. A. D.
+Srngarasarvasva 0. A. 1),
 Rasasadana
 Hasyarnava
 61. ALLEGORICAL PLAYS
 Prabodhacandrodaya
-*end* *of* llth ५, A. D.
+end of llth ५, A. 7),
 Moharajaparajaya
 Bhartrharinirveda
 ‘Caitanyacandrodaya
-Saka 1494 1573
-A.D.)
+Saka A.D.)
 Jivanandana 1684-1710 A. D.
-Amrtodaya 1710 A. 7.
-62. INSCRIPTiONS
+Amrtodaya A. 7.
+62. INSCRIPTIONS
 Epigraphia Indica

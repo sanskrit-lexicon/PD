@@ -1,3 +1,5 @@
+_Created: 21-07-2026 · Last updated: 05-09-2026_
+
 About KoshaSHRI Project - “Digital Preservation and Online Portal for Encyclopaedic Sanskrit Dictionary”
 KoshSHRI software is developed under the project titled “Digital Preservation and Online Portal for Encyclopaedic Sanskrit Dictionary” funded by Department of Science & Technology (DST) under Science and Heritage Research Initiative (SHRI).
 
@@ -28,3 +30,5 @@ Brief History about the Institute:
 With addition of subjects other than Sanskrit renamed as Poona College in 1851 and later as Deccan College in October 1864.
  It is working as Deccan College Postgraduate and Research Institute since 1939 devoted to research in the field of Archaeology, Linguistics and Sanskrit.
 An Encyclopaedic Dictionary of Sanskrit on Historical Principles was conceived and planned by Professor S. M. Katre, former Professor of Indo-European Philology and Director of the Institute in 1948. In all thirty-five volumes have been published till date.
+
+_Dr. Mārcis Gasūns_

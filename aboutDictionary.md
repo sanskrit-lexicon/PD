@@ -1,3 +1,5 @@
+_Created: 21-07-2026 · Last updated: 05-09-2026_
+
 https://koshashri-dc.ac.in/contact/aboutDictionary
 About Sanskrit Dictionary
 An Encyclopaedic Dictionary of Sanskrit on Historical Principles
@@ -65,3 +67,5 @@ Stage III: Editing and publication of the Encyclopaedic Dictionary which began i
 
 Publication
 From 1973, editing of the Encyclopaedic Dictionary began and in 1976, the first Part of the Dictionary was published. In all, thirty-five volumes have been published till date consisting of 6056 pages alphabetically.
+
+_Dr. Mārcis Gasūns_

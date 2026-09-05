@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 SUBJECT-WISE CLASSIFICATION AND APPROXIMATE: CHRONOLOGY OF THE WORKS
 
 Samhitas
@@ -2068,4 +2070,4 @@ Amrtodaya 1710 A. 7.
 62. INSCRIPTiONS
 Epigraphia Indica
 
-
+_Dr. Mārcis Gasūns_

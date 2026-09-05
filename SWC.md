@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 <!-- provenance: engine=tesseract-5.5.0.20241111 eng+san; pipeline=run_ocr.py v2; source=SWC.pdf; date=2026-07-23 -->
 # SWC.pdf
 
@@ -1242,3 +1244,5 @@ Jivanandana 1684-1710 A. D.
 Amrtodaya A. 7.
 62. INSCRIPTIONS
 Epigraphia Indica
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 <!-- provenance: engine=tesseract-5.5.0 deu+eng+san; pipeline=compare_pwg_a_vs_b.py; layout=prose_2col; source=pwg1-0000--02.png; date=2026-07-23 -->
 
 # Engine B — foreword
@@ -92,3 +94,5 @@ on diesem Gesichtspunkt aus wünschen wir unser Ver-
 n mit den von den Grammatikern und Lexicographen über-
 nenen Wörtern und Worterklärungen betrachtet zu sehen.
 gne University, Germany 9.2.2007
+
+_Dr. Mārcis Gasūns_

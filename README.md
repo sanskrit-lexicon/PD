@@ -3,17 +3,17 @@
 Front-matter OCR for *An Encyclopaedic Dictionary of Sanskrit on Historical Principles*
 (Deccan College / KoshaSHRI).
 
-_Created: 23-07-2026 · Last updated: 23-07-2026_
+_Created: 23-07-2026 · Last updated: 05-09-2026_
 
 ## Sources → Markdown
 
 | PDF | Pages | Content | Output |
 |-----|------:|---------|--------|
-| `GA.pdf` | 2 | General Abbreviations | [`GA.md`](GA.md) |
-| `AUB.pdf` | 2 | Abbreviations Used in the Bibliography | [`AUB.md`](AUB.md) |
-| `RG.pdf` | 5 | Reader’s Guide | [`RG.md`](RG.md) |
-| `SWC.pdf` | 9 | Subject-wise Classification & Chronology | [`SWC.md`](SWC.md) |
-| `AOB.pdf` | 42 | Abbreviations of Books Quoted | [`AOB.md`](AOB.md) |
+| `GA.pdf` | 2 | General Abbreviations | [`GA.md`](https://github.com/sanskrit-lexicon/PD/blob/main/GA.md) |
+| `AUB.pdf` | 2 | Abbreviations Used in the Bibliography | [`AUB.md`](https://github.com/sanskrit-lexicon/PD/blob/main/AUB.md) |
+| `RG.pdf` | 5 | Reader’s Guide | [`RG.md`](https://github.com/sanskrit-lexicon/PD/blob/main/RG.md) |
+| `SWC.pdf` | 9 | Subject-wise Classification & Chronology | [`SWC.md`](https://github.com/sanskrit-lexicon/PD/blob/main/SWC.md) |
+| `AOB.pdf` | 42 | Abbreviations of Books Quoted | [`AOB.md`](https://github.com/sanskrit-lexicon/PD/blob/main/AOB.md) |
 
 Baselines from the first OCR pass are kept as `*_ocr.md` for diffing.
 
@@ -46,7 +46,7 @@ PDFs are image scans with a partial native text layer (Latin + italics; Devanāg
 
 ## About the dictionary
 
-See [`about.md`](about.md) and [`aboutDictionary.md`](aboutDictionary.md) (KoshaSHRI / Deccan College).
+See [`about.md`](https://github.com/sanskrit-lexicon/PD/blob/main/about.md) and [`aboutDictionary.md`](https://github.com/sanskrit-lexicon/PD/blob/main/aboutDictionary.md) (KoshaSHRI / Deccan College).
 
 ---
 

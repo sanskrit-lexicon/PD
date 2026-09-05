@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 READER’S GUIDE
 
 Note :~ For the general lay-out of the articles in the Dictionary the reader is referred to the Introduction Section 5 ए. xii.
@@ -1021,4 +1023,4 @@ inscriptions
 An asterisk is used to indicate a recoristructed form
 £. अंश्चुमयी (from *arhgumaya ).
 
-
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 <!-- provenance: engine=tesseract-5.5.0.20241111 eng+san; pipeline=run_ocr.py v2; source=AOB.pdf; date=2026-07-23 -->
 # AOB.pdf
 
@@ -2005,3 +2007,5 @@
 `YudhiVi.` Yudhisthiravijaya, Vasudeva, KM. 60, 1930, with the comm. of — Raja- Agvasa. Sloka oe
 `एप्त,` Yuktikalpataru, Bhoja, Calcutta 1917, Isvara Chandra Sastri. — Page, Line
 `YuktiSneha.` Yuktisnehaprapirani on Sastradipika. Ramakrgna “Bhatta, NSP. — Page. Line (on Adhyaya, Pada,
+
+_Dr. Mārcis Gasūns_

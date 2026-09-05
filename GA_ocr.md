@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 i-xX
 
 Abl.
@@ -618,4 +620,4 @@ verb transitive
 weak form
 wrong reading
 
-
+_Dr. Mārcis Gasūns_

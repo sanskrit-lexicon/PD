@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 <!-- provenance: engine=tesseract-5.5.0.20241111 eng+san; pipeline=run_ocr.py v2; source=AUB.pdf; date=2026-07-23 -->
 # AUB.pdf
 
@@ -246,3 +248,5 @@ WPH. Printing
 YJIGM. Yashoyijaya Jaina Granthamala, Benares,
 ZDMG. Zeitschrift der Deutschen -Morgenlindischen
 Gesellschaft, Leipz'g 1909.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 Abbreviation
 
 AbhidhaCin,
@@ -9067,4 +9069,4 @@ Page, Line
 Page. Line (on Adhydya, Pada.
 Adhikarana )
 
-
+_Dr. Mārcis Gasūns_

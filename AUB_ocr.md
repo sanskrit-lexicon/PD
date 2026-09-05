@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 AGM.
 ATIS.
 AkaGraTra.
@@ -541,4 +543,4 @@ Zeitschrift der Deutschen Morgenlandischen
 
 Gesellschaft, Leipz'g 1909.
 
-
+_Dr. Mārcis Gasūns_

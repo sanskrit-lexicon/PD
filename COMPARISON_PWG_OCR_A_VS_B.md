@@ -1,6 +1,6 @@
 # PWG front-matter OCR: Engine A vs Engine B
 
-_Created: 23-07-2026 · Last updated: 23-07-2026_
+_Created: 23-07-2026 · Last updated: 05-09-2026_
 
 **Question:** For PWG prefaces, how does vision-band OCR (Engine A, `/cologne-preface-ocr`) compare to Tesseract crop-then-OCR (Engine B, PD `run_ocr.py` v2 style)?
 
@@ -13,7 +13,7 @@ _Created: 23-07-2026 · Last updated: 23-07-2026_
 | | Engine A | Engine B |
 |---|---|---|
 | Method | Vision band OCR (native-res crops ≤1900 px, human/agent transcription) | Tesseract 5.5.0 `deu+eng+san`, crop-then-OCR (single or L→R 2-col × 3 bands) |
-| Source files | [`PWG/prefaces/pwgprefNN.md`](https://github.com/sanskrit-lexicon/PWG/tree/main/prefaces) | this run: `PD/pwg_a_vs_b/B_*.md` via [`compare_pwg_a_vs_b.py`](compare_pwg_a_vs_b.py) |
+| Source files | [`PWG/prefaces/pwgprefNN.md`](https://github.com/sanskrit-lexicon/PWG/tree/main/prefaces) | this run: `PD/pwg_a_vs_b/B_*.md` via [`compare_pwg_a_vs_b.py`](https://github.com/sanskrit-lexicon/PD/blob/main/compare_pwg_a_vs_b.py) |
 | Relation to `feat/ocr-v2-pipeline` | Cologne skill path | Same family as PD v2 (crop-then-OCR), adapted to PNG scans instead of PDF |
 
 **Sample pages** (three layout types from vol. 1):
@@ -258,3 +258,5 @@ Requires: Tesseract 5.x with `deu` + `eng` + `san`, `pillow`, `pytesseract`.
 _Dr. Mārcis Gasūns_
 
 _Auto-generated metrics by Grok 4.5 (`grok-4.5`) via compare_pwg_a_vs_b.py on 2026-07-23._
+
+_Dr. Mārcis Gasūns_

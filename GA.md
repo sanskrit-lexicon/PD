@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 <!-- provenance: engine=tesseract-5.5.0.20241111 eng+san; pipeline=run_ocr.py v2; source=GA.pdf; date=2026-07-23 -->
 # GA.pdf
 
@@ -249,3 +251,5 @@ Singular. wk. weak form
 810. sicut est फ, 1. wrong reading
 Skt. Sanskrit
 st. stem
+
+_Dr. Mārcis Gasūns_

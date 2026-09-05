@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 <!-- provenance: engine=tesseract-5.5.0.20241111 eng+san; pipeline=run_ocr.py v2; source=RG.pdf; date=2026-07-23 -->
 # RG.pdf
 
@@ -688,3 +690,5 @@ OLS
 are also ix, An asterisk is used to indicate a reconstructed form
 a
 ९. £. अंश्चुमयी (from *arhgumaya
+
+_Dr. Mārcis Gasūns_

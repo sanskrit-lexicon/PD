@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+type: dataset
+title: "An Encyclopaedic Dictionary of Sanskrit on Historical Principles"
+message: "If you use this dataset, please cite both the digital edition and the printed source it digitises."
+license: CC-BY-SA-4.0
+repository-code: https://github.com/sanskrit-lexicon/PD
+date-released: 2026-01-01
+version: 1.0.0
+keywords:
+  - sanskrit
+  - lexicon
+  - cdsl
+  - cologne-digital-sanskrit-lexicon
+  - dictionary
+authors:
+  - name: "Cologne Digital Sanskrit Lexicon project contributors"
+    website: https://www.sanskrit-lexicon.uni-koeln.de/
+doi: 10.5281/zenodo.23151371
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23151371
+    description: Zenodo concept DOI (always resolves to the latest version)
+preferred-citation:
+  type: book
+  title: "An Encyclopaedic Dictionary of Sanskrit on Historical Principles"
+  year: 2026
+  authors:
+    - family-names: "(KoshaSHRI)"
+      given-names: "Deccan College, Pune"

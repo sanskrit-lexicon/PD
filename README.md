@@ -1,5 +1,7 @@
 # PD
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23151371.svg)](https://doi.org/10.5281/zenodo.23151371)
+
 Front-matter OCR for *An Encyclopaedic Dictionary of Sanskrit on Historical Principles*
 (Deccan College / KoshaSHRI).
 

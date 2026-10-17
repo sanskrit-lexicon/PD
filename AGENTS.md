@@ -1,6 +1,6 @@
 # AGENTS.md — PD
 
-_Created: 13-09-2026 · Last updated: 13-09-2026_
+_Created: 13-09-2026 · Last updated: 17-10-2026_
 
 ## Tool manifest
 
@@ -9,7 +9,9 @@ _Created: 13-09-2026 · Last updated: 13-09-2026_
   (`extract_html_pref.py`, `compare_pwg_a_vs_b.py`).
 - Harnesses: Claude Code / Codex / OpenCode / Grok (this AGENTS.md) — org
   default all four.
-- CI: [dependabot-auto-merge.yml](https://github.com/sanskrit-lexicon/PD/blob/main/.github/workflows/dependabot-auto-merge.yml) only.
+- CI: [dependabot-auto-merge.yml](https://github.com/sanskrit-lexicon/PD/blob/main/.github/workflows/dependabot-auto-merge.yml)
+  (Dependabot) + [validate.yml](https://github.com/sanskrit-lexicon/PD/blob/main/.github/workflows/validate.yml)
+  (Python byte-compile smoke on push/PR).
 - Repo-level MCP: none carried (no `.mcp.json`).
 - Landing route: foreign owner `sanskrit-lexicon` → PR only, human merges
   (no auto-merge).

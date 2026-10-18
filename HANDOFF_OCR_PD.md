@@ -1,6 +1,6 @@
 # HANDOFF: Finish OCR of PD Prefaces (Antigravity → Grok)
 
-_Created: 23-07-2026 · Last updated: 05-09-2026_
+_Created: 23-07-2026 · Last updated: 17-10-2026_
 
 **Date of handoff:** 2026-07-23  
 **Previous agent:** Antigravity → continued by Grok 4.5  
@@ -19,6 +19,15 @@ _Created: 23-07-2026 · Last updated: 05-09-2026_
 | Provenance + page markers | ✅ |
 | Italic stopword ban | ✅ (~0 false `*of*`/`*and*`) |
 | Pair format `` `key` expansion `` | ✅ (plan option a) |
+
+### Preface (pp. V–VI) — 17-10-2026
+
+The printed Preface is not among the five KoshaSHRI PDFs and was not part of the v2 run.
+It is transcribed from the archive.org scan of Vol. 1 (1976), leaves 8–9
+(`mAAY_an-encyclopaedic-dictionary-of-sanskrit-vol-1-...`), as
+[`PREFACE.md`](https://github.com/sanskrit-lexicon/PD/blob/main/PREFACE.md).
+Method: Tesseract 5.5.3 `eng`, column crops, then line-by-line collation against the
+page images; printed defects retained, damaged sorts restored where unambiguous.
 
 ### Layout modes in v2
 

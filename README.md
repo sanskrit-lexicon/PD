@@ -21,14 +21,21 @@ _Created: 23-07-2026 · Last updated: 18-10-2026_
 
 Baselines from the first OCR pass are kept as `*_ocr.md` for diffing.
 
-The Essay and the Index of Works have no source PDF in this repo. They are
-transcribed from the 2023-06-17 Internet Archive scan of vol. 1
+**Preface (pp. V–VI).** The printed Preface is not among the KoshaSHRI PDFs. It is
+transcribed from the archive.org scan of Vol. 1 (1976), leaves 8–9, as
+[`PREFACE.md`](https://github.com/sanskrit-lexicon/PD/blob/main/PREFACE.md).
+
+**Introductory Essay (pp. I–XXVIII) and Index of Works (pp. LXXXIX–CXXVII).** No
+source PDF for either ships in this repo; both are transcribed from the 2023-06-17
+Internet Archive scan of vol. 1
 (`mAAY_an-encyclopaedic-dictionary-of-sanskrit-vol-1-critically-edited-by-a-m-ghatage-1`)
 with [`parse_pd_frontmatter.py`](parse_pd_frontmatter.py), which pins the source
-`djvu.xml` by SHA-256 and emits both Markdown files, the `IW.tsv`
-subject-code × siglum index, and
+`djvu.xml` by SHA-256 and emits [`ES.md`](ES.md), [`IW.md`](IW.md), the
+[`IW.tsv`](IW.tsv) subject-code × siglum index and
 [`pref_manifests/pd_vol1_frontmatter_manifest.tsv`](pref_manifests/pd_vol1_frontmatter_manifest.tsv)
 (printed page → scan leaf). The original dictionary `.txt` files are untouched.
+
+**Additional Abbreviations (p. CXXVIII)** remains outside this pack.
 
 ## Pipeline
 
@@ -56,6 +63,8 @@ pymupdf  pillow  pytesseract  numpy  beautifulsoup4
 5. **Resume** via `--start-page` / `--end-page`
 
 PDFs are image scans with a partial native text layer (Latin + italics; Devanāgarī is mojibake in the layer). Tesseract `eng+san` supplies Unicode Devanāgarī.
+
+`PREFACE.md` is a one-off transcription and is **not** produced by `run_ocr.py`: Tesseract 5.5.3 supplied a column-cropped base text, which was then collated line by line against the page images.
 
 ## About the dictionary
 

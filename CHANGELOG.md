@@ -15,6 +15,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
   Archive vol. 1 scan with SHA-256 pinning; manifest at
   `pref_manifests/pd_vol1_frontmatter_manifest.tsv`. No dictionary `.txt` touched.
 
+- **Preface (pp. V–VI)** transcribed from the archive.org scan of Vol. 1 (1976),
+  leaves 8–9, as [`PREFACE.md`](https://github.com/sanskrit-lexicon/PD/blob/main/PREFACE.md)
+  (Tesseract 5.5.3 `eng` base, manual collation against the page images; printed
+  defects retained, damaged sorts restored where unambiguous). This is the one
+  front-matter section that was not among the five KoshaSHRI PDFs.
+
 ## [0.1.0] - 2026-07-31
 
 ### Added

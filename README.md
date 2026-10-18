@@ -5,7 +5,7 @@
 Front-matter OCR for *An Encyclopaedic Dictionary of Sanskrit on Historical Principles*
 (Deccan College / KoshaSHRI).
 
-_Created: 23-07-2026 · Last updated: 05-09-2026_
+_Created: 23-07-2026 · Last updated: 17-10-2026_
 
 ## Sources → Markdown
 
@@ -18,6 +18,12 @@ _Created: 23-07-2026 · Last updated: 05-09-2026_
 | `AOB.pdf` | 42 | Abbreviations of Books Quoted | [`AOB.md`](https://github.com/sanskrit-lexicon/PD/blob/main/AOB.md) |
 
 Baselines from the first OCR pass are kept as `*_ocr.md` for diffing.
+
+**Preface (pp. V–VI).** The printed Preface is not among the KoshaSHRI PDFs. It is
+transcribed from the archive.org scan of Vol. 1 (1976), leaves 8–9, as
+[`PREFACE.md`](https://github.com/sanskrit-lexicon/PD/blob/main/PREFACE.md).
+The 28-page introductory essay (pp. I–XXVIII), the Index of Works (pp. LXXXIX–CXXVII)
+and the Additional Abbreviations (p. CXXVIII) remain outside this pack.
 
 ## Pipeline
 
@@ -45,6 +51,8 @@ pymupdf  pillow  pytesseract  numpy  beautifulsoup4
 5. **Resume** via `--start-page` / `--end-page`
 
 PDFs are image scans with a partial native text layer (Latin + italics; Devanāgarī is mojibake in the layer). Tesseract `eng+san` supplies Unicode Devanāgarī.
+
+`PREFACE.md` is a one-off transcription and is **not** produced by `run_ocr.py`: Tesseract 5.5.3 supplied a column-cropped base text, which was then collated line by line against the page images.
 
 ## About the dictionary
 

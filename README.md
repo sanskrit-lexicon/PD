@@ -5,7 +5,7 @@
 Front-matter OCR for *An Encyclopaedic Dictionary of Sanskrit on Historical Principles*
 (Deccan College / KoshaSHRI).
 
-_Created: 23-07-2026 · Last updated: 17-10-2026_
+_Created: 23-07-2026 · Last updated: 18-10-2026_
 
 ## Sources → Markdown
 
@@ -16,14 +16,26 @@ _Created: 23-07-2026 · Last updated: 17-10-2026_
 | `RG.pdf` | 5 | Reader’s Guide | [`RG.md`](https://github.com/sanskrit-lexicon/PD/blob/main/RG.md) |
 | `SWC.pdf` | 9 | Subject-wise Classification & Chronology | [`SWC.md`](https://github.com/sanskrit-lexicon/PD/blob/main/SWC.md) |
 | `AOB.pdf` | 42 | Abbreviations of Books Quoted | [`AOB.md`](https://github.com/sanskrit-lexicon/PD/blob/main/AOB.md) |
+| — (IA vol. 1 scan) | 28 | Introductory Essay (front matter pp. I-XXVIII) | [`ES.md`](https://github.com/sanskrit-lexicon/PD/blob/main/ES.md) |
+| — (IA vol. 1 scan) | 39 | Index of Works Used in the Dictionary (pp. LXXXIX-CXXVII) | [`IW.md`](https://github.com/sanskrit-lexicon/PD/blob/main/IW.md) · [`IW.tsv`](https://github.com/sanskrit-lexicon/PD/blob/main/IW.tsv) |
 
 Baselines from the first OCR pass are kept as `*_ocr.md` for diffing.
 
 **Preface (pp. V–VI).** The printed Preface is not among the KoshaSHRI PDFs. It is
 transcribed from the archive.org scan of Vol. 1 (1976), leaves 8–9, as
 [`PREFACE.md`](https://github.com/sanskrit-lexicon/PD/blob/main/PREFACE.md).
-The 28-page introductory essay (pp. I–XXVIII), the Index of Works (pp. LXXXIX–CXXVII)
-and the Additional Abbreviations (p. CXXVIII) remain outside this pack.
+
+**Introductory Essay (pp. I–XXVIII) and Index of Works (pp. LXXXIX–CXXVII).** No
+source PDF for either ships in this repo; both are transcribed from the 2023-06-17
+Internet Archive scan of vol. 1
+(`mAAY_an-encyclopaedic-dictionary-of-sanskrit-vol-1-critically-edited-by-a-m-ghatage-1`)
+with [`parse_pd_frontmatter.py`](parse_pd_frontmatter.py), which pins the source
+`djvu.xml` by SHA-256 and emits [`ES.md`](ES.md), [`IW.md`](IW.md), the
+[`IW.tsv`](IW.tsv) subject-code × siglum index and
+[`pref_manifests/pd_vol1_frontmatter_manifest.tsv`](pref_manifests/pd_vol1_frontmatter_manifest.tsv)
+(printed page → scan leaf). The original dictionary `.txt` files are untouched.
+
+**Additional Abbreviations (p. CXXVIII)** remains outside this pack.
 
 ## Pipeline
 

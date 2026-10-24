@@ -5,7 +5,11 @@
 Front-matter OCR for *An Encyclopaedic Dictionary of Sanskrit on Historical Principles*
 (Deccan College / KoshaSHRI).
 
-_Created: 23-07-2026 · Last updated: 18-10-2026_
+**Knowledge page:** [`PD_KNOWLEDGE.md`](PD_KNOWLEDGE.md) — sourced facts, measurements, canon
+denominators and a do-not-quote list for the dictionary itself, each section carrying an evidence
+label.
+
+_Created: 23-07-2026 · Last updated: 24-10-2026_
 
 ## Sources → Markdown
 

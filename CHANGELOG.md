@@ -9,6 +9,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## [Unreleased]
 
 ### Added
+- **Sourced knowledge page** (24-10-2026, DeepSeek Flash `deepseek-flash`): `PD_KNOWLEDGE.md` —
+  13 sections, each carrying an evidence label (`observed` / `derived` / `inferred` / `reviewed`);
+  the canon ledger with every base that has been quoted and its 118/N; three verbatim entry exhibits
+  with full loci; the do-not-quote list; a 10-row verification checklist. Every outbound link is
+  public — 0 links into private repositories, 0 internal handoff IDs.
 - **Essay + Index of Works front matter** (H6945, DeepSeek v4.1 Flash): `ES.md`
   (pp. I-XXVIII), `IW.md` (pp. LXXXIX-CXXVII), `IW.tsv` (subject-code × siglum
   index) and `parse_pd_frontmatter.py`, transcribed from the 2023-06-17 Internet

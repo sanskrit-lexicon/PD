@@ -26,17 +26,17 @@ Ten checks that the page can be audited against. `pass` means the artifact exist
 | # | Check | State | Where |
 |---|---|---|---|
 | 1 | This page resolves at a public URL | **pass** | this file |
-| 2 | A DOI for the page's dataset | open | report + deposit, pending |
+| 2 | A DOI for the page's dataset | **pass** | [10.5281/zenodo.23613057](https://doi.org/10.5281/zenodo.23613057) (csl-atlas v0.21.0) |
 | 3 | Every section carries an evidence label | **pass** | 13 / 13 below |
 | 4 | At least one human-`reviewed` claim | open | inter-annotator study, pending |
 | 5 | A canon ledger with every base labelled | **pass** | [`pd_canon_ledger.tsv`](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/data/pd/pd_canon_ledger.tsv) |
-| 6 | PD is a chapter in the dictionary atlas | open | chapter, pending |
+| 6 | PD is a chapter in the dictionary atlas | **pass** | [dicts/pd](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/src/dicts/pd.md) |
 | 7 | An edition-availability number by citation mass | open | measurement, pending |
 | 8 | Every number gated against a committed owner | **pass** | 489 / 489 checks |
 | 9 | This mirror is in sync with the working copy | **pass** | 24-10-2026 |
-| 10 | A published report carrying the measurements | open | report, pending |
+| 10 | A published report carrying the measurements | **pass** | [parity report](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/reports/PD_KNOWLEDGE_INDEX_PARITY_2026-10-24.md) |
 
-Score at creation: **5 / 10**. The five open rows are units with dated owners, not omissions.
+Score: **8 / 10**. The two open rows — a human-`reviewed` claim and the edition-availability number — are units with owners, not omissions.
 
 ---
 

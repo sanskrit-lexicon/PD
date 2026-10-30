@@ -9,6 +9,12 @@ Front-matter OCR for *An Encyclopaedic Dictionary of Sanskrit on Historical Prin
 denominators and a do-not-quote list for the dictionary itself, each section carrying an evidence
 label.
 
+**Repo map:** per-PDF OCR extractions (`GA`/`AUB`/`RG`/`AOB`/`SWC` → `.md` + `_ocr.md`), vol.-1
+front-matter transcriptions ([`PREFACE.md`](PREFACE.md), [`ES.md`](ES.md), [`IW.md`](IW.md) +
+[`IW.tsv`](IW.tsv)), comparison reports and probe scripts, press reproductions ([`PRESS/`](PRESS)),
+the sourced knowledge page and this changelog. Agent/AI contribution rules:
+[`AGENTS.md`](AGENTS.md) — PR-only, human merges; rights: [`RIGHTS.md`](RIGHTS.md).
+
 _Created: 23-07-2026 · Last updated: 24-10-2026_
 
 ## Sources → Markdown

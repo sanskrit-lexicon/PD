@@ -74,6 +74,14 @@ PDFs are image scans with a partial native text layer (Latin + italics; Devanāg
 
 See [`about.md`](https://github.com/sanskrit-lexicon/PD/blob/main/about.md) and [`aboutDictionary.md`](https://github.com/sanskrit-lexicon/PD/blob/main/aboutDictionary.md) (KoshaSHRI / Deccan College).
 
+
+## Rights
+
+Original contributions are [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt)
+([`LICENSE`](https://github.com/sanskrit-lexicon/PD/blob/main/LICENSE)); the Cologne machine text,
+the printed dictionary and the press witness each keep their own regime. The layering is stated in
+[`RIGHTS.md`](https://github.com/sanskrit-lexicon/PD/blob/main/RIGHTS.md).
+
 ---
 
 _Dr. Mārcis Gasūns_

@@ -13,6 +13,13 @@ The machine-readable text is the Cologne PDScan 2020 edition, © 2014 The Sanskr
 Malten, CC BY-NC-SA 3.0. The printed dictionary is © Deccan College. Quotations below are short and
 carry their loci.
 
+**Public coverage map:** this edition is a curated subset, not the whole record. The private master
+page it was distilled from additionally carries §8–§15 — open items, the hub/attachment pointers,
+the full entry-exhibit apparatus, the dated batch-findings register, the print-vs-digital boundary
+ruling, the post-2009-fascicle acquisition input, reusable cut residue and the section-by-section
+source-link table — internal workflow records withheld from this public edition. §7 (*What has been
+verified*) closes the public page but is not the whole.
+
 ## 1. The dictionary
 
 PD is a quotation-slip dictionary on the model of the *Oxford English Dictionary*: senses are ordered

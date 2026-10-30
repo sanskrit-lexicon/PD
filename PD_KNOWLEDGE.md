@@ -23,8 +23,9 @@ Sanskrit literary canon, weighted by how often each work is quoted.
 
 The machine-readable text covers fascicles issued between 1976 and 2009, from *a-* to roughly
 *apaca-*, in 107,630 entries and 104,959 lemmas. The printed record reached
-*abhigamyamānaparadārādi* by volume 35 (2019, page 6,056). About 4 to 6 percent of the headword span
-of a completed dictionary has been published.
+*abhigamyamānaparadārādi* by volume 35 (2019, page 6,056). About 4.3 percent of the reference
+headword stock has been published, measured by alphabetical frontier: the same stretch of the
+Petersburg dictionary holds 4,519 of its 106,082 headwords.
 
 ## 2. Publication record
 
@@ -131,13 +132,61 @@ page, column and Cologne record number. All three were checked against PDScan 20
 
 Each entry is two lines and is quoted in full with its locus.
 
-## 7. Data and citation
+## 7. What has been verified
+
+Beyond the coverage headline, a series of checks has been run against the machine text, the
+printed books and the printed apparatus. The verdicts, each with its evidence:
+
+- **The abbreviations join is strong, not complete.** The printed Abbreviations of Books confirms
+  87.3 percent of harvested citation-siglum families once the printed book's own text witnesses
+  are used, and 367 well-formed printed entries never receive an *a-* citation
+  ([reconciliation report](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/reports/PD_AOB_SIGLA_RECONCILIATION_2026-10-17.md)).
+- **A residue of six works, 9,229 citations, is held by no public digital source.** Every residue
+  row now carries a sourced acquisition status
+  ([status queue](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/data/pd/pd_dcs_residue_status_queue.tsv)).
+- **Epigraphy is refuted, grammar confirmed, as components of the citation mass.** Inscription
+  sigla contribute 0.91 percent (2 sigla); the grammatical tradition 6.97 percent (126 sigla)
+  ([siglum families](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/data/pd/pd_siglum_families.tsv)).
+- **The siglum `Bharat.` is the Bharatakadvātriṃśikā**, cited by folio and line, not the
+  Mahābhārata. The epic keeps its own `MahāBhā.`.
+- **Wright's 1978 page arithmetic reproduces.** The 216 printed pages of volume 1 carry about as
+  much attestation as 20 pages of PWG, 10 of Apte, or 3 of Monier-Williams
+  ([the review](https://doi.org/10.1017/S0041977X00124826)).
+- **Acknowledged inheritance is a 1.67 percent floor.** 1,801 of 107,630 entries carry an explicit
+  bracketed source mark (DBHS 852, PW 399, APTE 264, MW 245); sources PD does not name lie outside
+  the count.
+- **The compound exclusion is measured and closed.** The Reader's Guide excludes compounds of
+  three or more members in principle
+  ([RG](https://github.com/sanskrit-lexicon/PD/blob/main/RG.md)); on machine-readable compound
+  joints the exclusion costs 6.8 percent of compound entries and 0.43 percent of letter-*a*
+  entries, and a looser reading fails its own test (privatives split to three or more members in
+  1.5 percent, far below any trigger).
+- **The printed Index of Works is transcribed in full** (pp. LXXXIX to CXXVII): every work with
+  title, author, nature, subject subcode and AOB siglum; 2,031 rows, of which 1,622 print a siglum
+  ([pd_index_works.tsv](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/data/pd/pd_index_works.tsv)).
+- **An interim composition maps PD titles through the Prague ACC into the NCC.** 164 adjudicated
+  PD titles resolve to 122 exact ACC works (123,453 citation occurrences), and 106 of them carry a
+  confirmed NCC row (87,360 occurrences)
+  ([composition report](https://github.com/gasyoun/SanskritLexicography/blob/master/HeadwordLists/works_catalogue/PD_ACC_NCC_COMPOSITION_INTERIM_2026-10-18.md)).
+- **The 2003 press witness is transcribed with its claims, and one is adjudicated.** The article's
+  "no general editor" is true of the printed label and false of the office; three assistant editors
+  appear on the January 2003 staff leaf
+  ([the transcription](https://github.com/sanskrit-lexicon/PD/blob/main/PRESS/OUTLOOK_2003-12-01_KABRA_DICTIONARYAHA.md)).
+- **The Cologne text is stale against the printed record by 11 volumes and 1,728 pages** (the
+  2009 to 2019 fascicles)
+  ([staleness audit](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/reports/PD_KOSHASHRI_STALENESS_AUDIT_2026.md)).
+- **The two digitisations are not interchangeable.** Cologne's text has a public per-entry page
+  and a bulk markup of five tags; the Pune portal exposes no entry artefact and no export.
+
+## 8. Data and citation
 
 - PD × DCS measurement data: [csl-atlas `data/pd/`](https://github.com/sanskrit-lexicon/csl-atlas/tree/main/data/pd)
 - Canon ledger, every base and its percentage: [`pd_canon_ledger.tsv`](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/data/pd/pd_canon_ledger.tsv)
 - Coverage report: [PD_DCS_CORPUS_COVERAGE_2026.md](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/reports/PD_DCS_CORPUS_COVERAGE_2026.md)
 - Machine-readable PD text: [PDScan 2020](https://sanskrit-lexicon.uni-koeln.de/scans/PDScan/2020/web/index.php)
 - Front matter transcribed in this repository: [AOB](https://github.com/sanskrit-lexicon/PD/blob/main/AOB.md), [AUB](https://github.com/sanskrit-lexicon/PD/blob/main/AUB.md), [GA](https://github.com/sanskrit-lexicon/PD/blob/main/GA.md), [RG](https://github.com/sanskrit-lexicon/PD/blob/main/RG.md), [SWC](https://github.com/sanskrit-lexicon/PD/blob/main/SWC.md), [IW](https://github.com/sanskrit-lexicon/PD/blob/main/IW.md)
+- Printed apparatus transcribed as data: the [Index of Works](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/data/pd/pd_index_works.tsv), the [abbreviations reconciliation](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/reports/PD_AOB_SIGLA_RECONCILIATION_2026-10-17.md), the [publication ledger](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/data/pd/pd_publication_ledger.tsv)
+- Sanskrit-Russian strand (ACC/NCC composition, attested-first glosses): [SanskritLexicography works catalogue](https://github.com/gasyoun/SanskritLexicography/tree/master/HeadwordLists/works_catalogue)
 - Citable version of the data: [10.5281/zenodo.23613057](https://doi.org/10.5281/zenodo.23613057)
 
 A number that cannot be traced to a committed source is a defect on this page. Corrections by pull
@@ -145,5 +194,9 @@ request or issue.
 
 ---
 
-_Maintained by Dr. Mārcis Gasūns. This page is a reader-facing summary; the project's working record
-is kept separately and is not published here._
+_Maintained by Dr. Mārcis Gasūns. This page is a reader-facing edition, not the whole record. The
+working record behind it additionally holds the verification apparatus (checker scores, parity
+reports), the batch findings register, and the institution's working-environment dossier; those
+stay private because they are programme state, not knowledge about the dictionary. Reader-relevant
+material crosses into this page section by section as it stabilises; section 7 above is the first
+such crossing. Data reuse should start from section 8._

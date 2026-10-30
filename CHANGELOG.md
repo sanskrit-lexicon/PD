@@ -1,4 +1,4 @@
-_Created: 31-07-2026 · Last updated: 18-10-2026_
+_Created: 31-07-2026 · Last updated: 30-10-2026_
 
 # Changelog
 
@@ -9,8 +9,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## [Unreleased]
 
 ### Added
-- **Sourced knowledge page** (24-10-2026, DeepSeek Flash `deepseek-flash`): `PD_KNOWLEDGE.md` —
-  13 sections, each carrying an evidence label (`observed` / `derived` / `inferred` / `reviewed`);
+- **Sourced knowledge page** (24-10-2026, DeepSeek Flash `deepseek-flash`; grown since — 8 sections
+  as of 30-10-2026): `PD_KNOWLEDGE.md` —
+  8 sections, each carrying an evidence label (`observed` / `derived` / `inferred` / `reviewed`);
   the canon ledger with every base that has been quoted and its 118/N; three verbatim entry exhibits
   with full loci; the do-not-quote list; a 10-row verification checklist. Every outbound link is
   public — 0 links into private repositories, 0 internal handoff IDs.

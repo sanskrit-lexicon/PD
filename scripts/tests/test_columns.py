@@ -76,7 +76,7 @@ def words_to_lines(words, img_np, tol=10):
     return md
 
 # Test on GA.pdf page 1
-doc = fitz.open('GA.pdf')
+doc = fitz.open('front_matter/GA.pdf')
 page = doc[0]
 pix = page.get_pixmap(dpi=300)
 img = Image.frombytes('RGB',[pix.width,pix.height],pix.samples)

@@ -4,7 +4,7 @@ import fitz, pytesseract, numpy as np, re
 from PIL import Image
 from bs4 import BeautifulSoup
 
-doc = fitz.open('GA.pdf')
+doc = fitz.open('front_matter/GA.pdf')
 page = doc[0]
 pix = page.get_pixmap(dpi=300)
 img = Image.frombytes('RGB', [pix.width, pix.height], pix.samples)

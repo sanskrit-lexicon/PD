@@ -4,7 +4,7 @@ about: Something in the OCR extractions, transcriptions or the knowledge page is
 labels: ''
 ---
 
-**What is wrong?** A clear description, with the affected file and locus (e.g. `GA.md` p. 1, `PD_KNOWLEDGE.md` §3).
+**What is wrong?** A clear description, with the affected file and locus (e.g. `front_matter/GA.md` p. 1, `PD_KNOWLEDGE.md` §3).
 
 **What should it say instead?** The corrected reading or figure, with its printed-page source if you have one.
 

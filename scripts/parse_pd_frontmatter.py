@@ -7,15 +7,16 @@ Source: Internet Archive item
   sha256 5c5dbec140ad92da26b67bc769e9bae76e28ed63aaab124967bcc1e8fef2ce31
 
 Outputs (run from the repo root):
-  ES.md   Introductory Essay, pp. I-XXVIII
-  IW.md   Index of Works Used in the Dictionary, pp. LXXXIX-CXXVII
-  IW.tsv  subject-code x siglum index parsed from IW.md's source pages
+  front_matter/ES.md    Introductory Essay, pp. I-XXVIII
+  front_matter/IW.md    Index of Works Used in the Dictionary, pp. LXXXIX-CXXVII
+  front_matter/IW.tsv   subject-code x siglum index parsed from IW.md's source pages
+  front_matter/manifests/pd_vol1_frontmatter_manifest.tsv   printed page -> scan leaf
 
 The script is deliberately stdlib-only. The `--essay` / `--index` switches let a
 reviewer regenerate one half without touching the other.
 
 Usage:
-  python parse_pd_frontmatter.py --djvu /path/to/vol1_djvu.xml --all
+  python scripts/parse_pd_frontmatter.py --djvu /path/to/vol1_djvu.xml --all
 """
 from __future__ import annotations
 
@@ -57,7 +58,7 @@ INDEX_ROMAN = {i: ROMAN_N for i, ROMAN_N in {
 }.items()}
 
 # ---------------------------------------------------------------------------
-# Subject-wise Classification (PD/SWC.md, pp. LXXIII-LXXXI), manually collated.
+# Subject-wise Classification (front_matter/SWC.md, pp. LXXIII-LXXXI), manually collated.
 # Code -> canonical printed name.
 SUBJECTS = [
     ("1", "Samhitas"), ("2", "Brahmanas"), ("3", "Aranyakas"),
@@ -284,7 +285,7 @@ def write_essay(objs, root: Path):
         parts.append("")
         parts.extend(lines)
         parts.append("")
-    (root / "ES.md").write_text("\n".join(parts), encoding="utf-8")
+    (root / "front_matter" / "ES.md").write_text("\n".join(parts), encoding="utf-8")
 
 
 def index_page_pairs(obj: str):
@@ -402,14 +403,14 @@ def write_index(objs, root: Path):
             rows.append(f"{page}\t{leaf}\t{subject}\t{code}\t{siglum}\t{method}")
     md.append("_Dr. Mārcis Gasūns_")
     md.append("")
-    (root / "IW.md").write_text("\n".join(md), encoding="utf-8")
-    (root / "IW.tsv").write_text("\n".join(rows) + "\n", encoding="utf-8")
+    (root / "front_matter" / "IW.md").write_text("\n".join(md), encoding="utf-8")
+    (root / "front_matter" / "IW.tsv").write_text("\n".join(rows) + "\n", encoding="utf-8")
     man = ["printed_page\tleaf\tsection\tfile"]
     for offset, leaf in enumerate(ESSAY_LEAVES, start=1):
-        man.append(f"{ROMAN[offset]}\t{leaf}\tEssay\tES.md")
+        man.append(f"{ROMAN[offset]}\t{leaf}\tEssay\tfront_matter/ES.md")
     for offset, leaf in enumerate(INDEX_LEAVES):
-        man.append(f"{INDEX_ROMAN[offset]}\t{leaf}\tIndex of Works\tIW.md")
-    (root / "pref_manifests" / "pd_vol1_frontmatter_manifest.tsv").write_text(
+        man.append(f"{INDEX_ROMAN[offset]}\t{leaf}\tIndex of Works\tfront_matter/IW.md")
+    (root / "front_matter" / "manifests" / "pd_vol1_frontmatter_manifest.tsv").write_text(
         "\n".join(man) + "\n", encoding="utf-8")
     filled = sum(1 for r in rows[1:] if r.split("\t")[4])
     print(f"IW.tsv: {len(rows)-1} rows, {filled} with a siglum", file=sys.stderr)

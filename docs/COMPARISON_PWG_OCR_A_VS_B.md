@@ -13,7 +13,7 @@ _Created: 23-07-2026 · Last updated: 05-09-2026_
 | | Engine A | Engine B |
 |---|---|---|
 | Method | Vision band OCR (native-res crops ≤1900 px, human/agent transcription) | Tesseract 5.5.0 `deu+eng+san`, crop-then-OCR (single or L→R 2-col × 3 bands) |
-| Source files | [`PWG/prefaces/pwgprefNN.md`](https://github.com/sanskrit-lexicon/PWG/tree/main/prefaces) | this run: `PD/pwg_a_vs_b/B_*.md` via [`compare_pwg_a_vs_b.py`](https://github.com/sanskrit-lexicon/PD/blob/main/compare_pwg_a_vs_b.py) |
+| Source files | [`PWG/prefaces/pwgprefNN.md`](https://github.com/sanskrit-lexicon/PWG/tree/main/prefaces) | this run: `PD/docs/pwg_a_vs_b/B_*.md` via [`compare_pwg_a_vs_b.py`](https://github.com/sanskrit-lexicon/PD/blob/main/scripts/compare_pwg_a_vs_b.py) |
 | Relation to `feat/ocr-v2-pipeline` | Cologne skill path | Same family as PD v2 (crop-then-OCR), adapted to PNG scans instead of PDF |
 
 **Sample pages** (three layout types from vol. 1):
@@ -242,13 +242,13 @@ durchlaufenden Kapitel
 | German 19th-c. prose with heavy diacritics on csldoc PNGs | **A** |
 | Cost / speed at scale | B cheaper; A quality-gated |
 
-**Do not replace PWG’s existing `pwgprefNN.md` with Engine B output.** Keep A as gold; keep B artifacts under `PD/pwg_a_vs_b/` for this bake-off only.
+**Do not replace PWG’s existing `pwgprefNN.md` with Engine B output.** Keep A as gold; keep B artifacts under `PD/docs/pwg_a_vs_b/` for this bake-off only.
 
 ### Reproduce
 
 ```text
 cd C:\Users\user\Documents\GitHub\PD
-python compare_pwg_a_vs_b.py
+python scripts/compare_pwg_a_vs_b.py
 ```
 
 Requires: Tesseract 5.x with `deu` + `eng` + `san`, `pillow`, `pytesseract`.

@@ -1,6 +1,6 @@
 import fitz
 
-doc = fitz.open('GA.pdf')
+doc = fitz.open('front_matter/GA.pdf')
 fonts = set()
 for page in doc:
     for f in page.get_fonts():

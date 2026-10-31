@@ -3,7 +3,7 @@ Run Engine B (Tesseract crop-then-OCR) on sample PWG preface PNGs and
 emit a comparison against Engine A (vision OCR: PWG/prefaces/pwgprefNN.md).
 
 Usage:
-  python compare_pwg_a_vs_b.py
+  python scripts/compare_pwg_a_vs_b.py
 """
 from __future__ import annotations
 
@@ -20,9 +20,10 @@ from typing import List, Tuple
 import pytesseract
 from PIL import Image
 
+REPO_ROOT = Path(__file__).resolve().parents[1]
 ROOT_PWG = Path(r"C:\Users\user\Documents\GitHub\PWG\prefaces")
 SCANS = ROOT_PWG / "scans"
-OUT_DIR = Path(r"C:\Users\user\Documents\GitHub\PD\pwg_a_vs_b")
+OUT_DIR = REPO_ROOT / "docs" / "pwg_a_vs_b"
 TESS_LANG = "deu+eng+san"
 TESS_CFG = r"--psm 6 -c preserve_interword_spaces=1"
 
@@ -221,8 +222,8 @@ def main() -> None:
                 "(single or L→R 2-col × 3 bands) |")
     lines.append("| Source files | [`PWG/prefaces/pwgprefNN.md`]"
                  "(https://github.com/sanskrit-lexicon/PWG/tree/main/prefaces) | "
-                 "this run: `PD/pwg_a_vs_b/B_*.md` via "
-                 "[`compare_pwg_a_vs_b.py`](compare_pwg_a_vs_b.py) |")
+                 "this run: `PD/docs/pwg_a_vs_b/B_*.md` via "
+                 "[`compare_pwg_a_vs_b.py`](scripts/compare_pwg_a_vs_b.py) |")
     lines.append("| Relation to `feat/ocr-v2-pipeline` | Cologne skill path | Same family "
                  "as PD v2 (crop-then-OCR), adapted to PNG scans instead of PDF |")
     lines.append("")
@@ -331,13 +332,13 @@ def main() -> None:
     lines.append("| Cost / speed at scale | B cheaper; A quality-gated |")
     lines.append("")
     lines.append("**Do not replace PWG’s existing `pwgprefNN.md` with Engine B output.** "
-                 "Keep A as gold; keep B artifacts under `PD/pwg_a_vs_b/` for this bake-off only.")
+                 "Keep A as gold; keep B artifacts under `PD/docs/pwg_a_vs_b/` for this bake-off only.")
     lines.append("")
     lines.append("### Reproduce")
     lines.append("")
     lines.append("```text")
     lines.append("cd C:\\Users\\user\\Documents\\GitHub\\PD")
-    lines.append("python compare_pwg_a_vs_b.py")
+    lines.append("python scripts/compare_pwg_a_vs_b.py")
     lines.append("```")
     lines.append("")
     lines.append("Requires: Tesseract 5.x with `deu` + `eng` + `san`, `pillow`, `pytesseract`.")

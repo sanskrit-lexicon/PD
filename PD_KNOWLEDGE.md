@@ -164,7 +164,7 @@ printed books and the printed apparatus. The verdicts, each with its evidence:
   the count.
 - **The compound exclusion is measured and closed.** The Reader's Guide excludes compounds of
   three or more members in principle
-  ([RG](https://github.com/sanskrit-lexicon/PD/blob/main/RG.md)); on machine-readable compound
+  ([RG](https://github.com/sanskrit-lexicon/PD/blob/main/front_matter/RG.md)); on machine-readable compound
   joints the exclusion costs 6.8 percent of compound entries and 0.43 percent of letter-*a*
   entries, and a looser reading fails its own test (privatives split to three or more members in
   1.5 percent, far below any trigger).
@@ -191,7 +191,7 @@ printed books and the printed apparatus. The verdicts, each with its evidence:
 - Canon ledger, every base and its percentage: [`pd_canon_ledger.tsv`](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/data/pd/pd_canon_ledger.tsv)
 - Coverage report: [PD_DCS_CORPUS_COVERAGE_2026.md](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/reports/PD_DCS_CORPUS_COVERAGE_2026.md)
 - Machine-readable PD text: [PDScan 2020](https://sanskrit-lexicon.uni-koeln.de/scans/PDScan/2020/web/index.php)
-- Front matter transcribed in this repository: [AOB](https://github.com/sanskrit-lexicon/PD/blob/main/AOB.md), [AUB](https://github.com/sanskrit-lexicon/PD/blob/main/AUB.md), [GA](https://github.com/sanskrit-lexicon/PD/blob/main/GA.md), [RG](https://github.com/sanskrit-lexicon/PD/blob/main/RG.md), [SWC](https://github.com/sanskrit-lexicon/PD/blob/main/SWC.md), [IW](https://github.com/sanskrit-lexicon/PD/blob/main/IW.md)
+- Front matter transcribed in this repository: [AOB](https://github.com/sanskrit-lexicon/PD/blob/main/front_matter/AOB.md), [AUB](https://github.com/sanskrit-lexicon/PD/blob/main/front_matter/AUB.md), [GA](https://github.com/sanskrit-lexicon/PD/blob/main/front_matter/GA.md), [RG](https://github.com/sanskrit-lexicon/PD/blob/main/front_matter/RG.md), [SWC](https://github.com/sanskrit-lexicon/PD/blob/main/front_matter/SWC.md), [IW](https://github.com/sanskrit-lexicon/PD/blob/main/front_matter/IW.md)
 - Printed apparatus transcribed as data: the [Index of Works](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/data/pd/pd_index_works.tsv), the [abbreviations reconciliation](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/reports/PD_AOB_SIGLA_RECONCILIATION_2026-10-17.md), the [publication ledger](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/data/pd/pd_publication_ledger.tsv)
 - Sanskrit-Russian strand (ACC/NCC composition, attested-first glosses): [SanskritLexicography works catalogue](https://github.com/gasyoun/SanskritLexicography/tree/master/HeadwordLists/works_catalogue)
 - Citable version of the data: [10.5281/zenodo.23613057](https://doi.org/10.5281/zenodo.23613057)

@@ -10,16 +10,20 @@ denominators and a do-not-quote list for the dictionary itself, in 8 sections, e
 evidence label (`observed` / `derived` / `inferred` / `reviewed`), plus the canon ledger, three
 verbatim entry exhibits and a verification checklist.
 
-**Repo map:** per-PDF OCR extractions (`GA`/`AUB`/`RG`/`AOB`/`SWC` → `.md` + `_ocr.md`), vol.-1
-front-matter transcriptions ([`PREFACE.md`](PREFACE.md), [`ES.md`](ES.md), [`IW.md`](IW.md) +
-[`IW.tsv`](IW.tsv)), OCR comparison reports
-([`COMPARISON_PWG_OCR_A_VS_B.md`](COMPARISON_PWG_OCR_A_VS_B.md),
-[`COMPARISON_AOB_OCR_ANTIGRAVITY_VS_GROK.md`](COMPARISON_AOB_OCR_ANTIGRAVITY_VS_GROK.md)) with the
-one-off probes they used in [`tests/`](tests/README.md) (run them from the repo root), changelog
-guard scripts in [`scripts/`](scripts), press reproductions ([`PRESS/`](PRESS)), agent handoff
-notes ([`HANDOFF_OCR_PD.md`](HANDOFF_OCR_PD.md)), citation metadata ([`CITATION.cff`](CITATION.cff)),
-the sourced knowledge page and this changelog. Agent/AI contribution rules:
-[`AGENTS.md`](AGENTS.md) — PR-only, human merges; rights: [`RIGHTS.md`](RIGHTS.md).
+**Repo map:** all OCR sources and outputs live in [`front_matter/`](front_matter) — per-PDF
+extractions (`GA`/`AUB`/`RG`/`AOB`/`SWC` → `.md` + `_ocr.md` baselines) and vol.-1 front-matter
+transcriptions ([`PREFACE.md`](front_matter/PREFACE.md), [`ES.md`](front_matter/ES.md),
+[`IW.md`](front_matter/IW.md) + [`IW.tsv`](front_matter/IW.tsv)) with their page→leaf manifests in
+[`front_matter/manifests/`](front_matter/manifests). OCR comparison reports and the PWG bake-off
+artifacts live in [`docs/`](docs)
+([`COMPARISON_PWG_OCR_A_VS_B.md`](docs/COMPARISON_PWG_OCR_A_VS_B.md),
+[`COMPARISON_AOB_OCR_ANTIGRAVITY_VS_GROK.md`](docs/COMPARISON_AOB_OCR_ANTIGRAVITY_VS_GROK.md)),
+together with agent handoff notes ([`HANDOFF_OCR_PD.md`](docs/HANDOFF_OCR_PD.md)) and the
+about-the-dictionary pages. All code, including the one-off probes the reports used (run them from
+the repo root), is in [`scripts/`](scripts). Press reproductions: [`PRESS/`](PRESS). Repo-root
+files: this README, the sourced knowledge page ([`PD_KNOWLEDGE.md`](PD_KNOWLEDGE.md)), this
+changelog, citation metadata ([`CITATION.cff`](CITATION.cff)), and agent/AI contribution rules
+([`AGENTS.md`](AGENTS.md) — PR-only, human merges); rights: [`docs/RIGHTS.md`](docs/RIGHTS.md).
 
 _Created: 23-07-2026 · Last updated: 31-10-2026_
 
@@ -27,44 +31,44 @@ _Created: 23-07-2026 · Last updated: 31-10-2026_
 
 | PDF | Pages | Content | Output |
 |-----|------:|---------|--------|
-| `GA.pdf` | 2 | General Abbreviations | [`GA.md`](GA.md) |
-| `AUB.pdf` | 2 | Abbreviations Used in the Bibliography | [`AUB.md`](AUB.md) |
-| `RG.pdf` | 5 | Reader’s Guide | [`RG.md`](RG.md) |
-| `SWC.pdf` | 9 | Subject-wise Classification & Chronology | [`SWC.md`](SWC.md) |
-| `AOB.pdf` | 42 | Abbreviations of Books Quoted | [`AOB.md`](AOB.md) |
-| — (IA vol. 1 scan) | 28 | Introductory Essay (front matter pp. I-XXVIII) | [`ES.md`](ES.md) |
-| — (IA vol. 1 scan) | 39 | Index of Works Used in the Dictionary (pp. LXXXIX-CXXVII) | [`IW.md`](IW.md) · [`IW.tsv`](IW.tsv) |
+| `GA.pdf` | 2 | General Abbreviations | [`GA.md`](front_matter/GA.md) |
+| `AUB.pdf` | 2 | Abbreviations Used in the Bibliography | [`AUB.md`](front_matter/AUB.md) |
+| `RG.pdf` | 5 | Reader’s Guide | [`RG.md`](front_matter/RG.md) |
+| `SWC.pdf` | 9 | Subject-wise Classification & Chronology | [`SWC.md`](front_matter/SWC.md) |
+| `AOB.pdf` | 42 | Abbreviations of Books Quoted | [`AOB.md`](front_matter/AOB.md) |
+| — (IA vol. 1 scan) | 28 | Introductory Essay (front matter pp. I-XXVIII) | [`ES.md`](front_matter/ES.md) |
+| — (IA vol. 1 scan) | 39 | Index of Works Used in the Dictionary (pp. LXXXIX-CXXVII) | [`IW.md`](front_matter/IW.md) · [`IW.tsv`](front_matter/IW.tsv) |
 
-Baselines from the first OCR pass are kept as `*_ocr.md` for diffing.
+Baselines from the first OCR pass are kept as `*_ocr.md` beside their outputs for diffing.
 
 **Preface (pp. V–VI).** The printed Preface is not among the KoshaSHRI PDFs. It is
 transcribed from the archive.org scan of Vol. 1 (1976), leaves 8–9, as
-[`PREFACE.md`](PREFACE.md).
+[`PREFACE.md`](front_matter/PREFACE.md).
 
 **Introductory Essay (pp. I–XXVIII) and Index of Works (pp. LXXXIX–CXXVII).** No
 source PDF for either ships in this repo; both are transcribed from the 2023-06-17
 Internet Archive scan of vol. 1
 (`mAAY_an-encyclopaedic-dictionary-of-sanskrit-vol-1-critically-edited-by-a-m-ghatage-1`)
-with [`parse_pd_frontmatter.py`](parse_pd_frontmatter.py), which pins the source
-`djvu.xml` by SHA-256 and emits [`ES.md`](ES.md), [`IW.md`](IW.md), the
-[`IW.tsv`](IW.tsv) subject-code × siglum index and
-[`pref_manifests/pd_vol1_frontmatter_manifest.tsv`](pref_manifests/pd_vol1_frontmatter_manifest.tsv)
+with [`parse_pd_frontmatter.py`](scripts/parse_pd_frontmatter.py), which pins the source
+`djvu.xml` by SHA-256 and emits [`ES.md`](front_matter/ES.md), [`IW.md`](front_matter/IW.md), the
+[`IW.tsv`](front_matter/IW.tsv) subject-code × siglum index and
+[`front_matter/manifests/pd_vol1_frontmatter_manifest.tsv`](front_matter/manifests/pd_vol1_frontmatter_manifest.tsv)
 (printed page → scan leaf). The original dictionary `.txt` files are untouched.
 
-**CDSL preface pages (`pe`/`bur` manifests).** [`extract_html_pref.py`](extract_html_pref.py)
+**CDSL preface pages (`pe`/`bur` manifests).** [`extract_html_pref.py`](scripts/extract_html_pref.py)
 pulls preface pages that ship as HTML text layers (not scans) from the CDSL site and records
 them as page → image → section → source-URL manifests:
-[`pref_manifests/pe_manifest.tsv`](pref_manifests/pe_manifest.tsv) and
-[`pref_manifests/bur_manifest.tsv`](pref_manifests/bur_manifest.tsv).
+[`front_matter/manifests/pe_manifest.tsv`](front_matter/manifests/pe_manifest.tsv) and
+[`front_matter/manifests/bur_manifest.tsv`](front_matter/manifests/bur_manifest.tsv).
 
 **Additional Abbreviations (p. CXXVIII)** remains outside this pack.
 
 ## Pipeline
 
 ```text
-python run_ocr.py                  # all five PDFs
-python run_ocr.py --only GA.pdf    # one file
-python run_ocr.py --only AOB.pdf --start-page 20   # resume AOB from page 21
+python scripts/run_ocr.py                  # all five PDFs
+python scripts/run_ocr.py --only GA.pdf    # one file
+python scripts/run_ocr.py --only AOB.pdf --start-page 20   # resume AOB from page 21
 ```
 
 **Requirements:** Python 3, Tesseract 5.x with `eng` + `san` traineddata, plus:
@@ -101,7 +105,7 @@ Everything else lands by PR with a human merge — see [`AGENTS.md`](AGENTS.md).
 
 ## About the dictionary
 
-See [`about.md`](about.md) and [`aboutDictionary.md`](aboutDictionary.md) (KoshaSHRI / Deccan College).
+See [`docs/about.md`](docs/about.md) and [`docs/aboutDictionary.md`](docs/aboutDictionary.md) (KoshaSHRI / Deccan College).
 
 ## Where the citation mass goes
 
@@ -127,7 +131,7 @@ digitises.
 Original contributions are [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt)
 ([`LICENSE`](LICENSE)); the Cologne machine text,
 the printed dictionary and the press witness each keep their own regime. The layering is stated in
-[`RIGHTS.md`](RIGHTS.md).
+[`docs/RIGHTS.md`](docs/RIGHTS.md).
 
 ---
 

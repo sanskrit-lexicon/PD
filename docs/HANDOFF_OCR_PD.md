@@ -14,7 +14,7 @@ _Created: 23-07-2026 · Last updated: 17-10-2026_
 | Source PDFs present | ✅ all 5 |
 | Tesseract `eng`+`san` | ✅ 5.5.0 |
 | Column-aware v1 | ✅ (superseded) |
-| **v2 crop-then-OCR pipeline** | ✅ [`run_ocr.py`](https://github.com/sanskrit-lexicon/PD/blob/main/run_ocr.py) |
+| **v2 crop-then-OCR pipeline** | ✅ [`run_ocr.py`](https://github.com/sanskrit-lexicon/PD/blob/main/scripts/run_ocr.py) |
 | Regenerated `*.md` | ✅ GA AUB RG SWC; AOB re-run with force=`multi_seq` |
 | Provenance + page markers | ✅ |
 | Italic stopword ban | ✅ (~0 false `*of*`/`*and*`) |
@@ -25,7 +25,7 @@ _Created: 23-07-2026 · Last updated: 17-10-2026_
 The printed Preface is not among the five KoshaSHRI PDFs and was not part of the v2 run.
 It is transcribed from the archive.org scan of Vol. 1 (1976), leaves 8–9
 (`mAAY_an-encyclopaedic-dictionary-of-sanskrit-vol-1-...`), as
-[`PREFACE.md`](https://github.com/sanskrit-lexicon/PD/blob/main/PREFACE.md).
+[`PREFACE.md`](https://github.com/sanskrit-lexicon/PD/blob/main/front_matter/PREFACE.md).
 Method: Tesseract 5.5.3 `eng`, column crops, then line-by-line collation against the
 page images; printed defects retained, damaged sorts restored where unambiguous.
 
@@ -48,8 +48,8 @@ page images; printed defects retained, damaged sorts restored where unambiguous.
 ### How to re-run
 
 ```text
-python run_ocr.py
-python run_ocr.py --only AOB.pdf --start-page 20
+python scripts/run_ocr.py
+python scripts/run_ocr.py --only AOB.pdf --start-page 20
 ```
 
 See [`README.md`](https://github.com/sanskrit-lexicon/PD/blob/main/README.md).

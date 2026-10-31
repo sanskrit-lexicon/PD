@@ -34,7 +34,7 @@ jobs:
       - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1  # v6
         with:
           python-version: "3.11"
-      - run: python scripts/changelog_duplicate_bullets.py
+      - run: python .github/scripts/changelog_duplicate_bullets.py
 
   changelog-released-headings:
     name: Changelog — released headings are append-only
@@ -54,6 +54,6 @@ jobs:
       # the pushed state against its own HEAD would never fire — so
       # `github.event.before` is handed over explicitly. Empty on a PR, all-zero
       # on a new branch; both fall through to the fail-open path.
-      - run: python scripts/changelog_released_headings.py
+      - run: python .github/scripts/changelog_released_headings.py
         env:
           CHANGELOG_GUARD_BASE: ${{ github.event.before }}

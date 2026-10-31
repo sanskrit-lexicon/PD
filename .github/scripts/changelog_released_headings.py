@@ -17,10 +17,10 @@ check could not see it either -- it asks whether new content is waiting to
 ship, not whether shipped content is still there. A deletion is only visible
 against HISTORY, which is why this check compares two revisions.
 
-  python scripts/changelog_released_headings.py            # working tree vs HEAD
-  python scripts/changelog_released_headings.py --staged   # staged blob vs HEAD
-  python scripts/changelog_released_headings.py --base <rev>
-  python scripts/changelog_released_headings.py --json
+  python .github/scripts/changelog_released_headings.py            # working tree vs HEAD
+  python .github/scripts/changelog_released_headings.py --staged   # staged blob vs HEAD
+  python .github/scripts/changelog_released_headings.py --base <rev>
+  python .github/scripts/changelog_released_headings.py --json
 
 THE UNIT OF COMPARISON IS THE VERSION, AS A SET
 

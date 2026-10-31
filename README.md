@@ -103,6 +103,19 @@ Everything else lands by PR with a human merge — see [`AGENTS.md`](AGENTS.md).
 
 See [`about.md`](about.md) and [`aboutDictionary.md`](aboutDictionary.md) (KoshaSHRI / Deccan College).
 
+## Where the citation mass goes
+
+![Where PD's citation mass goes — 398,359 siglum occurrences](figures/a68_fig5_citation_flow.svg)
+
+All 398,359 siglum occurrences of the letter-*a* volumes split into primary-work citations
+(353,512 — 88.7 %), structural apparatus and secondary scholarship; of the primary mass, the
+118 works held by the Digital Corpus of Sanskrit (DCS-276) absorb 88,929 occurrences
+(25.2 %), leaving a 264,583-occurrence residue outside it. Deterministic render from the
+committed PD↔DCS crosswalk by the
+[csl-atlas figure builder](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/scripts/build_a68_figures.py)
+(cross-check gate over `data/pd/`); figure menu and verdicts in the
+[A68 visualisation catalogue](https://github.com/gasyoun/Uprava/blob/main/papers/A68/A68_VISUALISATION_CATALOGUE_30_2026-10-31.md).
+
 ## Citation
 
 [`CITATION.cff`](CITATION.cff) carries the metadata; the DOI badge above is the Zenodo concept DOI

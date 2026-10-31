@@ -17,6 +17,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
   line notes the 8 evidence-labelled sections.
 
 ### Added
+- **Citation-mass flow figure** (31-10-2026, GLM 5.3): `figures/a68_fig5_citation_flow.svg` +
+  README section *Where the citation mass goes* — 398,359 siglum occurrences → primary /
+  structural / secondary → 118 DCS-covered works (88,929; 25.2 % of primary) vs residue
+  (264,583). Deterministic render from the csl-atlas builder (cross-check gate), stage
+  labels per the MG pass-3 review (H7560).
 - **Sourced knowledge page** (24-10-2026, DeepSeek Flash `deepseek-flash`; grown since — 8 sections
   as of 30-10-2026): `PD_KNOWLEDGE.md` —
   8 sections, each carrying an evidence label (`observed` / `derived` / `inferred` / `reviewed`);

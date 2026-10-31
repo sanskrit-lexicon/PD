@@ -1,0 +1,2 @@
+# Python bytecode caches (restored to root per R7 escape hatch — .github/.gitignore scopes only .github/, and root __pycache__ got committed without it)
+__pycache__/

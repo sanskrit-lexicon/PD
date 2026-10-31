@@ -702,7 +702,10 @@ def process_page(
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
-DEFAULT_PDFS = ["GA.pdf", "AUB.pdf", "RG.pdf", "SWC.pdf", "AOB.pdf"]
+FRONT_MATTER_DIR = "front_matter"
+DEFAULT_PDFS = [f"{FRONT_MATTER_DIR}/GA.pdf", f"{FRONT_MATTER_DIR}/AUB.pdf",
+                f"{FRONT_MATTER_DIR}/RG.pdf", f"{FRONT_MATTER_DIR}/SWC.pdf",
+                f"{FRONT_MATTER_DIR}/AOB.pdf"]
 
 
 # Force layout by PDF stem when page titles are unreliable mid-document
@@ -754,7 +757,7 @@ def process_pdf(
     header = (
         f"<!-- provenance: engine=tesseract-{pytesseract.get_tesseract_version()} "
         f"{TESS_LANG}; pipeline=run_ocr.py v2; source={pdf_file}; date={today} -->\n"
-        f"# {pdf_file}\n"
+        f"# {os.path.basename(pdf_file)}\n"
     )
 
     for page_num in range(start_page, end_page):
@@ -786,7 +789,8 @@ def main() -> None:
     ap.add_argument(
         "--only",
         nargs="*",
-        help="Process only these PDFs (e.g. GA.pdf RG.pdf)",
+        help="Process only these PDFs (e.g. GA.pdf RG.pdf; bare names are "
+             "resolved against front_matter/)",
     )
     ap.add_argument("--start-page", type=int, default=0, help="0-based start page")
     ap.add_argument("--end-page", type=int, default=None, help="0-based exclusive end")
@@ -796,9 +800,11 @@ def main() -> None:
     for pdf in pdfs:
         if not pdf.lower().endswith(".pdf"):
             pdf = pdf + ".pdf" if not pdf.endswith(".pdf") else pdf
-        # allow bare stems
-        if not os.path.exists(pdf) and os.path.exists(pdf.replace(".pdf", "") + ".pdf"):
-            pdf = pdf.replace(".pdf", "") + ".pdf"
+        # allow bare names/stems: resolve against front_matter/
+        if not os.path.exists(pdf):
+            candidate = os.path.join(FRONT_MATTER_DIR, os.path.basename(pdf))
+            if os.path.exists(candidate):
+                pdf = candidate
         if not pdf.endswith(".pdf"):
             pdf = pdf + ".pdf"
         try:

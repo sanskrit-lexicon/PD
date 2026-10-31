@@ -2,11 +2,11 @@
 
 _Created: 23-07-2026 · Last updated: 23-07-2026_
 
-**Question:** Which file is the final result — [`AOB.md`](https://github.com/sanskrit-lexicon/PD/blob/main/AOB.md) or [`AOB_ocr.md`](https://github.com/sanskrit-lexicon/PD/blob/main/AOB_ocr.md)?
+**Question:** Which file is the final result — [`AOB.md`](https://github.com/sanskrit-lexicon/PD/blob/main/front_matter/AOB.md) or [`AOB_ocr.md`](https://github.com/sanskrit-lexicon/PD/blob/main/AOB_ocr.md)?
 
-**Short answer:** **[`AOB.md`](https://github.com/sanskrit-lexicon/PD/blob/main/AOB.md) is the final / canonical deliverable** (Grok pipeline v2). [`AOB_ocr.md`](https://github.com/sanskrit-lexicon/PD/blob/main/AOB_ocr.md) is the frozen **Antigravity v1 baseline**, kept for diffing — not the finished form.
+**Short answer:** **[`AOB.md`](https://github.com/sanskrit-lexicon/PD/blob/main/front_matter/AOB.md) is the final / canonical deliverable** (Grok pipeline v2). [`AOB_ocr.md`](https://github.com/sanskrit-lexicon/PD/blob/main/AOB_ocr.md) is the frozen **Antigravity v1 baseline**, kept for diffing — not the finished form.
 
-Source PDF: [`AOB.pdf`](https://github.com/sanskrit-lexicon/PD/blob/main/AOB.pdf) (42 pages, *Abbreviations of Books Quoted in the Sanskrit Dictionary*).
+Source PDF: [`AOB.pdf`](https://github.com/sanskrit-lexicon/PD/blob/main/front_matter/AOB.pdf) (42 pages, *Abbreviations of Books Quoted in the Sanskrit Dictionary*).
 
 ---
 
@@ -15,7 +15,7 @@ Source PDF: [`AOB.pdf`](https://github.com/sanskrit-lexicon/PD/blob/main/AOB.pdf
 | File | Agent / pipeline | When | Role |
 |------|------------------|------|------|
 | `AOB_ocr.md` | **Antigravity** — early full-page Tesseract / markitdown-style pass | 2026-07-23 ~12:30 | v1 baseline (pre column-aware, pre pairing) |
-| `AOB.md` | **Grok 4.5** — [`run_ocr.py`](https://github.com/sanskrit-lexicon/PD/blob/main/run_ocr.py) **v2** (`multi_seq`: Abbreviation \| Title \| Mode) | 2026-07-23 ~14:02 | **Final regenerated output** |
+| `AOB.md` | **Grok 4.5** — [`run_ocr.py`](https://github.com/sanskrit-lexicon/PD/blob/main/scripts/run_ocr.py) **v2** (`multi_seq`: Abbreviation \| Title \| Mode) | 2026-07-23 ~14:02 | **Final regenerated output** |
 
 Both are Tesseract-based OCR of the same scan; neither is a hand transcription.
 
@@ -112,7 +112,7 @@ Both still misread many Latin diacritics (`Boehtlingk` → `Boehtling]`, `ś`/`�
 1. **Usable table structure** — key ↔ title ↔ mode on one line (primary success criterion for this PDF type).
 2. **Navigation** — 42 page headers; provenance for re-runs.
 3. **Less column-gutter noise** (`~`, `|`).
-4. **Aligned with the maintained pipeline** ([`run_ocr.py`](https://github.com/sanskrit-lexicon/PD/blob/main/run_ocr.py) v2, `FORCE_LAYOUT_BY_STEM["AOB"] = "multi_seq"`).
+4. **Aligned with the maintained pipeline** ([`run_ocr.py`](https://github.com/sanskrit-lexicon/PD/blob/main/scripts/run_ocr.py) v2, `FORCE_LAYOUT_BY_STEM["AOB"] = "multi_seq"`).
 5. **Higher Devanāgarī count** where Devanāgarī actually appears (still imperfect).
 
 ---

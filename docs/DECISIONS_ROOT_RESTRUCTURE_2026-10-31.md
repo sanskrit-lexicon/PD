@@ -62,6 +62,35 @@ Direct MG instruction, no grill needed:
 - ⚠️ parked to MG: `changelog-lint.yml` and its two guard scripts are deployed per-repo by `Uprava/tools/cologne_batch_deploy.py` from `github-spine/changelog_guard/` ("do not fork them per repo") — a future redeploy may revert the `.github/scripts/` paths; the deploy template needs the new location.
 - Root after: 10 files + 3 dirs (`.github/`, `docs/`, `front_matter/`).
 
+## R7 — Convention files move + release cut (MG ruling, 31-10-2026, R6 follow-up)
+
+Direct MG instruction:
+
+- `SECURITY.md`, `LICENSE`, `CHANGELOG.md`, `AGENTS.md` → `docs/` — GitHub still detects the
+  security policy and the license from `docs/`.
+- `.gitignore` and `.pre-commit-config.yaml` → `.github/`.
+- `CHANGELOG.md` release cut: everything from `[Unreleased]` became **`[0.2.0] - 2026-10-31`**
+  (empty `[Unreleased]` kept, Keep-a-Changelog style). No git tag / GitHub Release was cut —
+  tagging mints a new Zenodo version DOI and the DOI reconciliation (CITATION.cff `23151371`
+  vs knowledge page `23613057`) is still parked to MG.
+
+Caveats (each is a functional trade-off accepted by the ruling, flagged for MG):
+
+- **`.github/.gitignore` scopes only `.github/`** — git ignores a `.gitignore` outside the root
+  for its own subtree, so root-level `__pycache__/` noise returns (H5604's repo-wide ignore no
+  longer functions from the new location). One-word fix if it bites: move the file back.
+- **pre-commit** config discovery expects a root config — local runs need
+  `pre-commit run -c .github/.pre-commit-config.yaml` (or `pre-commit install -c …`).
+- **The changelog guards go dormant** — both `changelog_*.py` scripts look for the changelog at
+  the repo root only and fail open ("no changelog found — nothing to check") until the
+  `github-spine/changelog_guard/` deploy template learns the `docs/` location (same parked
+  template as R6).
+- **`SECURITY.md` is a deployed copy** (`cologne_batch_deploy.py`, security-md row, H7156 —
+  "edit the row, not each repository's copy") — a redeploy would recreate a root copy unless the
+  template learns `docs/`.
+
+- Root after: 4 files (`.ai_state.md`, `CITATION.cff`, `PD_KNOWLEDGE.md`, `README.md`) + 3 dirs.
+
 ---
 
 _Dr. Mārcis Gasūns_

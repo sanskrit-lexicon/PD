@@ -2,37 +2,49 @@ _Created: 31-07-2026 · Last updated: 31-10-2026_
 
 # Changelog
 
-All notable changes to **PD** are documented in this file.
+All notable changes to **PD** are documented in this file. (Moved to `docs/` by R7 —
+see `DECISIONS_ROOT_RESTRUCTURE_2026-10-31.md` alongside.)
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+## [0.2.0] - 2026-10-31
+
 ### Changed
+- **Convention files moved, root now 4 files + 3 dirs** (31-10-2026, GLM 5.3 Flash, MG
+  ruling — R7 in [`DECISIONS_ROOT_RESTRUCTURE_2026-10-31.md`](DECISIONS_ROOT_RESTRUCTURE_2026-10-31.md)):
+  `SECURITY.md`, `LICENSE`, this `CHANGELOG.md` and `AGENTS.md` → `docs/`;
+  `.gitignore` and `.pre-commit-config.yaml` → `.github/`. Caveats parked to MG: the
+  `.github/.gitignore` scope covers only `.github/` (root-level `__pycache__/` noise
+  returns — H5604's repo-wide ignore no longer functions from there), `pre-commit` needs
+  `-c .github/.pre-commit-config.yaml`, and the changelog guards look for the changelog
+  at the repo root only — until the `github-spine/changelog_guard/` deploy template
+  learns the `docs/` location they fail open (no-op) for this repo.
 - **Folder nesting follow-up** (31-10-2026, GLM 5.3 Flash, MG ruling after PR #31 landed — R6 in
-  [`docs/DECISIONS_ROOT_RESTRUCTURE_2026-10-31.md`](docs/DECISIONS_ROOT_RESTRUCTURE_2026-10-31.md)):
-  `figures/` and `PRESS/` dissolved into [`docs/`](docs) (the citation-mass SVG and the
-  [`OUTLOOK_2003-12-01_KABRA_DICTIONARYAHA.md`](docs/OUTLOOK_2003-12-01_KABRA_DICTIONARYAHA.md)
-  press witness), and `scripts/` nested as [`.github/scripts/`](.github/scripts) with
+  [`DECISIONS_ROOT_RESTRUCTURE_2026-10-31.md`](DECISIONS_ROOT_RESTRUCTURE_2026-10-31.md)):
+  `figures/` and `PRESS/` dissolved into `docs/` (the citation-mass SVG and the
+  [`OUTLOOK_2003-12-01_KABRA_DICTIONARYAHA.md`](OUTLOOK_2003-12-01_KABRA_DICTIONARYAHA.md)
+  press witness), and `scripts/` nested as [`../.github/scripts/`](../.github/scripts) with
   `changelog-lint.yml` repointed — the repo root is down to 10 files + 3 dirs. Uprava
   deep links (`scripts/run_ocr.py`, the 10 `PRESS/` links) re-repointed in the same open
   Uprava PR.
 - **Root restructure** (31-10-2026, GLM 5.3 Flash, 5 MG grill rulings — record in
-  [`docs/DECISIONS_ROOT_RESTRUCTURE_2026-10-31.md`](docs/DECISIONS_ROOT_RESTRUCTURE_2026-10-31.md)):
+  [`DECISIONS_ROOT_RESTRUCTURE_2026-10-31.md`](DECISIONS_ROOT_RESTRUCTURE_2026-10-31.md)):
   the 30 root files are down to 10 — 19 front-matter files (five KoshaSHRI PDFs + their
   `.md`/`_ocr.md` transcriptions, `ES.md`, `IW.md`, `IW.tsv`, `PREFACE.md`) moved into
-  [`front_matter/`](front_matter) with `pref_manifests/` →
-  [`front_matter/manifests/`](front_matter/manifests); comparison reports, the PWG bake-off
+  [`../front_matter/`](../front_matter) with `pref_manifests/` →
+  [`../front_matter/manifests/`](../front_matter/manifests); comparison reports, the PWG bake-off
   artifacts, `HANDOFF_OCR_PD.md`, `about.md`, `aboutDictionary.md` and `RIGHTS.md` into
-  [`docs/`](docs); the four root scripts and the probes (`tests/` → `.github/scripts/tests/`) into
-  [`.github/scripts/`](.github/scripts). Paths fixed in the same change: `run_ocr.py` resolves bare
+  `docs/`; the four root scripts and the probes (`tests/` → `../.github/scripts/tests/`) into
+  [`../.github/scripts/`](../.github/scripts). Paths fixed in the same change: `run_ocr.py` resolves bare
   `--only` names against `front_matter/` and writes siblings there,
   `parse_pd_frontmatter.py` emits into `front_matter/`, and
   `compare_pwg_a_vs_b.py`'s output dir is no longer a hardcoded `C:\Users\...` path
   (now repo-relative). External deep links repointed in Uprava; one-line link-repair PRs
   opened on PWG/PWK `prefaces/METHODS.md`.
 - **README refresh** (31-10-2026, GLM 5.3 Flash): repo map completed — comparison reports named,
-  [`tests/`](.github/scripts/tests/README.md) probes, `.github/scripts/` changelog guards, `HANDOFF_OCR_PD.md` and
+  [`../.github/scripts/tests/README.md`](../.github/scripts/tests/README.md) probes, `.github/scripts/` changelog guards, `HANDOFF_OCR_PD.md` and
   `CITATION.cff` listed; new **CI** section documenting the four workflows (`validate`,
   `f821-gate`, `changelog-lint`, `dependabot-auto-merge`); `extract_html_pref.py` + the PE/BUR
   manifests described; remaining absolute self-links converted to relative links; knowledge-page

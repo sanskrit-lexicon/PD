@@ -60,7 +60,7 @@ Petersburg dictionary holds 4,519 of its 106,082 headwords.
 
 Sources: the [Deccan College department page](https://dcpune.ac.in/san_researchdept.html) and
 [publication ledger](https://dcpune.ac.in/pdf/12.%20Publication%20%28Dictionary%20Publication%29.pdf)
-(probed 11 October 2026); the [Outlook feature of 1 December 2003](https://github.com/sanskrit-lexicon/PD/blob/main/PRESS/OUTLOOK_2003-12-01_KABRA_DICTIONARYAHA.md);
+(probed 11 October 2026); the [Outlook feature of 1 December 2003](https://github.com/sanskrit-lexicon/PD/blob/main/docs/OUTLOOK_2003-12-01_KABRA_DICTIONARYAHA.md);
 J. C. Wright's review of volume 1, parts i and ii, *BSOAS* 41(2), 388-389, DOI
 [10.1017/S0041977X00124826](https://doi.org/10.1017/S0041977X00124826).
 
@@ -178,7 +178,7 @@ printed books and the printed apparatus. The verdicts, each with its evidence:
 - **The 2003 press witness is transcribed with its claims, and one is adjudicated.** The article's
   "no general editor" is true of the printed label and false of the office; three assistant editors
   appear on the January 2003 staff leaf
-  ([the transcription](https://github.com/sanskrit-lexicon/PD/blob/main/PRESS/OUTLOOK_2003-12-01_KABRA_DICTIONARYAHA.md)).
+  ([the transcription](https://github.com/sanskrit-lexicon/PD/blob/main/docs/OUTLOOK_2003-12-01_KABRA_DICTIONARYAHA.md)).
 - **The Cologne text is stale against the printed record by 11 volumes and 1,728 pages** (the
   2009 to 2019 fascicles)
   ([staleness audit](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/reports/PD_KOSHASHRI_STALENESS_AUDIT_2026.md)).

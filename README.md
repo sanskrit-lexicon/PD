@@ -24,9 +24,13 @@ about-the-dictionary pages, the press witness
 and the citation-mass figure ([`docs/a68_fig5_citation_flow.svg`](docs/a68_fig5_citation_flow.svg)).
 All code, including the one-off probes the reports used (run them from
 the repo root), is in [`.github/scripts/`](.github/scripts). Repo-root
-files: this README, the sourced knowledge page ([`PD_KNOWLEDGE.md`](PD_KNOWLEDGE.md)), this
-changelog, citation metadata ([`CITATION.cff`](CITATION.cff)), and agent/AI contribution rules
-([`AGENTS.md`](AGENTS.md) — PR-only, human merges); rights: [`docs/RIGHTS.md`](docs/RIGHTS.md).
+files: this README, the sourced knowledge page ([`PD_KNOWLEDGE.md`](PD_KNOWLEDGE.md)), the session
+journal ([`.ai_state.md`](.ai_state.md)) and citation metadata ([`CITATION.cff`](CITATION.cff)).
+Convention files live in [`docs/`](docs): security policy ([`SECURITY.md`](docs/SECURITY.md)),
+license ([`LICENSE`](docs/LICENSE)), changelog ([`CHANGELOG.md`](docs/CHANGELOG.md) — cut
+[`0.2.0`] on 31-10-2026), agent/AI contribution rules ([`AGENTS.md`](docs/AGENTS.md) — PR-only,
+human merges) and the rights layering ([`RIGHTS.md`](docs/RIGHTS.md)); `.gitignore` and
+[`.pre-commit-config.yaml`](.github/.pre-commit-config.yaml) live in `.github/`.
 
 _Created: 23-07-2026 · Last updated: 31-10-2026_
 
@@ -104,7 +108,7 @@ PDFs are image scans with a partial native text layer (Latin + italics; Devanāg
 | [`changelog-lint.yml`](.github/workflows/changelog-lint.yml) | Changelog integrity: no entry bullet duplicated across release sections ([`.github/scripts/changelog_duplicate_bullets.py`](.github/scripts/changelog_duplicate_bullets.py)); released `## [x.y.z]` headings are append-only ([`.github/scripts/changelog_released_headings.py`](.github/scripts/changelog_released_headings.py)) |
 | [`dependabot-auto-merge.yml`](.github/workflows/dependabot-auto-merge.yml) | Auto-approves and auto-merges Dependabot GitHub-Actions bumps (weekly, Mondays) except semver-major |
 
-Everything else lands by PR with a human merge — see [`AGENTS.md`](AGENTS.md).
+Everything else lands by PR with a human merge — see [`docs/AGENTS.md`](docs/AGENTS.md).
 
 ## About the dictionary
 
@@ -132,7 +136,7 @@ digitises.
 ## Rights
 
 Original contributions are [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt)
-([`LICENSE`](LICENSE)); the Cologne machine text,
+([`docs/LICENSE`](docs/LICENSE)); the Cologne machine text,
 the printed dictionary and the press witness each keep their own regime. The layering is stated in
 [`docs/RIGHTS.md`](docs/RIGHTS.md).
 

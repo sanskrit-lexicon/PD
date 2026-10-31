@@ -31,7 +31,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
   Uprava PR.
 - **Root restructure** (31-10-2026, GLM 5.3 Flash, 5 MG grill rulings — record in
   [`DECISIONS_ROOT_RESTRUCTURE_2026-10-31.md`](DECISIONS_ROOT_RESTRUCTURE_2026-10-31.md)):
-  the 30 root files are down to 9 — 19 front-matter files (five KoshaSHRI PDFs + their
+  the 30 root files are down to 10 — 19 front-matter files (five KoshaSHRI PDFs + their
   `.md`/`_ocr.md` transcriptions, `ES.md`, `IW.md`, `IW.tsv`, `PREFACE.md`) moved into
   [`../front_matter/`](../front_matter) with `pref_manifests/` →
   [`../front_matter/manifests/`](../front_matter/manifests); comparison reports, the PWG bake-off

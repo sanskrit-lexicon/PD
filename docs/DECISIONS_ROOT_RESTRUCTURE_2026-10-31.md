@@ -52,6 +52,16 @@ This file is the dated decisions record; the PR description carries the same sum
 and the `@WAITING` rebase-after-#30 queue item; Uprava GTD rows track the two PWG/PWK
 link-repair PRs (they outlive this session).
 
+## R6 — Folder nesting follow-up (MG ruling, 31-10-2026, after PR #31 merged)
+
+Direct MG instruction, no grill needed:
+
+- `figures/a68_fig5_citation_flow.svg` → [`docs/a68_fig5_citation_flow.svg`](a68_fig5_citation_flow.svg) — the `figures/` dir dissolves.
+- `PRESS/OUTLOOK_2003-12-01_KABRA_DICTIONARYAHA.md` → [`docs/OUTLOOK_2003-12-01_KABRA_DICTIONARYAHA.md`](OUTLOOK_2003-12-01_KABRA_DICTIONARYAHA.md) — the `PRESS/` dir dissolves. (The 10 Uprava deep links into `PRESS/` are re-repointed in the same open Uprava PR.)
+- `scripts/` → `.github/scripts/` — the root loses its last code dir. `changelog-lint.yml`'s two steps repointed; `compare_pwg_a_vs_b.py`'s repo-root computation adjusted (`parents[2]`); the probe tests stay CWD-relative (run from the repo root).
+- ⚠️ parked to MG: `changelog-lint.yml` and its two guard scripts are deployed per-repo by `Uprava/tools/cologne_batch_deploy.py` from `github-spine/changelog_guard/` ("do not fork them per repo") — a future redeploy may revert the `.github/scripts/` paths; the deploy template needs the new location.
+- Root after: 10 files + 3 dirs (`.github/`, `docs/`, `front_matter/`).
+
 ---
 
 _Dr. Mārcis Gasūns_

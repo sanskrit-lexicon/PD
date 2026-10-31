@@ -6,7 +6,7 @@ _Created: 13-09-2026 · Last updated: 17-10-2026_
 
 - Purpose: Cologne PWG-family OCR/dictionary source pack — AOB/AUB/GA/RG/SWC
   scanned `.pdf` + extracted `.md`, extraction/compare scripts
-  (`scripts/extract_html_pref.py`, `scripts/compare_pwg_a_vs_b.py`).
+  (`.github/scripts/extract_html_pref.py`, `.github/scripts/compare_pwg_a_vs_b.py`).
 - Harnesses: Claude Code / Codex / OpenCode / Grok (this AGENTS.md) — org
   default all four.
 - CI: [dependabot-auto-merge.yml](https://github.com/sanskrit-lexicon/PD/blob/main/.github/workflows/dependabot-auto-merge.yml)

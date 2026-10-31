@@ -14,7 +14,7 @@ _Created: 23-07-2026 · Last updated: 17-10-2026_
 | Source PDFs present | ✅ all 5 |
 | Tesseract `eng`+`san` | ✅ 5.5.0 |
 | Column-aware v1 | ✅ (superseded) |
-| **v2 crop-then-OCR pipeline** | ✅ [`run_ocr.py`](https://github.com/sanskrit-lexicon/PD/blob/main/scripts/run_ocr.py) |
+| **v2 crop-then-OCR pipeline** | ✅ [`run_ocr.py`](https://github.com/sanskrit-lexicon/PD/blob/main/.github/scripts/run_ocr.py) |
 | Regenerated `*.md` | ✅ GA AUB RG SWC; AOB re-run with force=`multi_seq` |
 | Provenance + page markers | ✅ |
 | Italic stopword ban | ✅ (~0 false `*of*`/`*and*`) |
@@ -48,8 +48,8 @@ page images; printed defects retained, damaged sorts restored where unambiguous.
 ### How to re-run
 
 ```text
-python scripts/run_ocr.py
-python scripts/run_ocr.py --only AOB.pdf --start-page 20
+python .github/scripts/run_ocr.py
+python .github/scripts/run_ocr.py --only AOB.pdf --start-page 20
 ```
 
 See [`README.md`](https://github.com/sanskrit-lexicon/PD/blob/main/README.md).

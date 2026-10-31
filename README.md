@@ -19,8 +19,11 @@ artifacts live in [`docs/`](docs)
 ([`COMPARISON_PWG_OCR_A_VS_B.md`](docs/COMPARISON_PWG_OCR_A_VS_B.md),
 [`COMPARISON_AOB_OCR_ANTIGRAVITY_VS_GROK.md`](docs/COMPARISON_AOB_OCR_ANTIGRAVITY_VS_GROK.md)),
 together with agent handoff notes ([`HANDOFF_OCR_PD.md`](docs/HANDOFF_OCR_PD.md)) and the
-about-the-dictionary pages. All code, including the one-off probes the reports used (run them from
-the repo root), is in [`scripts/`](scripts). Press reproductions: [`PRESS/`](PRESS). Repo-root
+about-the-dictionary pages, the press witness
+([`docs/OUTLOOK_2003-12-01_KABRA_DICTIONARYAHA.md`](docs/OUTLOOK_2003-12-01_KABRA_DICTIONARYAHA.md))
+and the citation-mass figure ([`docs/a68_fig5_citation_flow.svg`](docs/a68_fig5_citation_flow.svg)).
+All code, including the one-off probes the reports used (run them from
+the repo root), is in [`.github/scripts/`](.github/scripts). Repo-root
 files: this README, the sourced knowledge page ([`PD_KNOWLEDGE.md`](PD_KNOWLEDGE.md)), this
 changelog, citation metadata ([`CITATION.cff`](CITATION.cff)), and agent/AI contribution rules
 ([`AGENTS.md`](AGENTS.md) — PR-only, human merges); rights: [`docs/RIGHTS.md`](docs/RIGHTS.md).
@@ -49,13 +52,13 @@ transcribed from the archive.org scan of Vol. 1 (1976), leaves 8–9, as
 source PDF for either ships in this repo; both are transcribed from the 2023-06-17
 Internet Archive scan of vol. 1
 (`mAAY_an-encyclopaedic-dictionary-of-sanskrit-vol-1-critically-edited-by-a-m-ghatage-1`)
-with [`parse_pd_frontmatter.py`](scripts/parse_pd_frontmatter.py), which pins the source
+with [`parse_pd_frontmatter.py`](.github/scripts/parse_pd_frontmatter.py), which pins the source
 `djvu.xml` by SHA-256 and emits [`ES.md`](front_matter/ES.md), [`IW.md`](front_matter/IW.md), the
 [`IW.tsv`](front_matter/IW.tsv) subject-code × siglum index and
 [`front_matter/manifests/pd_vol1_frontmatter_manifest.tsv`](front_matter/manifests/pd_vol1_frontmatter_manifest.tsv)
 (printed page → scan leaf). The original dictionary `.txt` files are untouched.
 
-**CDSL preface pages (`pe`/`bur` manifests).** [`extract_html_pref.py`](scripts/extract_html_pref.py)
+**CDSL preface pages (`pe`/`bur` manifests).** [`extract_html_pref.py`](.github/scripts/extract_html_pref.py)
 pulls preface pages that ship as HTML text layers (not scans) from the CDSL site and records
 them as page → image → section → source-URL manifests:
 [`front_matter/manifests/pe_manifest.tsv`](front_matter/manifests/pe_manifest.tsv) and
@@ -66,9 +69,9 @@ them as page → image → section → source-URL manifests:
 ## Pipeline
 
 ```text
-python scripts/run_ocr.py                  # all five PDFs
-python scripts/run_ocr.py --only GA.pdf    # one file
-python scripts/run_ocr.py --only AOB.pdf --start-page 20   # resume AOB from page 21
+python .github/scripts/run_ocr.py                  # all five PDFs
+python .github/scripts/run_ocr.py --only GA.pdf    # one file
+python .github/scripts/run_ocr.py --only AOB.pdf --start-page 20   # resume AOB from page 21
 ```
 
 **Requirements:** Python 3, Tesseract 5.x with `eng` + `san` traineddata, plus:
@@ -98,7 +101,7 @@ PDFs are image scans with a partial native text layer (Latin + italics; Devanāg
 |----------|-------|
 | [`validate.yml`](.github/workflows/validate.yml) | Byte-compile smoke over all Python sources (Python 3.11) on push/PR |
 | [`f821-gate.yml`](.github/workflows/f821-gate.yml) | `F821` undefined names only — standalone ruff 0.16.5, version pinned |
-| [`changelog-lint.yml`](.github/workflows/changelog-lint.yml) | Changelog integrity: no entry bullet duplicated across release sections ([`scripts/changelog_duplicate_bullets.py`](scripts/changelog_duplicate_bullets.py)); released `## [x.y.z]` headings are append-only ([`scripts/changelog_released_headings.py`](scripts/changelog_released_headings.py)) |
+| [`changelog-lint.yml`](.github/workflows/changelog-lint.yml) | Changelog integrity: no entry bullet duplicated across release sections ([`.github/scripts/changelog_duplicate_bullets.py`](.github/scripts/changelog_duplicate_bullets.py)); released `## [x.y.z]` headings are append-only ([`.github/scripts/changelog_released_headings.py`](.github/scripts/changelog_released_headings.py)) |
 | [`dependabot-auto-merge.yml`](.github/workflows/dependabot-auto-merge.yml) | Auto-approves and auto-merges Dependabot GitHub-Actions bumps (weekly, Mondays) except semver-major |
 
 Everything else lands by PR with a human merge — see [`AGENTS.md`](AGENTS.md).
@@ -109,7 +112,7 @@ See [`docs/about.md`](docs/about.md) and [`docs/aboutDictionary.md`](docs/aboutD
 
 ## Where the citation mass goes
 
-![Where PD's citation mass goes — 398,359 siglum occurrences](figures/a68_fig5_citation_flow.svg)
+![Where PD's citation mass goes — 398,359 siglum occurrences](docs/a68_fig5_citation_flow.svg)
 
 All 398,359 siglum occurrences of the letter-*a* volumes split into primary-work citations
 (353,512 — 88.7 %), structural apparatus and secondary scholarship; of the primary mass, the

@@ -16,7 +16,7 @@ The script is deliberately stdlib-only. The `--essay` / `--index` switches let a
 reviewer regenerate one half without touching the other.
 
 Usage:
-  python scripts/parse_pd_frontmatter.py --djvu /path/to/vol1_djvu.xml --all
+  python .github/scripts/parse_pd_frontmatter.py --djvu /path/to/vol1_djvu.xml --all
 """
 from __future__ import annotations
 

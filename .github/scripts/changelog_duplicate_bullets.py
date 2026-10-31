@@ -14,10 +14,10 @@ Both were invisible to review: the duplicate lines are byte-identical to a
 legitimate one, so no single section reads as wrong, and only a diff of the
 *repair* makes them visible.
 
-  python scripts/changelog_duplicate_bullets.py           # check (exit 1 if dupes)
-  python scripts/changelog_duplicate_bullets.py --json    # machine-readable
-  python scripts/changelog_duplicate_bullets.py --staged  # staged blob, not working tree
-  python scripts/changelog_duplicate_bullets.py --ref <sha>  # pushed blob at <sha>:CHANGELOG.md
+  python .github/scripts/changelog_duplicate_bullets.py           # check (exit 1 if dupes)
+  python .github/scripts/changelog_duplicate_bullets.py --json    # machine-readable
+  python .github/scripts/changelog_duplicate_bullets.py --staged  # staged blob, not working tree
+  python .github/scripts/changelog_duplicate_bullets.py --ref <sha>  # pushed blob at <sha>:CHANGELOG.md
 
 --staged and --ref read the changelog via `git show`, so a pre-push hook can
 check the content actually being pushed (a rebase or a different worktree can

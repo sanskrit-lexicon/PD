@@ -15,7 +15,7 @@ Source PDF: [`AOB.pdf`](https://github.com/sanskrit-lexicon/PD/blob/main/front_m
 | File | Agent / pipeline | When | Role |
 |------|------------------|------|------|
 | `AOB_ocr.md` | **Antigravity** — early full-page Tesseract / markitdown-style pass | 2026-07-23 ~12:30 | v1 baseline (pre column-aware, pre pairing) |
-| `AOB.md` | **Grok 4.5** — [`run_ocr.py`](https://github.com/sanskrit-lexicon/PD/blob/main/scripts/run_ocr.py) **v2** (`multi_seq`: Abbreviation \| Title \| Mode) | 2026-07-23 ~14:02 | **Final regenerated output** |
+| `AOB.md` | **Grok 4.5** — [`run_ocr.py`](https://github.com/sanskrit-lexicon/PD/blob/main/.github/scripts/run_ocr.py) **v2** (`multi_seq`: Abbreviation \| Title \| Mode) | 2026-07-23 ~14:02 | **Final regenerated output** |
 
 Both are Tesseract-based OCR of the same scan; neither is a hand transcription.
 
@@ -112,7 +112,7 @@ Both still misread many Latin diacritics (`Boehtlingk` → `Boehtling]`, `ś`/`�
 1. **Usable table structure** — key ↔ title ↔ mode on one line (primary success criterion for this PDF type).
 2. **Navigation** — 42 page headers; provenance for re-runs.
 3. **Less column-gutter noise** (`~`, `|`).
-4. **Aligned with the maintained pipeline** ([`run_ocr.py`](https://github.com/sanskrit-lexicon/PD/blob/main/scripts/run_ocr.py) v2, `FORCE_LAYOUT_BY_STEM["AOB"] = "multi_seq"`).
+4. **Aligned with the maintained pipeline** ([`run_ocr.py`](https://github.com/sanskrit-lexicon/PD/blob/main/.github/scripts/run_ocr.py) v2, `FORCE_LAYOUT_BY_STEM["AOB"] = "multi_seq"`).
 5. **Higher Devanāgarī count** where Devanāgarī actually appears (still imperfect).
 
 ---

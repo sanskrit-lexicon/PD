@@ -6,34 +6,40 @@ Front-matter OCR for *An Encyclopaedic Dictionary of Sanskrit on Historical Prin
 (Deccan College / KoshaSHRI).
 
 **Knowledge page:** [`PD_KNOWLEDGE.md`](PD_KNOWLEDGE.md) — sourced facts, measurements, canon
-denominators and a do-not-quote list for the dictionary itself, each section carrying an evidence
-label.
+denominators and a do-not-quote list for the dictionary itself, in 8 sections, each carrying an
+evidence label (`observed` / `derived` / `inferred` / `reviewed`), plus the canon ledger, three
+verbatim entry exhibits and a verification checklist.
 
 **Repo map:** per-PDF OCR extractions (`GA`/`AUB`/`RG`/`AOB`/`SWC` → `.md` + `_ocr.md`), vol.-1
 front-matter transcriptions ([`PREFACE.md`](PREFACE.md), [`ES.md`](ES.md), [`IW.md`](IW.md) +
-[`IW.tsv`](IW.tsv)), comparison reports and probe scripts, press reproductions ([`PRESS/`](PRESS)),
+[`IW.tsv`](IW.tsv)), OCR comparison reports
+([`COMPARISON_PWG_OCR_A_VS_B.md`](COMPARISON_PWG_OCR_A_VS_B.md),
+[`COMPARISON_AOB_OCR_ANTIGRAVITY_VS_GROK.md`](COMPARISON_AOB_OCR_ANTIGRAVITY_VS_GROK.md)) with the
+one-off probes they used in [`tests/`](tests/README.md) (run them from the repo root), changelog
+guard scripts in [`scripts/`](scripts), press reproductions ([`PRESS/`](PRESS)), agent handoff
+notes ([`HANDOFF_OCR_PD.md`](HANDOFF_OCR_PD.md)), citation metadata ([`CITATION.cff`](CITATION.cff)),
 the sourced knowledge page and this changelog. Agent/AI contribution rules:
 [`AGENTS.md`](AGENTS.md) — PR-only, human merges; rights: [`RIGHTS.md`](RIGHTS.md).
 
-_Created: 23-07-2026 · Last updated: 24-10-2026_
+_Created: 23-07-2026 · Last updated: 31-10-2026_
 
 ## Sources → Markdown
 
 | PDF | Pages | Content | Output |
 |-----|------:|---------|--------|
-| `GA.pdf` | 2 | General Abbreviations | [`GA.md`](https://github.com/sanskrit-lexicon/PD/blob/main/GA.md) |
-| `AUB.pdf` | 2 | Abbreviations Used in the Bibliography | [`AUB.md`](https://github.com/sanskrit-lexicon/PD/blob/main/AUB.md) |
-| `RG.pdf` | 5 | Reader’s Guide | [`RG.md`](https://github.com/sanskrit-lexicon/PD/blob/main/RG.md) |
-| `SWC.pdf` | 9 | Subject-wise Classification & Chronology | [`SWC.md`](https://github.com/sanskrit-lexicon/PD/blob/main/SWC.md) |
-| `AOB.pdf` | 42 | Abbreviations of Books Quoted | [`AOB.md`](https://github.com/sanskrit-lexicon/PD/blob/main/AOB.md) |
-| — (IA vol. 1 scan) | 28 | Introductory Essay (front matter pp. I-XXVIII) | [`ES.md`](https://github.com/sanskrit-lexicon/PD/blob/main/ES.md) |
-| — (IA vol. 1 scan) | 39 | Index of Works Used in the Dictionary (pp. LXXXIX-CXXVII) | [`IW.md`](https://github.com/sanskrit-lexicon/PD/blob/main/IW.md) · [`IW.tsv`](https://github.com/sanskrit-lexicon/PD/blob/main/IW.tsv) |
+| `GA.pdf` | 2 | General Abbreviations | [`GA.md`](GA.md) |
+| `AUB.pdf` | 2 | Abbreviations Used in the Bibliography | [`AUB.md`](AUB.md) |
+| `RG.pdf` | 5 | Reader’s Guide | [`RG.md`](RG.md) |
+| `SWC.pdf` | 9 | Subject-wise Classification & Chronology | [`SWC.md`](SWC.md) |
+| `AOB.pdf` | 42 | Abbreviations of Books Quoted | [`AOB.md`](AOB.md) |
+| — (IA vol. 1 scan) | 28 | Introductory Essay (front matter pp. I-XXVIII) | [`ES.md`](ES.md) |
+| — (IA vol. 1 scan) | 39 | Index of Works Used in the Dictionary (pp. LXXXIX-CXXVII) | [`IW.md`](IW.md) · [`IW.tsv`](IW.tsv) |
 
 Baselines from the first OCR pass are kept as `*_ocr.md` for diffing.
 
 **Preface (pp. V–VI).** The printed Preface is not among the KoshaSHRI PDFs. It is
 transcribed from the archive.org scan of Vol. 1 (1976), leaves 8–9, as
-[`PREFACE.md`](https://github.com/sanskrit-lexicon/PD/blob/main/PREFACE.md).
+[`PREFACE.md`](PREFACE.md).
 
 **Introductory Essay (pp. I–XXVIII) and Index of Works (pp. LXXXIX–CXXVII).** No
 source PDF for either ships in this repo; both are transcribed from the 2023-06-17
@@ -44,6 +50,12 @@ with [`parse_pd_frontmatter.py`](parse_pd_frontmatter.py), which pins the source
 [`IW.tsv`](IW.tsv) subject-code × siglum index and
 [`pref_manifests/pd_vol1_frontmatter_manifest.tsv`](pref_manifests/pd_vol1_frontmatter_manifest.tsv)
 (printed page → scan leaf). The original dictionary `.txt` files are untouched.
+
+**CDSL preface pages (`pe`/`bur` manifests).** [`extract_html_pref.py`](extract_html_pref.py)
+pulls preface pages that ship as HTML text layers (not scans) from the CDSL site and records
+them as page → image → section → source-URL manifests:
+[`pref_manifests/pe_manifest.tsv`](pref_manifests/pe_manifest.tsv) and
+[`pref_manifests/bur_manifest.tsv`](pref_manifests/bur_manifest.tsv).
 
 **Additional Abbreviations (p. CXXVIII)** remains outside this pack.
 
@@ -76,17 +88,33 @@ PDFs are image scans with a partial native text layer (Latin + italics; Devanāg
 
 `PREFACE.md` is a one-off transcription and is **not** produced by `run_ocr.py`: Tesseract 5.5.3 supplied a column-cropped base text, which was then collated line by line against the page images.
 
+## CI
+
+| Workflow | Guard |
+|----------|-------|
+| [`validate.yml`](.github/workflows/validate.yml) | Byte-compile smoke over all Python sources (Python 3.11) on push/PR |
+| [`f821-gate.yml`](.github/workflows/f821-gate.yml) | `F821` undefined names only — standalone ruff 0.16.5, version pinned |
+| [`changelog-lint.yml`](.github/workflows/changelog-lint.yml) | Changelog integrity: no entry bullet duplicated across release sections ([`scripts/changelog_duplicate_bullets.py`](scripts/changelog_duplicate_bullets.py)); released `## [x.y.z]` headings are append-only ([`scripts/changelog_released_headings.py`](scripts/changelog_released_headings.py)) |
+| [`dependabot-auto-merge.yml`](.github/workflows/dependabot-auto-merge.yml) | Auto-approves and auto-merges Dependabot GitHub-Actions bumps (weekly, Mondays) except semver-major |
+
+Everything else lands by PR with a human merge — see [`AGENTS.md`](AGENTS.md).
+
 ## About the dictionary
 
-See [`about.md`](https://github.com/sanskrit-lexicon/PD/blob/main/about.md) and [`aboutDictionary.md`](https://github.com/sanskrit-lexicon/PD/blob/main/aboutDictionary.md) (KoshaSHRI / Deccan College).
+See [`about.md`](about.md) and [`aboutDictionary.md`](aboutDictionary.md) (KoshaSHRI / Deccan College).
 
+## Citation
+
+[`CITATION.cff`](CITATION.cff) carries the metadata; the DOI badge above is the Zenodo concept DOI
+(always resolves to the latest version). Cite both the digital edition and the printed source it
+digitises.
 
 ## Rights
 
 Original contributions are [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt)
-([`LICENSE`](https://github.com/sanskrit-lexicon/PD/blob/main/LICENSE)); the Cologne machine text,
+([`LICENSE`](LICENSE)); the Cologne machine text,
 the printed dictionary and the press witness each keep their own regime. The layering is stated in
-[`RIGHTS.md`](https://github.com/sanskrit-lexicon/PD/blob/main/RIGHTS.md).
+[`RIGHTS.md`](RIGHTS.md).
 
 ---
 

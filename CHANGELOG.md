@@ -1,4 +1,4 @@
-_Created: 31-07-2026 · Last updated: 30-10-2026_
+_Created: 31-07-2026 · Last updated: 31-10-2026_
 
 # Changelog
 
@@ -7,6 +7,14 @@ All notable changes to **PD** are documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
+
+### Changed
+- **README refresh** (31-10-2026, GLM 5.3 Flash): repo map completed — comparison reports named,
+  [`tests/`](tests/README.md) probes, `scripts/` changelog guards, `HANDOFF_OCR_PD.md` and
+  `CITATION.cff` listed; new **CI** section documenting the four workflows (`validate`,
+  `f821-gate`, `changelog-lint`, `dependabot-auto-merge`); `extract_html_pref.py` + the PE/BUR
+  manifests described; remaining absolute self-links converted to relative links; knowledge-page
+  line notes the 8 evidence-labelled sections.
 
 ### Added
 - **Sourced knowledge page** (24-10-2026, DeepSeek Flash `deepseek-flash`; grown since — 8 sections

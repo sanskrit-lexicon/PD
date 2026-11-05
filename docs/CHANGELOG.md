@@ -1,4 +1,4 @@
-_Created: 31-07-2026 · Last updated: 31-10-2026_
+_Created: 31-07-2026 · Last updated: 05-11-2026_
 
 # Changelog
 
@@ -8,6 +8,15 @@ see `DECISIONS_ROOT_RESTRUCTURE_2026-10-31.md` alongside.)
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
+
+### Changed
+- **Root `.gitignore` restored** (31-10-2026, 2fd9d7a — R7 escape hatch): release 0.2.0
+  (9811a4a) had parked it in `.github/`, whose scope covers that dir only, so root-level
+  `__pycache__/` noise returned; root is back to 5 files + 3 dirs. Docs-truth caveat: the
+  changelog guards (`changelog_duplicate_bullets.py`, `changelog_released_headings.py`)
+  still resolve CHANGELOG.md at the repo root only, so `changelog-lint.yml` fails open as
+  a permanent no-op until the `github-spine/changelog_guard/` template learns the `docs/`
+  location.
 
 ## [0.2.0] - 2026-10-31
 

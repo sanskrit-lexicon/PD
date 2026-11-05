@@ -29,10 +29,11 @@ journal ([`.ai_state.md`](.ai_state.md)) and citation metadata ([`CITATION.cff`]
 Convention files live in [`docs/`](docs): security policy ([`SECURITY.md`](docs/SECURITY.md)),
 license ([`LICENSE`](docs/LICENSE)), changelog ([`CHANGELOG.md`](docs/CHANGELOG.md) — cut
 [`0.2.0`] on 31-10-2026), agent/AI contribution rules ([`AGENTS.md`](docs/AGENTS.md) — PR-only,
-human merges) and the rights layering ([`RIGHTS.md`](docs/RIGHTS.md)); `.gitignore` and
-[`.pre-commit-config.yaml`](.github/.pre-commit-config.yaml) live in `.github/`.
+human merges) and the rights layering ([`RIGHTS.md`](docs/RIGHTS.md)); `.gitignore` lives at
+the repo root (restored by 2fd9d7a, 31-10-2026, per the R7 escape hatch) and
+[`.pre-commit-config.yaml`](.github/.pre-commit-config.yaml) lives in `.github/`.
 
-_Created: 23-07-2026 · Last updated: 31-10-2026_
+_Created: 23-07-2026 · Last updated: 05-11-2026_
 
 ## Sources → Markdown
 
@@ -105,7 +106,7 @@ PDFs are image scans with a partial native text layer (Latin + italics; Devanāg
 |----------|-------|
 | [`validate.yml`](.github/workflows/validate.yml) | Byte-compile smoke over all Python sources (Python 3.11) on push/PR |
 | [`f821-gate.yml`](.github/workflows/f821-gate.yml) | `F821` undefined names only — standalone ruff 0.16.5, version pinned |
-| [`changelog-lint.yml`](.github/workflows/changelog-lint.yml) | Changelog integrity: no entry bullet duplicated across release sections ([`.github/scripts/changelog_duplicate_bullets.py`](.github/scripts/changelog_duplicate_bullets.py)); released `## [x.y.z]` headings are append-only ([`.github/scripts/changelog_released_headings.py`](.github/scripts/changelog_released_headings.py)) |
+| [`changelog-lint.yml`](.github/workflows/changelog-lint.yml) | Changelog integrity: no entry bullet duplicated across release sections ([`.github/scripts/changelog_duplicate_bullets.py`](.github/scripts/changelog_duplicate_bullets.py)); released `## [x.y.z]` headings are append-only ([`.github/scripts/changelog_released_headings.py`](.github/scripts/changelog_released_headings.py)); fail-open caveat: both scripts resolve CHANGELOG.md at the repo root only, so since R7 moved it to `docs/` (9811a4a) the workflow is a permanent no-op |
 | [`dependabot-auto-merge.yml`](.github/workflows/dependabot-auto-merge.yml) | Auto-approves and auto-merges Dependabot GitHub-Actions bumps (weekly, Mondays) except semver-major |
 
 Everything else lands by PR with a human merge — see [`docs/AGENTS.md`](docs/AGENTS.md).

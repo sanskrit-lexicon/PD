@@ -91,6 +91,12 @@ Caveats (each is a functional trade-off accepted by the ruling, flagged for MG):
 
 - Root after: 4 files (`.ai_state.md`, `CITATION.cff`, `PD_KNOWLEDGE.md`, `README.md`) + 3 dirs.
 
+**Executed 31-10-2026:** the `.gitignore` caveat bit within the hour — commit 2fd9d7a (#35)
+moved the file back to the root per the escape hatch above; root is 5 files + 3 dirs again.
+The changelog-guard dormancy caveat stands: both scripts still resolve CHANGELOG.md at the
+repo root only, so `changelog-lint.yml` fails open as a permanent no-op (H7739 docs
+truth-pass, 05-11-2026).
+
 ---
 
 _Dr. Mārcis Gasūns_

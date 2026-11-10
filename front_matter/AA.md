@@ -36,10 +36,9 @@ Evidence, all against the pinned source (sha256 `5c5dbec1…ce31`, 864 leaves):
 ⚠️ **Pre-existing defect found during this verification** (recorded, not fixed here — out
 of the H7970 edit scope): the manifest rows and `IW.md` section labels for the Index of
 Works are keyed to printed pages up to two leaves early. The row `CXXVII 136` is the
-clearest case — leaf 136 prints `CXXV`; the true printed CXXVII is leaf 138. The rows match at the
-block start (`LXXXIX` = 98 and `XCI` = 100 both hold) and run two leaves early at the
-block end (row `CXXVII 136`; true printed CXXVII = leaf 138), so a per-row audit of all 39
-IW rows is owed as separate work. The `CXXVIII` row added
+clearest case — leaf 136 prints `CXXV`, while the true printed CXXVII is leaf 138. The
+rows match at the block start (`LXXXIX` = 98 and `XCI` = 100 both hold) and run two leaves
+early at the block end, so a per-row audit of all 39 IW rows is owed as separate work. The `CXXVIII` row added
 by this file uses the **verified** leaf (139).
 
 ## The table (37 entries)

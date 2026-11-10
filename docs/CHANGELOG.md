@@ -9,6 +9,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### Added
+- **`front_matter/AA.md` + `AA.tsv` — Additional Abbreviations (p. CXXVIII)** (10-11-2026,
+  H7970): one-page collated transcription from the pinned IA vol. 1 scan (verified scan
+  leaf 139 = `page/n139.jpg`), 37-entry structured table, manifest row + README coverage.
+  Pre-existing defect recorded with it: the vol.-1 manifest's printed-page↔leaf rows for
+  the Index-of-Works block sit up to two leaves early (verified head chain CXXIV=135 …
+  CXXVII=138 vs manifest `CXXVII 136`); the per-row IW audit is owed separately.
+
 ### Changed
 - **Root `.gitignore` restored** (31-10-2026, 2fd9d7a — R7 escape hatch): release 0.2.0
   (9811a4a) had parked it in `.github/`, whose scope covers that dir only, so root-level

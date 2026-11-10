@@ -13,7 +13,8 @@ verbatim entry exhibits and a verification checklist.
 **Repo map:** all OCR sources and outputs live in [`front_matter/`](front_matter) — per-PDF
 extractions (`GA`/`AUB`/`RG`/`AOB`/`SWC` → `.md` + `_ocr.md` baselines) and vol.-1 front-matter
 transcriptions ([`PREFACE.md`](front_matter/PREFACE.md), [`ES.md`](front_matter/ES.md),
-[`IW.md`](front_matter/IW.md) + [`IW.tsv`](front_matter/IW.tsv)) with their page→leaf manifests in
+[`IW.md`](front_matter/IW.md) + [`IW.tsv`](front_matter/IW.tsv),
+[`AA.md`](front_matter/AA.md) + [`AA.tsv`](front_matter/AA.tsv)) with their page→leaf manifests in
 [`front_matter/manifests/`](front_matter/manifests). OCR comparison reports and the PWG bake-off
 artifacts live in [`docs/`](docs)
 ([`COMPARISON_PWG_OCR_A_VS_B.md`](docs/COMPARISON_PWG_OCR_A_VS_B.md),
@@ -33,7 +34,7 @@ human merges) and the rights layering ([`RIGHTS.md`](docs/RIGHTS.md)); `.gitigno
 the repo root (restored by 2fd9d7a, 31-10-2026, per the R7 escape hatch) and
 [`.pre-commit-config.yaml`](.github/.pre-commit-config.yaml) lives in `.github/`.
 
-_Created: 23-07-2026 · Last updated: 05-11-2026_
+_Created: 23-07-2026 · Last updated: 10-11-2026_
 
 ## Sources → Markdown
 
@@ -46,6 +47,7 @@ _Created: 23-07-2026 · Last updated: 05-11-2026_
 | `AOB.pdf` | 42 | Abbreviations of Books Quoted | [`AOB.md`](front_matter/AOB.md) |
 | — (IA vol. 1 scan) | 28 | Introductory Essay (front matter pp. I-XXVIII) | [`ES.md`](front_matter/ES.md) |
 | — (IA vol. 1 scan) | 39 | Index of Works Used in the Dictionary (pp. LXXXIX-CXXVII) | [`IW.md`](front_matter/IW.md) · [`IW.tsv`](front_matter/IW.tsv) |
+| — (IA vol. 1 scan) | 1 | Additional Abbreviations (p. CXXVIII) | [`AA.md`](front_matter/AA.md) · [`AA.tsv`](front_matter/AA.tsv) |
 
 Baselines from the first OCR pass are kept as `*_ocr.md` beside their outputs for diffing.
 
@@ -69,7 +71,13 @@ them as page → image → section → source-URL manifests:
 [`front_matter/manifests/pe_manifest.tsv`](front_matter/manifests/pe_manifest.tsv) and
 [`front_matter/manifests/bur_manifest.tsv`](front_matter/manifests/bur_manifest.tsv).
 
-**Additional Abbreviations (p. CXXVIII)** remains outside this pack.
+**Additional Abbreviations (p. CXXVIII).** One page of `siglum — expansion` entries (37 of
+them), transcribed from the same IA scan into [`AA.md`](front_matter/AA.md) with the
+structured table in [`AA.tsv`](front_matter/AA.tsv). The page carries no printed folio; it
+follows printed p. CXXVII and sits at scan leaf 139 (`page/n139.jpg`). The mapping was
+verified against the page image on 10-11-2026 — see the note in [`AA.md`](front_matter/AA.md):
+the older Index-of-Works manifest rows are keyed up to two leaves early, and their
+per-row audit is owed separately.
 
 ## Pipeline
 

@@ -36,21 +36,22 @@ Evidence, all against the pinned source (sha256 `5c5dbec1…ce31`, 864 leaves):
 ⚠️ **Pre-existing defect found during this verification** (recorded, not fixed here — out
 of the H7970 edit scope): the manifest rows and `IW.md` section labels for the Index of
 Works are keyed to printed pages up to two leaves early. The row `CXXVII 136` is the
-clearest case — leaf 136 prints `CXXV`; the true printed CXXVII is leaf 138. The drift is
-+1 near the start of the block (manifest `XCI` = 100 vs head `XCI` at 101) and +2 at the
-end, so a per-row audit of all 39 IW rows is owed as separate work. The `CXXVIII` row added
+clearest case — leaf 136 prints `CXXV`; the true printed CXXVII is leaf 138. The rows match at the
+block start (`LXXXIX` = 98 and `XCI` = 100 both hold) and run two leaves early at the
+block end (row `CXXVII 136`; true printed CXXVII = leaf 138), so a per-row audit of all 39
+IW rows is owed as separate work. The `CXXVIII` row added
 by this file uses the **verified** leaf (139).
 
 ## The table (37 entries)
 
 | Abbreviation | Expansion | Note |
 |---|---|---|
-| AltGr. | Altindische Grammatik, J. Wackernagel, Band I Lautlehre, Göttingen 1896; II. I Einleitung zur Wortlehre, Nominalkomposition 1906; III. Nominalflexion, Zahlwort, Pronomen 1903; Register 1964. | printed "II. I" (cf. DEBR.: Band II. 2) |
+| AltGr. | Altindische Grammatik, J. Wackernagel, Band I Lautlehre, Göttingen 1896; II. I Einleitung zur Wortlehre, Nominalkomposition 1906; III. Nominalflexion, Zahlwort, Pronomen 1903; Register 1964. | printed "II. I" (cf. DeBRU.: Band II. 2) |
 | Aparā. | Aparārka | |
 | APTE | The Practical Sanskrit English Dictionary, Revised and Enlarged Edition, Poona 1957–1959. | |
 | Bhānu. | Bhānudatta | |
 | DBHS. | Buddhist Hybrid Sanskrit Dictionary, F. Edgerton, Indian Edition 1970. | |
-| DEBR. | Altindische Grammatik Band II. 2 Die Nominalsuffixe, A. Debrunner, Göttingen 1954. | |
+| DeBRU. | Altindische Grammatik Band II. 2 Die Nominalsuffixe, A. Debrunner, Göttingen 1954. | siglum as printed (mixed case); the volume's body cites DEBRU. |
 | DED. | A Dravidian Etymologival Dictionary, T. Burrow and M. B. Emeneau, Oxford 1961. | printed "Etymologival" for "Etymological" (IA OCR agrees) |
 | Dev. | Devabodha | |
 | Durg. | Durgasvāmin | |
@@ -90,7 +91,7 @@ by this file uses the **verified** leaf (139).
   [`check_frontmatter_pack.py`](../.github/scripts/check_frontmatter_pack.py).
 - Printed quirks are kept, not silently fixed: `Etymologival` (DED.), `herausgeben`
   (Ind. Spr.), `Kṣīrasvāmin-` with trailing hyphen, `II. I` for Band II.1 (AltGr.), and the
-  `MAYR.` reading `Wörterbueh` where the same page prints `Wörterbuch` three times.
+  `MAYR.` reading `Wörterbueh` where the same page prints `Wörterbuch` four times.
 - Source-image review status: transcription collated against the page image by the
   executing session (MiMo-V2.6-Pro, 10-11-2026); an independent-session review is the
   H7970 acceptance gate and is recorded with the delivery PR.

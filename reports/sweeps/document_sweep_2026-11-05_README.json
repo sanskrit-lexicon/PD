@@ -1,0 +1,882 @@
+{
+  "tool": "tools/document_check.py",
+  "skill": "/document",
+  "legacy_name": "/artifact-propagate",
+  "generated": "2026-11-05 20:58:43",
+  "artifacts": [
+    {
+      "artifact": "C:\\Users\\COMPUTER\\Documents\\GitHub\\PD\\README.md",
+      "repo": "C:\\Users\\COMPUTER\\Documents\\GitHub\\PD",
+      "kind": "doc",
+      "surfaces": [
+        {
+          "id": "readme",
+          "phase": 1,
+          "label": "README.md",
+          "scope": "repo",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\PD-h7739-6032\\README.md:27: files: this README, the sourced knowledge page ([`PD_KNOWLEDGE.md`](PD_KNOWLEDGE.md)), the session"
+        },
+        {
+          "id": "claude_md",
+          "phase": 1,
+          "label": "CLAUDE.md",
+          "scope": "repo",
+          "status": "n/a",
+          "evidence": "no agent-router contract touched; PD carries docs/AGENTS.md"
+        },
+        {
+          "id": "cold_start",
+          "phase": 1,
+          "label": "Cold-start doc (GEMINI.md / equivalent)",
+          "scope": "repo",
+          "status": "n/a",
+          "evidence": "no cold-start surface changed"
+        },
+        {
+          "id": "sibling_domain_docs",
+          "phase": 1,
+          "label": "Sibling domain docs (manual/roadmap/method docs)",
+          "scope": "repo",
+          "status": "n/a",
+          "evidence": "no manual/roadmap/method doc touched"
+        },
+        {
+          "id": "metadoc",
+          "phase": 1,
+          "label": "Metadoc (<name>.meta.md)",
+          "scope": "repo",
+          "status": "n/a",
+          "evidence": "plain doc truth edits; no metadoc layer in PD"
+        },
+        {
+          "id": "changelog",
+          "phase": 1,
+          "label": "CHANGELOG.md -> release (/cut-release)",
+          "scope": "repo",
+          "status": "n/a",
+          "evidence": "PD changelog lives at docs/CHANGELOG.md since R7 (9811a4a); the [Unreleased] entry added here IS the changelog state; release cut parked (PR #38 open, human merge; tagging parked per R7 DOI reconciliation)"
+        },
+        {
+          "id": "ai_state",
+          "phase": 1,
+          "label": ".ai_state.md",
+          "scope": "repo",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\PD-h7739-6032\\.ai_state.md:7: - [ ] @WAITING rebase `chore/root-restructure` onto main after PR #30 (README figure) merges — README/CHANGELOG overlap; then the PR is ready for human merge. A"
+        },
+        {
+          "id": "issues",
+          "phase": 1,
+          "label": "Issues (per-person task issues)",
+          "scope": "repo",
+          "status": "n/a",
+          "evidence": "single four-file docs PR; no per-person task split"
+        },
+        {
+          "id": "gtd",
+          "phase": 2,
+          "label": "Uprava/GTD_NEXT_ACTIONS.md",
+          "scope": "org",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\Uprava\\GTD_NEXT_ACTIONS.md:26: - agent lane `@DO` (S, since 01-11-2026) — **P4 H7637 documentation corrections once MG rules**: correct the false \"zero commits\" bullet and the reversed TCP-sp"
+        },
+        {
+          "id": "handoffs_registry",
+          "phase": 2,
+          "label": "Uprava/handoffs/README.md",
+          "scope": "org",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\Uprava\\handoffs\\README.md:129: | H7574 | — | [H7574-GLM_PD_pd-readme-fig5_31.10.26](https://github.com/gasyoun/Uprava/blob/main/handoffs/H7574-GLM_PD_pd-readme-fig5_31.10.26.md) | PD | 🔵 CLAI"
+        },
+        {
+          "id": "features_index",
+          "phase": 2,
+          "label": "SanskritLexicography/FEATURES_INDEX.md",
+          "scope": "org",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\SanskritLexicography\\FEATURES_INDEX.md:122: | 🟢 E42 | Kompozity `names.csv` | DCS proper-name compound (samāsa) splits with frequency vectors: surface form; constituent-stem split; part count; total corpu"
+        },
+        {
+          "id": "reuse_index",
+          "phase": 2,
+          "label": "Uprava/REUSE_INDEX.md (reusable assets)",
+          "scope": "org",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\Uprava\\REUSE_INDEX.md:42: | H6889 [netpath probe](https://github.com/gasyoun/Uprava/blob/main/tools/netpath_probe.py), [rotator](https://github.com/gasyoun/Uprava/blob/main/deploy/macboo"
+        },
+        {
+          "id": "kosha_manifest",
+          "phase": 2,
+          "label": "kosha/data/manifest/datasets.json",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "not a derived dataset"
+        },
+        {
+          "id": "data_layers_census",
+          "phase": 2,
+          "label": "Uprava/DATA_LAYERS_CENSUS.md",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "not large/local-only data (risk) and no open statistics cell to close"
+        },
+        {
+          "id": "project_interlinks",
+          "phase": 2,
+          "label": "Uprava/PROJECT_INTERLINKS.md",
+          "scope": "org",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\Uprava\\PROJECT_INTERLINKS.md:823: - [`README.md`](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/data/pd/README.md) — family provenance + builder map for the 15 machine-readable files ("
+        },
+        {
+          "id": "skills_index",
+          "phase": 2,
+          "label": "root SKILLS_INDEX.md",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "artifact is not itself a skill/command"
+        },
+        {
+          "id": "articles",
+          "phase": 2,
+          "label": "Uprava/ARTICLES.md",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "artifact is not a paper (delegate to /articles-update when it is)"
+        },
+        {
+          "id": "danger_facts",
+          "phase": 2,
+          "label": "Uprava/DANGER_FACTS.md + context_facts.yaml",
+          "scope": "org",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\Uprava\\DANGER_FACTS.md:45: | **H2699 (16-08-2026): тела стенограмм сняты с tip Uprava.** Живут в приватном sibling [gasyoun/Uprava-stenogrammy-private](https://github.com/gasyoun/Uprava-s"
+        },
+        {
+          "id": "questions_log",
+          "phase": 2,
+          "label": "Uprava/QUESTIONS_LOG.md",
+          "scope": "org",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\Uprava\\QUESTIONS_LOG.md:112: | Q2607-24 | 10-07-2026 | 09-08-2026 | PROCESS-META | CommentaryStrategies | «А в X (MANUAL / README / CLAUDE.md / GEMINI / ROADMAP / GTD / .ai_state / FEATURES"
+        },
+        {
+          "id": "megabook",
+          "phase": 2,
+          "label": "Uprava/MEGABOOK.md",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "thesis-only surface; adds no thesis claim"
+        },
+        {
+          "id": "skills_manual_ru",
+          "phase": 2,
+          "label": "Uprava/SKILLS_MANUAL_RU.md",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "no skill/tool contract changed"
+        },
+        {
+          "id": "hooks_index",
+          "phase": 2,
+          "label": "claude-config HOOKS_INDEX.md",
+          "scope": "org",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\claude-config\\HOOKS_INDEX.md:5: | [shunt_codex_check.py](https://github.com/gasyoun/opencode-config/blob/main/shunt/shunt_codex_check.py) | Bash (Codex PreToolUse) | 🛑 | open | the SAME 350-li"
+        },
+        {
+          "id": "repo_status_rollup",
+          "phase": 2,
+          "label": "Uprava/REPO_STATUS_ROLLUP.md",
+          "scope": "org",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\Uprava\\REPO_STATUS_ROLLUP.md:193: **Done (30-08-2026):** instruction-estate reforms P1+P3+P5 ([H3720](https://github.com/gasyoun/Uprava/blob/main/handoffs/archive/H3720-OxAlpha_claude-config_ins"
+        },
+        {
+          "id": "hub_manifest",
+          "phase": 2,
+          "label": "Uprava/tools/hub_manifest.json",
+          "scope": "org",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\Uprava\\tools\\hub_manifest.json:26: \"path\": \"handoffs/README.md\","
+        },
+        {
+          "id": "auto_derived_views",
+          "phase": 2,
+          "label": "Auto-derived views (NEXT_UP/BOTTLENECKS/kanban/dashboards/HUB_STALENESS_REPORT)",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "auto -- never hand-edit; verify their SOURCES carry the change instead"
+        },
+        {
+          "id": "epistemic_registries",
+          "phase": 2,
+          "label": "FINDINGS x2 + 7 epistemic registries (ASSUMPTIONS/CONTRADICTIONS/GAPS/DEAD_ENDS/RECIPES/STALENESS/GLOSSARY, Uprava + SanskritLexicography)",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "no new premise: restore + dormancy already in DECISIONS R7 caveats"
+        }
+      ],
+      "worktree_artifact": "C:\\Users\\COMPUTER\\Documents\\GitHub\\PD-h7739-6032\\README.md",
+      "worktree": "C:\\Users\\COMPUTER\\Documents\\GitHub\\PD-h7739-6032"
+    },
+    {
+      "artifact": "C:\\Users\\COMPUTER\\Documents\\GitHub\\PD\\docs\\CHANGELOG.md",
+      "repo": "C:\\Users\\COMPUTER\\Documents\\GitHub\\PD",
+      "kind": "doc",
+      "surfaces": [
+        {
+          "id": "readme",
+          "phase": 1,
+          "label": "README.md",
+          "scope": "repo",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\PD-h7739-6032\\README.md:30: license ([`LICENSE`](docs/LICENSE)), changelog ([`CHANGELOG.md`](docs/CHANGELOG.md) — cut"
+        },
+        {
+          "id": "claude_md",
+          "phase": 1,
+          "label": "CLAUDE.md",
+          "scope": "repo",
+          "status": "n/a",
+          "evidence": "no agent-router contract touched; PD carries docs/AGENTS.md"
+        },
+        {
+          "id": "cold_start",
+          "phase": 1,
+          "label": "Cold-start doc (GEMINI.md / equivalent)",
+          "scope": "repo",
+          "status": "n/a",
+          "evidence": "no cold-start surface changed"
+        },
+        {
+          "id": "sibling_domain_docs",
+          "phase": 1,
+          "label": "Sibling domain docs (manual/roadmap/method docs)",
+          "scope": "repo",
+          "status": "n/a",
+          "evidence": "no manual/roadmap/method doc touched"
+        },
+        {
+          "id": "metadoc",
+          "phase": 1,
+          "label": "Metadoc (<name>.meta.md)",
+          "scope": "repo",
+          "status": "n/a",
+          "evidence": "plain doc truth edits; no metadoc layer in PD"
+        },
+        {
+          "id": "changelog",
+          "phase": 1,
+          "label": "CHANGELOG.md -> release (/cut-release)",
+          "scope": "repo",
+          "status": "n/a",
+          "evidence": "PD changelog lives at docs/CHANGELOG.md since R7 (9811a4a); the [Unreleased] entry added here IS the changelog state; release cut parked (PR #38 open, human merge; tagging parked per R7 DOI reconciliation)"
+        },
+        {
+          "id": "ai_state",
+          "phase": 1,
+          "label": ".ai_state.md",
+          "scope": "repo",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\PD-h7739-6032\\.ai_state.md:7: - [ ] @WAITING rebase `chore/root-restructure` onto main after PR #30 (README figure) merges — README/CHANGELOG overlap; then the PR is ready for human merge. A"
+        },
+        {
+          "id": "issues",
+          "phase": 1,
+          "label": "Issues (per-person task issues)",
+          "scope": "repo",
+          "status": "n/a",
+          "evidence": "single four-file docs PR; no per-person task split"
+        },
+        {
+          "id": "gtd",
+          "phase": 2,
+          "label": "Uprava/GTD_NEXT_ACTIONS.md",
+          "scope": "org",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\Uprava\\GTD_NEXT_ACTIONS.md:111: - agent `@DO` (~15 мин, since 01-11-2026) — **H7629 close residual: cut_release 0.195.545 blocked: changelog_queue h7615-close + h7616-close fragments reference"
+        },
+        {
+          "id": "handoffs_registry",
+          "phase": 2,
+          "label": "Uprava/handoffs/README.md",
+          "scope": "org",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\Uprava\\handoffs\\README.md:130: | H7449 | — | [H7449-GLM_claude-config_changelog-queue-scaffold-pollution_29.10.26](https://github.com/gasyoun/Uprava/blob/main/handoffs/H7449-GLM_claude-config"
+        },
+        {
+          "id": "features_index",
+          "phase": 2,
+          "label": "SanskritLexicography/FEATURES_INDEX.md",
+          "scope": "org",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\SanskritLexicography\\FEATURES_INDEX.md:17: Данные/Словари/Интерфейсы/Инструменты/Changelog + status/size-tier/language filters),"
+        },
+        {
+          "id": "reuse_index",
+          "phase": 2,
+          "label": "Uprava/REUSE_INDEX.md (reusable assets)",
+          "scope": "org",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\Uprava\\REUSE_INDEX.md:411: | Wordstat keyword rounds feed samskrtam.ru SEO (H5127 night-SEO-growth lane: 17-cluster keyword table, GSC 92d + Yandex suggest; WordStat API blocked on OAuth "
+        },
+        {
+          "id": "kosha_manifest",
+          "phase": 2,
+          "label": "kosha/data/manifest/datasets.json",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "not a derived dataset"
+        },
+        {
+          "id": "data_layers_census",
+          "phase": 2,
+          "label": "Uprava/DATA_LAYERS_CENSUS.md",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "not large/local-only data (risk) and no open statistics cell to close"
+        },
+        {
+          "id": "project_interlinks",
+          "phase": 2,
+          "label": "Uprava/PROJECT_INTERLINKS.md",
+          "scope": "org",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\Uprava\\PROJECT_INTERLINKS.md:2019: - `AfanasiyNikitin,AMAR,BookIndex,BOP,claude-config,CommentaryStrategies,csl-apidev,csl-app,csl-atlas,csl-corrections,csl-guides,csl-observatory,KNA,kosha,MWS,R"
+        },
+        {
+          "id": "skills_index",
+          "phase": 2,
+          "label": "root SKILLS_INDEX.md",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "artifact is not itself a skill/command"
+        },
+        {
+          "id": "articles",
+          "phase": 2,
+          "label": "Uprava/ARTICLES.md",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "artifact is not a paper (delegate to /articles-update when it is)"
+        },
+        {
+          "id": "danger_facts",
+          "phase": 2,
+          "label": "Uprava/DANGER_FACTS.md + context_facts.yaml",
+          "scope": "org",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\Uprava\\DANGER_FACTS.md:60: | **A `[Unreleased]`-anchored commit built off a base predating a release promotion can silently DELETE an already-tagged, already-released `## [x.y.z]` CHANGEL"
+        },
+        {
+          "id": "questions_log",
+          "phase": 2,
+          "label": "Uprava/QUESTIONS_LOG.md",
+          "scope": "org",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\Uprava\\QUESTIONS_LOG.md:112: | Q2607-24 | 10-07-2026 | 09-08-2026 | PROCESS-META | CommentaryStrategies | «А в X (MANUAL / README / CLAUDE.md / GEMINI / ROADMAP / GTD / .ai_state / FEATURES"
+        },
+        {
+          "id": "megabook",
+          "phase": 2,
+          "label": "Uprava/MEGABOOK.md",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "thesis-only surface; adds no thesis claim"
+        },
+        {
+          "id": "skills_manual_ru",
+          "phase": 2,
+          "label": "Uprava/SKILLS_MANUAL_RU.md",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "no skill/tool contract changed"
+        },
+        {
+          "id": "hooks_index",
+          "phase": 2,
+          "label": "claude-config HOOKS_INDEX.md",
+          "scope": "org",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\claude-config\\HOOKS_INDEX.md:57: | [pretooluse_premortem_landing_gate.py](https://github.com/gasyoun/claude-config/blob/main/hooks/pretooluse_premortem_landing_gate.py) | Bash·PowerShell | 🛑 | "
+        },
+        {
+          "id": "repo_status_rollup",
+          "phase": 2,
+          "label": "Uprava/REPO_STATUS_ROLLUP.md",
+          "scope": "org",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\Uprava\\REPO_STATUS_ROLLUP.md:36: - **H3992 (Sonnet 5 `claude-sonnet-5`, 03-09-2026) — append-only released-heading changelog guard landed (2/3 deploy-row files had never arrived).** [`scripts/c"
+        },
+        {
+          "id": "hub_manifest",
+          "phase": 2,
+          "label": "Uprava/tools/hub_manifest.json",
+          "scope": "org",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\Uprava\\tools\\hub_manifest.json:410: \"id\": \"uprava-changelog\","
+        },
+        {
+          "id": "auto_derived_views",
+          "phase": 2,
+          "label": "Auto-derived views (NEXT_UP/BOTTLENECKS/kanban/dashboards/HUB_STALENESS_REPORT)",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "auto -- never hand-edit; verify their SOURCES carry the change instead"
+        },
+        {
+          "id": "epistemic_registries",
+          "phase": 2,
+          "label": "FINDINGS x2 + 7 epistemic registries (ASSUMPTIONS/CONTRADICTIONS/GAPS/DEAD_ENDS/RECIPES/STALENESS/GLOSSARY, Uprava + SanskritLexicography)",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "no new premise: restore + dormancy already in DECISIONS R7 caveats"
+        }
+      ],
+      "worktree_artifact": "C:\\Users\\COMPUTER\\Documents\\GitHub\\PD-h7739-6032\\docs\\CHANGELOG.md",
+      "worktree": "C:\\Users\\COMPUTER\\Documents\\GitHub\\PD-h7739-6032"
+    },
+    {
+      "artifact": "C:\\Users\\COMPUTER\\Documents\\GitHub\\PD\\docs\\DECISIONS_ROOT_RESTRUCTURE_2026-10-31.md",
+      "repo": "C:\\Users\\COMPUTER\\Documents\\GitHub\\PD",
+      "kind": "doc",
+      "surfaces": [
+        {
+          "id": "readme",
+          "phase": 1,
+          "label": "README.md",
+          "scope": "repo",
+          "status": "n/a",
+          "evidence": "self-referential surface: the artifact IS README.md — a self-mention cannot exist by construction"
+        },
+        {
+          "id": "claude_md",
+          "phase": 1,
+          "label": "CLAUDE.md",
+          "scope": "repo",
+          "status": "n/a",
+          "evidence": "no agent-router contract touched; PD carries docs/AGENTS.md"
+        },
+        {
+          "id": "cold_start",
+          "phase": 1,
+          "label": "Cold-start doc (GEMINI.md / equivalent)",
+          "scope": "repo",
+          "status": "n/a",
+          "evidence": "no cold-start surface changed"
+        },
+        {
+          "id": "sibling_domain_docs",
+          "phase": 1,
+          "label": "Sibling domain docs (manual/roadmap/method docs)",
+          "scope": "repo",
+          "status": "n/a",
+          "evidence": "no manual/roadmap/method doc touched"
+        },
+        {
+          "id": "metadoc",
+          "phase": 1,
+          "label": "Metadoc (<name>.meta.md)",
+          "scope": "repo",
+          "status": "n/a",
+          "evidence": "plain doc truth edits; no metadoc layer in PD"
+        },
+        {
+          "id": "changelog",
+          "phase": 1,
+          "label": "CHANGELOG.md -> release (/cut-release)",
+          "scope": "repo",
+          "status": "n/a",
+          "evidence": "PD changelog lives at docs/CHANGELOG.md since R7 (9811a4a); the [Unreleased] entry added here IS the changelog state; release cut parked (PR #38 open, human merge; tagging parked per R7 DOI reconciliation)"
+        },
+        {
+          "id": "ai_state",
+          "phase": 1,
+          "label": ".ai_state.md",
+          "scope": "repo",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\PD-h7739-6032\\.ai_state.md:26: - 2026-10-31: convention-files move (MG ruling — R7 in `docs/DECISIONS_ROOT_RESTRUCTURE_2026-10-31.md`):"
+        },
+        {
+          "id": "issues",
+          "phase": 1,
+          "label": "Issues (per-person task issues)",
+          "scope": "repo",
+          "status": "n/a",
+          "evidence": "single four-file docs PR; no per-person task split"
+        },
+        {
+          "id": "gtd",
+          "phase": 2,
+          "label": "Uprava/GTD_NEXT_ACTIONS.md",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "no new @DO/@WAIT action — work is done and PR'd"
+        },
+        {
+          "id": "handoffs_registry",
+          "phase": 2,
+          "label": "Uprava/handoffs/README.md",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "auto since H1788 — close wrote the ✅ row + archive move (Uprava main 4f88134007)"
+        },
+        {
+          "id": "features_index",
+          "phase": 2,
+          "label": "SanskritLexicography/FEATURES_INDEX.md",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "no reusable feature shipped"
+        },
+        {
+          "id": "reuse_index",
+          "phase": 2,
+          "label": "Uprava/REUSE_INDEX.md (reusable assets)",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "no reusable tool/library asset shipped"
+        },
+        {
+          "id": "kosha_manifest",
+          "phase": 2,
+          "label": "kosha/data/manifest/datasets.json",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "not a derived dataset"
+        },
+        {
+          "id": "data_layers_census",
+          "phase": 2,
+          "label": "Uprava/DATA_LAYERS_CENSUS.md",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "not large/local-only data (risk) and no open statistics cell to close"
+        },
+        {
+          "id": "project_interlinks",
+          "phase": 2,
+          "label": "Uprava/PROJECT_INTERLINKS.md",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "no inter-project surface changed; PD-internal doc truth"
+        },
+        {
+          "id": "skills_index",
+          "phase": 2,
+          "label": "root SKILLS_INDEX.md",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "artifact is not itself a skill/command"
+        },
+        {
+          "id": "articles",
+          "phase": 2,
+          "label": "Uprava/ARTICLES.md",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "artifact is not a paper (delegate to /articles-update when it is)"
+        },
+        {
+          "id": "danger_facts",
+          "phase": 2,
+          "label": "Uprava/DANGER_FACTS.md + context_facts.yaml",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "no dangerous fact introduced; caveat documents a dormant (fail-open) guard"
+        },
+        {
+          "id": "questions_log",
+          "phase": 2,
+          "label": "Uprava/QUESTIONS_LOG.md",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "no open question minted; R7 caveats already parked to MG"
+        },
+        {
+          "id": "megabook",
+          "phase": 2,
+          "label": "Uprava/MEGABOOK.md",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "thesis-only surface; adds no thesis claim"
+        },
+        {
+          "id": "skills_manual_ru",
+          "phase": 2,
+          "label": "Uprava/SKILLS_MANUAL_RU.md",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "no skill/tool contract changed"
+        },
+        {
+          "id": "hooks_index",
+          "phase": 2,
+          "label": "claude-config HOOKS_INDEX.md",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "no hook contract touched"
+        },
+        {
+          "id": "repo_status_rollup",
+          "phase": 2,
+          "label": "Uprava/REPO_STATUS_ROLLUP.md",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "rollup derives from .ai_state.md (updated in the PR)"
+        },
+        {
+          "id": "hub_manifest",
+          "phase": 2,
+          "label": "Uprava/tools/hub_manifest.json",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "no tool or hub surface shipped"
+        },
+        {
+          "id": "auto_derived_views",
+          "phase": 2,
+          "label": "Auto-derived views (NEXT_UP/BOTTLENECKS/kanban/dashboards/HUB_STALENESS_REPORT)",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "auto -- never hand-edit; verify their SOURCES carry the change instead"
+        },
+        {
+          "id": "epistemic_registries",
+          "phase": 2,
+          "label": "FINDINGS x2 + 7 epistemic registries (ASSUMPTIONS/CONTRADICTIONS/GAPS/DEAD_ENDS/RECIPES/STALENESS/GLOSSARY, Uprava + SanskritLexicography)",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "no new premise: restore + dormancy already in DECISIONS R7 caveats"
+        }
+      ],
+      "worktree_artifact": "C:\\Users\\COMPUTER\\Documents\\GitHub\\PD-h7739-6032\\docs\\DECISIONS_ROOT_RESTRUCTURE_2026-10-31.md",
+      "worktree": "C:\\Users\\COMPUTER\\Documents\\GitHub\\PD-h7739-6032"
+    },
+    {
+      "artifact": "C:\\Users\\COMPUTER\\Documents\\GitHub\\PD\\.ai_state.md",
+      "repo": "C:\\Users\\COMPUTER\\Documents\\GitHub\\PD",
+      "kind": "doc",
+      "surfaces": [
+        {
+          "id": "readme",
+          "phase": 1,
+          "label": "README.md",
+          "scope": "repo",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\PD-h7739-6032\\README.md:28: journal ([`.ai_state.md`](.ai_state.md)) and citation metadata ([`CITATION.cff`](CITATION.cff))."
+        },
+        {
+          "id": "claude_md",
+          "phase": 1,
+          "label": "CLAUDE.md",
+          "scope": "repo",
+          "status": "n/a",
+          "evidence": "no agent-router contract touched; PD carries docs/AGENTS.md"
+        },
+        {
+          "id": "cold_start",
+          "phase": 1,
+          "label": "Cold-start doc (GEMINI.md / equivalent)",
+          "scope": "repo",
+          "status": "n/a",
+          "evidence": "no cold-start surface changed"
+        },
+        {
+          "id": "sibling_domain_docs",
+          "phase": 1,
+          "label": "Sibling domain docs (manual/roadmap/method docs)",
+          "scope": "repo",
+          "status": "n/a",
+          "evidence": "no manual/roadmap/method doc touched"
+        },
+        {
+          "id": "metadoc",
+          "phase": 1,
+          "label": "Metadoc (<name>.meta.md)",
+          "scope": "repo",
+          "status": "n/a",
+          "evidence": "plain doc truth edits; no metadoc layer in PD"
+        },
+        {
+          "id": "changelog",
+          "phase": 1,
+          "label": "CHANGELOG.md -> release (/cut-release)",
+          "scope": "repo",
+          "status": "n/a",
+          "evidence": "PD changelog lives at docs/CHANGELOG.md since R7 (9811a4a); the [Unreleased] entry added here IS the changelog state; release cut parked (PR #38 open, human merge; tagging parked per R7 DOI reconciliation)"
+        },
+        {
+          "id": "ai_state",
+          "phase": 1,
+          "label": ".ai_state.md",
+          "scope": "repo",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\PD-h7739-6032\\.ai_state.md:15: - 11-09-2026 (H4532, Opus 4.8 (claude-opus-4-8)): journal freshness pass — the H4501 context-management census flagged this ACTIVE repo as having a missing or >"
+        },
+        {
+          "id": "issues",
+          "phase": 1,
+          "label": "Issues (per-person task issues)",
+          "scope": "repo",
+          "status": "n/a",
+          "evidence": "single four-file docs PR; no per-person task split"
+        },
+        {
+          "id": "gtd",
+          "phase": 2,
+          "label": "Uprava/GTD_NEXT_ACTIONS.md",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "no new @DO/@WAIT action — work is done and PR'd"
+        },
+        {
+          "id": "handoffs_registry",
+          "phase": 2,
+          "label": "Uprava/handoffs/README.md",
+          "scope": "org",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\Uprava\\handoffs\\README.md:56: action on reading a handoff, before the model self-check or any `git log`/`.ai_state.md`"
+        },
+        {
+          "id": "features_index",
+          "phase": 2,
+          "label": "SanskritLexicography/FEATURES_INDEX.md",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "no reusable feature shipped"
+        },
+        {
+          "id": "reuse_index",
+          "phase": 2,
+          "label": "Uprava/REUSE_INDEX.md (reusable assets)",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "no reusable tool/library asset shipped"
+        },
+        {
+          "id": "kosha_manifest",
+          "phase": 2,
+          "label": "kosha/data/manifest/datasets.json",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "not a derived dataset"
+        },
+        {
+          "id": "data_layers_census",
+          "phase": 2,
+          "label": "Uprava/DATA_LAYERS_CENSUS.md",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "not large/local-only data (risk) and no open statistics cell to close"
+        },
+        {
+          "id": "project_interlinks",
+          "phase": 2,
+          "label": "Uprava/PROJECT_INTERLINKS.md",
+          "scope": "org",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\Uprava\\PROJECT_INTERLINKS.md:2033: - **REJECTED mention-noise — 17:** uprava→sanskrit ×869 · github-spine→sanskrit ×419 · ruwritingstyles→sanskrit ×223 · ors-faq→sanskrit ×188 — word-match on \"sa"
+        },
+        {
+          "id": "skills_index",
+          "phase": 2,
+          "label": "root SKILLS_INDEX.md",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "artifact is not itself a skill/command"
+        },
+        {
+          "id": "articles",
+          "phase": 2,
+          "label": "Uprava/ARTICLES.md",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "artifact is not a paper (delegate to /articles-update when it is)"
+        },
+        {
+          "id": "danger_facts",
+          "phase": 2,
+          "label": "Uprava/DANGER_FACTS.md + context_facts.yaml",
+          "scope": "org",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\Uprava\\DANGER_FACTS.md:62: | **A session reported that after one genuine `Read` of `Uprava/midway5.md`, every subsequent turn arrived wrapping fabricated `<historical_tool_results trust=\""
+        },
+        {
+          "id": "questions_log",
+          "phase": 2,
+          "label": "Uprava/QUESTIONS_LOG.md",
+          "scope": "org",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\Uprava\\QUESTIONS_LOG.md:110: | Q2607-155 | 28-07-2026 | 28-07-2026 | PROCESS-META | Uprava | «Как сделать так, чтобы попутно найденное (инциденты сессии) не повторялось?» — запрос на превен"
+        },
+        {
+          "id": "megabook",
+          "phase": 2,
+          "label": "Uprava/MEGABOOK.md",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "thesis-only surface; adds no thesis claim"
+        },
+        {
+          "id": "skills_manual_ru",
+          "phase": 2,
+          "label": "Uprava/SKILLS_MANUAL_RU.md",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "no skill/tool contract changed"
+        },
+        {
+          "id": "hooks_index",
+          "phase": 2,
+          "label": "claude-config HOOKS_INDEX.md",
+          "scope": "org",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\claude-config\\HOOKS_INDEX.md:62: | [pretooluse_collision_check.py](https://github.com/gasyoun/claude-config/blob/main/hooks/pretooluse_collision_check.py) | Write·Edit | ℹ️ | open | repos with "
+        },
+        {
+          "id": "repo_status_rollup",
+          "phase": 2,
+          "label": "Uprava/REPO_STATUS_ROLLUP.md",
+          "scope": "org",
+          "status": "present",
+          "evidence": "C:\\Users\\COMPUTER\\Documents\\GitHub\\Uprava\\REPO_STATUS_ROLLUP.md:11: Source: each repo's `.ai_state.md` (Next Steps + WIP) plus GTD rows tagged to that repo."
+        },
+        {
+          "id": "hub_manifest",
+          "phase": 2,
+          "label": "Uprava/tools/hub_manifest.json",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "no tool or hub surface shipped"
+        },
+        {
+          "id": "auto_derived_views",
+          "phase": 2,
+          "label": "Auto-derived views (NEXT_UP/BOTTLENECKS/kanban/dashboards/HUB_STALENESS_REPORT)",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "auto -- never hand-edit; verify their SOURCES carry the change instead"
+        },
+        {
+          "id": "epistemic_registries",
+          "phase": 2,
+          "label": "FINDINGS x2 + 7 epistemic registries (ASSUMPTIONS/CONTRADICTIONS/GAPS/DEAD_ENDS/RECIPES/STALENESS/GLOSSARY, Uprava + SanskritLexicography)",
+          "scope": "org",
+          "status": "n/a",
+          "evidence": "no new premise: restore + dormancy already in DECISIONS R7 caveats"
+        }
+      ],
+      "worktree_artifact": "C:\\Users\\COMPUTER\\Documents\\GitHub\\PD-h7739-6032\\.ai_state.md",
+      "worktree": "C:\\Users\\COMPUTER\\Documents\\GitHub\\PD-h7739-6032"
+    }
+  ],
+  "provenance": {
+    "host": "DESKTOP-8N57E9U",
+    "git_head": "24e9d72aa024cabaa8014cc8ab714229dd72dd5a",
+    "git_branch": "h7739-docs-truth-pass",
+    "handoff": "H7739"
+  }
+}
